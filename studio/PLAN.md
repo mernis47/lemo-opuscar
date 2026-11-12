@@ -51,6 +51,17 @@ Jedes lange Video endet mit einer Zuschauerfrage + „Folge Schattenchronik“. 
 - Aufrufe, Likes, Kommentare, Wiedergabedauer pro Video.
 - Wenn ein Video nach 7 Tagen deutlich unter dem Kanal-Durchschnitt liegt: Hook (erste 3 Sek.) stärker, Titel/Kapak provokanter, Themenrichtung wechseln (mehr Mystery vs. True Crime).
 
+## Paranormal (Wunsch des Kanalbesitzers: regelmäßig einbauen – mindestens jedes zweite Tag eines der beiden Videos)
+Streitfrage hier immer: "Echt oder Betrug?" / "Übernatürlich oder erklärbar?"
+P1. Der Spuk von Rosenheim (1967) – Anwaltskanzlei, Lampen schwingen, Telefonrechnungen, Annemarie Schaberl
+P2. Anneliese Michel (1976) – Exorzismus in Klingenberg, Tod, Prozess gegen Eltern und Priester ("Krankheit oder Besessenheit?")
+P3. Der Spuk "Chopper" von Neutraubling (1982) – Stimme in der Zahnarztpraxis
+P4. Der Enfield-Poltergeist (1977) – London, zwei Schwestern
+P5. Amityville (1974/75) – das Haus nach dem Mord
+P6. Borley Rectory – das "Spukhaus Englands"
+P7. Die Insel Poveglia – Pest, Irrenanstalt, Verbot
+P8. Die Glocke von Bell Witch (Tennessee, 1817)
+
 ## Zuschauerfrage (Erkenntnis 12.11.: beim Bachmeier-Video kam auf die Schlussfrage sofort ein Kommentar)
 - Jedes Video bekommt eine klare Streitfrage mit zwei Seiten (z. B. "Heldin oder Mörderin?", "Polizei oder Presse?").
 - Die Frage kommt dreimal: kurz im ersten Drittel ("Behalte diese Frage im Kopf: …"), am Ende gesprochen, und als erster Kommentar (Metricool firstCommentText) – dort mit zwei Antwort-Optionen.
@@ -61,4 +72,4 @@ Jedes lange Video endet mit einer Zuschauerfrage + „Folge Schattenchronik“. 
 - 12.11. 15:00 – Hinterkaifeck (hint_de + hint_short_de) – geplant in Metricool
 - 13.11. 05:00 – Dyatlov-Pass (dyat_de + dyat_short_de) – in Produktion (tools/run_episode.sh), Upload danach
 - 13.11. 15:00 – Gladbecker Geiseldrama (glad_de + glad_short_de) – in Warteschlange nach Dyatlov
-- Nächste Themen für die Nachtschicht: Wilhelm Gustloff, Kaspar Hauser (→ 14.11.)
+- Nächste Themen für die Nachtschicht: Der Spuk von Rosenheim (P1) + Wilhelm Gustloff (→ 14.11.), danach Anneliese Michel (P2) + Kaspar Hauser
