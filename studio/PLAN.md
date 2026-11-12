@@ -95,8 +95,8 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 
 ## Status (laufend aktualisieren)
 - 12.11. 15:00 – Hinterkaifeck (hint_de + hint_short_de) – geplant in Metricool
-- 13.11. 05:00 – Dyatlov-Pass (dyat_de + dyat_short_de) – in Produktion (tools/run_episode.sh), Upload danach
-- 13.11. 15:00 – Gladbecker Geiseldrama (glad_de + glad_short_de) – in Warteschlange nach Dyatlov
+- 13.11. 05:00 – Dyatlov-Pass (dyat_de + dyat_short_de) – geplant in Metricool
+- 13.11. 15:00 – Gladbecker Geiseldrama (glad_de + glad_short_de) – geplant in Metricool
 - Nacht 12./13.11. (→ 14.11.): K1 Gu-/Rattenkönig-Legende (05:00) + P1 Spuk von Rosenheim (15:00)
 - Danach weiter abwechselnd: D1 Nachricht um 3:07 + K5 Emu-Krieg, dann P2 Anneliese Michel + K2 Rattenjagd von Hanoi, dann Gustloff + K4 Spatzenkampagne …
 - Regel: nie zwei Videos mit gleichem Thema/Tier direkt hintereinander (z. B. nicht zwei Ratten-Videos nacheinander).
