@@ -62,6 +62,15 @@ P6. Borley Rectory – das "Spukhaus Englands"
 P7. Die Insel Poveglia – Pest, Irrenanstalt, Verbot
 P8. Die Glocke von Bell Witch (Tennessee, 1817)
 
+## Format 3: "Du-Geschichten" (Beobachtung des Kanalbesitzers: erfolgreiche Kanäle erzählen in der Du-Form mit Twist am Ende)
+- Erfundene Gruselgeschichte in der zweiten Person ("Du wachst um 3:07 Uhr auf …"), Gegenwart, viele kurze Sätze, langsam steigende Spannung, Ticker-Uhrzeiten als Kapitel, am Ende ein Twist (z. B. die Nachricht kommt von dir selbst).
+- Immer als Fiktion kennzeichnen (Titel-Zusatz oder Beschreibung: "Fiktive Geschichte").
+- Bilder in der Ich-Perspektive (POV): Hände, Handy-Display ohne lesbaren Text, dunkle Wohnung, Spiegel, Flur.
+- Streitfrage am Ende: "Hättest du die Tür geöffnet?" / "Was hättest du getan?"
+- Rhythmus: ca. jeden zweiten Tag ersetzt eine Du-Geschichte eines der beiden Videos; Shorts eignen sich besonders.
+- Ideen: D1 Die Nachricht um 3:07 (Absender bist du selbst) · D2 Der Nachbar, der jede Nacht klopft (es gibt keine Wohnung nebenan) · D3 Das Babyfon empfängt eine zweite Stimme · D4 Die letzte U-Bahn hält an einer Station, die es nicht gibt · D5 Dein Spiegelbild blinzelt zu spät · D6 Die Mitbewohnerin, die seit einer Woche nicht mehr spricht · D7 Das Foto in deiner Galerie, das du nie gemacht hast · D8 Der Anruf von deiner eigenen Nummer
+- Auch echte Fälle können mit einer kurzen Du-Szene beginnen ("Stell dir vor, du bist …").
+
 ## Zuschauerfrage (Erkenntnis 12.11.: beim Bachmeier-Video kam auf die Schlussfrage sofort ein Kommentar)
 - Jedes Video bekommt eine klare Streitfrage mit zwei Seiten (z. B. "Heldin oder Mörderin?", "Polizei oder Presse?").
 - Die Frage kommt dreimal: kurz im ersten Drittel ("Behalte diese Frage im Kopf: …"), am Ende gesprochen, und als erster Kommentar (Metricool firstCommentText) – dort mit zwei Antwort-Optionen.
@@ -72,4 +81,4 @@ P8. Die Glocke von Bell Witch (Tennessee, 1817)
 - 12.11. 15:00 – Hinterkaifeck (hint_de + hint_short_de) – geplant in Metricool
 - 13.11. 05:00 – Dyatlov-Pass (dyat_de + dyat_short_de) – in Produktion (tools/run_episode.sh), Upload danach
 - 13.11. 15:00 – Gladbecker Geiseldrama (glad_de + glad_short_de) – in Warteschlange nach Dyatlov
-- Nächste Themen für die Nachtschicht: Der Spuk von Rosenheim (P1) + Wilhelm Gustloff (→ 14.11.), danach Anneliese Michel (P2) + Kaspar Hauser
+- Nächste Themen für die Nachtschicht: Der Spuk von Rosenheim (P1) + Du-Geschichte D1 "Die Nachricht um 3:07" (→ 14.11.), danach Anneliese Michel (P2) + Wilhelm Gustloff, dann D2 + Kaspar Hauser
