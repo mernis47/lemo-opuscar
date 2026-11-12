@@ -1,0 +1,581 @@
+{
+ "id": "hint_de",
+ "lang": "de",
+ "style": "reel",
+ "widescreen": true,
+ "shots": true,
+ "pad_default": 0.45,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "h01",
+   "text": "Sechs Menschen. Eine Nacht. Und der Mörder blieb danach noch tagelang auf dem Hof.",
+   "img": "img/H01.jpg",
+   "prompt": "A lonely snow-covered farmstead at night, one dim window lit, dark forest behind, ominous, 1920s rural Bavaria, Germany",
+   "sfx": "sting"
+  },
+  {
+   "scene": "h02",
+   "text": "Er fütterte das Vieh. Er heizte den Ofen. Er aß ihr Essen.",
+   "img": "img/H02.jpg",
+   "prompt": "A dark farmhouse kitchen, a shadowy figure at a wood stove with a plate of bread, face hidden, 1920s"
+  },
+  {
+   "scene": "h03",
+   "text": "Gefunden wurde er nie.",
+   "img": "img/H03.jpg",
+   "prompt": "Silhouette of a man walking away into a misty forest at dawn, seen from behind, 1920s"
+  },
+  {
+   "scene": "h04",
+   "text": "Das ist die Geschichte von Hinterkaifeck. Der rätselhafteste Mordfall Deutschlands.",
+   "img": "img/H04.jpg",
+   "prompt": "Wide shot of the isolated Hinterkaifeck farm with barn and farmhouse in grey winter light, crows in the sky, Bavaria 1922"
+  },
+  {
+   "scene": "h05",
+   "text": "Bayern, Frühjahr 1922. Etwa siebzig Kilometer nördlich von München.",
+   "img": "img/H05.jpg",
+   "prompt": "Rolling Bavarian countryside in early spring, melting snow, small villages and a church tower, 1922",
+   "say": "Bayern, Frühjahr neunzehnhundertzweiundzwanzig. Etwa siebzig Kilometer nördlich von München."
+  },
+  {
+   "scene": "h06",
+   "text": "Ein einsamer Hof, versteckt am Waldrand. Die Leute nennen ihn Hinterkaifeck.",
+   "img": "img/H06.jpg",
+   "prompt": "An isolated farmstead at the edge of a dark forest, muddy path leading to it, 1920s Bavaria"
+  },
+  {
+   "scene": "h07",
+   "text": "Hier lebt die Familie Gruber. Andreas, dreiundsechzig. Ein harter, verschlossener Bauer.",
+   "img": "img/H07.jpg",
+   "prompt": "Portrait of a stern 63-year-old Bavarian farmer with a grey moustache and work clothes, standing in a farmyard, 1920s"
+  },
+  {
+   "scene": "h08",
+   "text": "Seine Frau Cäzilia, zweiundsiebzig.",
+   "img": "img/H08.jpg",
+   "prompt": "An elderly Bavarian farm woman of 72 with a headscarf, tired eyes, sitting by a window, 1920s"
+  },
+  {
+   "scene": "h09",
+   "text": "Ihre Tochter Viktoria, fünfunddreißig. Witwe. Ihr Mann ist im Krieg gefallen.",
+   "img": "img/H09.jpg",
+   "prompt": "A 35-year-old Bavarian widow in a dark dress holding a framed photo of a soldier, sad expression, 1920s"
+  },
+  {
+   "scene": "h10",
+   "text": "Und Viktorias Kinder: die kleine Cäzilia, sieben Jahre alt, und Josef, gerade zwei.",
+   "img": "img/H10.jpg",
+   "prompt": "A 7-year-old girl with braids holding hands with a 2-year-old boy in a farmhouse doorway, 1920s Bavaria"
+  },
+  {
+   "scene": "h11",
+   "text": "Nach außen eine gewöhnliche Bauernfamilie. Doch im Dorf wird getuschelt.",
+   "img": "img/H11.jpg",
+   "prompt": "Villagers whispering together in front of a small Bavarian church, glancing suspiciously, 1920s"
+  },
+  {
+   "scene": "h12",
+   "text": "Vater und Tochter wurden Jahre zuvor verurteilt. Wegen Blutschande.",
+   "img": "img/H12.jpg",
+   "prompt": "An old 1910s Bavarian courtroom, a farmer and his daughter standing before a judge, dim light"
+  },
+  {
+   "scene": "h13",
+   "text": "Man meidet die Grubers. Und die Grubers meiden die anderen.",
+   "img": "img/H13.jpg",
+   "prompt": "A farmer closing a heavy wooden gate in front of curious neighbours, 1920s rural Bavaria"
+  },
+  {
+   "scene": "h14",
+   "text": "Im Herbst 1921 kündigt plötzlich die Magd.",
+   "img": "img/H14.jpg",
+   "prompt": "A young maid with a suitcase hurrying away from a farmhouse along a muddy road, looking back in fear, autumn 1921",
+   "say": "Im Herbst neunzehnhunderteinundzwanzig kündigt plötzlich die Magd."
+  },
+  {
+   "scene": "h15",
+   "text": "Sie sagt: In diesem Haus spukt es. Nachts höre sie Schritte auf dem Dachboden.",
+   "img": "img/H15.jpg",
+   "prompt": "A dark farmhouse attic with wooden beams, faint footprints in dust, a sliver of moonlight, eerie"
+  },
+  {
+   "scene": "h16",
+   "text": "Monatelang findet die Familie keine neue Magd.",
+   "img": "img/H16.jpg",
+   "prompt": "An empty maid's room in a farmhouse, a bare bed and a small window, cold light, 1920s"
+  },
+  {
+   "scene": "h17",
+   "text": "Dann, im März 1922, passieren seltsame Dinge.",
+   "img": "img/H17.jpg",
+   "prompt": "A farmhouse at dusk in late winter, an unnatural silence, long shadows across the snow",
+   "say": "Dann, im März neunzehnhundertzweiundzwanzig, passieren seltsame Dinge."
+  },
+  {
+   "scene": "h18",
+   "text": "Andreas Gruber findet Fußspuren im Schnee. Sie führen vom Wald zum Hof.",
+   "img": "img/H18.jpg",
+   "prompt": "Close-up of fresh boot prints in snow leading from the forest toward a farmhouse, 1920s"
+  },
+  {
+   "scene": "h19",
+   "text": "Aber keine Spuren führen zurück.",
+   "img": "img/H19.jpg",
+   "prompt": "A farmer staring down at footprints in the snow that only lead one way, worried expression, forest behind"
+  },
+  {
+   "scene": "h20",
+   "text": "Am Werkzeugschuppen ist das Schloss aufgebrochen.",
+   "img": "img/H20.jpg",
+   "prompt": "A broken padlock hanging on the door of an old wooden tool shed, splinters, 1920s farm"
+  },
+  {
+   "scene": "h21",
+   "text": "Ein Hausschlüssel ist verschwunden.",
+   "img": "img/H21.jpg",
+   "prompt": "An empty key hook on a farmhouse wall beside a kerosene lamp, dramatic shadow"
+  },
+  {
+   "scene": "h22",
+   "text": "Und auf dem Hof liegt eine Münchner Zeitung. Niemand in der Familie hat sie gekauft.",
+   "img": "img/H22.jpg",
+   "prompt": "A folded 1922 Munich newspaper lying on a wooden bench in a farmyard, mysterious"
+  },
+  {
+   "scene": "h23",
+   "text": "Nachts hört Andreas Schritte über sich. Auf dem Dachboden.",
+   "img": "img/H23.jpg",
+   "prompt": "An old farmer lying awake in bed at night, eyes wide, staring at the wooden ceiling, candlelight"
+  },
+  {
+   "scene": "h24",
+   "text": "Er steigt mit der Lampe hinauf. Er sucht. Er findet niemanden.",
+   "img": "img/H24.jpg",
+   "prompt": "A farmer climbing a steep wooden ladder into a dark attic holding a kerosene lantern, 1920s"
+  },
+  {
+   "scene": "h25",
+   "text": "Im Dorf erzählt er davon. Nachbarn bieten ihm Hilfe an.",
+   "img": "img/H25.jpg",
+   "prompt": "A farmer talking to two neighbours at a village inn table with beer mugs, 1920s Bavaria"
+  },
+  {
+   "scene": "h26",
+   "text": "Doch Andreas lehnt ab. Er habe ein Gewehr. Er komme allein zurecht.",
+   "img": "img/H26.jpg",
+   "prompt": "A stubborn old farmer holding a hunting rifle, standing in his doorway, refusing help"
+  },
+  {
+   "scene": "h27",
+   "text": "Am Freitag, dem 31. März 1922, kommt endlich eine neue Magd.",
+   "img": "img/H27.jpg",
+   "prompt": "A 44-year-old woman with a small bundle arriving at a farm gate in the late afternoon, 1922",
+   "say": "Am Freitag, dem einunddreißigsten März neunzehnhundertzweiundzwanzig, kommt endlich eine neue Magd."
+  },
+  {
+   "scene": "h28",
+   "text": "Maria Baumgartner, vierundvierzig Jahre alt. Ihre Schwester bringt sie bis zum Hof.",
+   "img": "img/H28.jpg",
+   "prompt": "Two sisters saying goodbye at the edge of a farmyard, one carrying a bag, grey afternoon"
+  },
+  {
+   "scene": "h29",
+   "text": "Es ist ihr erster Tag. Sie wird ihn nicht überleben.",
+   "img": "img/H29.jpg",
+   "prompt": "A maid unpacking her few belongings in a small farmhouse room, unaware, ominous shadow in the doorway"
+  },
+  {
+   "scene": "h30",
+   "text": "Was in dieser Nacht geschieht, weiß bis heute niemand genau.",
+   "img": "img/H30.jpg",
+   "prompt": "The farmhouse at night under a full moon, all windows dark, a thin mist across the yard"
+  },
+  {
+   "scene": "h31",
+   "text": "Die Ermittler rekonstruieren später: Etwas lockt die Familie in den Stall.",
+   "img": "img/H31.jpg",
+   "prompt": "Interior of a dark barn at night, a lantern on a hook, cows restless, a door slightly open"
+  },
+  {
+   "scene": "h32",
+   "text": "Vielleicht ein Geräusch. Vielleicht das unruhige Vieh.",
+   "img": "img/H32.jpg",
+   "prompt": "Restless cows in a dark barn, eyes reflecting lantern light, tension"
+  },
+  {
+   "scene": "h33",
+   "text": "Einer nach dem anderen geht hinaus. Und keiner kommt zurück.",
+   "img": "img/H33.jpg",
+   "prompt": "A lantern lying on the straw floor of a barn, door ajar, the darkness beyond, no people visible"
+  },
+  {
+   "scene": "h34",
+   "text": "Andreas. Cäzilia. Viktoria. Und die kleine Cäzilia.",
+   "img": "img/H34.jpg",
+   "prompt": "Four empty wooden chairs around a farmhouse kitchen table, a half-eaten supper, a candle burned down"
+  },
+  {
+   "scene": "h35",
+   "text": "Im Haus sterben danach die Magd in ihrer Kammer. Und der kleine Josef in seinem Kinderwagen.",
+   "img": "img/H35.jpg",
+   "prompt": "An empty wicker baby carriage in a dark farmhouse room, moonlight through the window, no person shown"
+  },
+  {
+   "scene": "h36",
+   "text": "Die Tatwaffe: eine Reuthaue. Eine Hacke, wie sie jeder Bauer besitzt.",
+   "img": "img/H36.jpg",
+   "prompt": "An old farm mattock leaning against a wooden wall in a barn, shadowy, no blood"
+  },
+  {
+   "scene": "h37",
+   "text": "Dann wird es still auf Hinterkaifeck.",
+   "img": "img/H37.jpg",
+   "prompt": "The silent farmstead in the early morning fog, no movement, crows on the roof"
+  },
+  {
+   "scene": "h38",
+   "text": "Doch der Mörder geht nicht.",
+   "img": "img/H38.jpg",
+   "prompt": "A dark figure standing at an upstairs farmhouse window, looking out over the yard, face unseen"
+  },
+  {
+   "scene": "h39",
+   "text": "Am Wochenende sehen Nachbarn Rauch aus dem Kamin.",
+   "img": "img/H39.jpg",
+   "prompt": "Smoke rising from the chimney of an isolated farmhouse, neighbours watching from a distant field"
+  },
+  {
+   "scene": "h40",
+   "text": "Das Vieh wird gefüttert. Jemand isst vom Brot und vom Fleisch der Familie.",
+   "img": "img/H40.jpg",
+   "prompt": "Cows eating fresh hay in a barn, a bucket of water placed neatly, nobody around"
+  },
+  {
+   "scene": "h41",
+   "text": "Am Samstag fehlt die kleine Cäzilia in der Schule.",
+   "img": "img/H41.jpg",
+   "prompt": "An empty desk in a 1920s village school classroom, a teacher looking at it, other children turning around",
+   "say": "Am Samstag fehlt die kleine Cäzilia in der Schule."
+  },
+  {
+   "scene": "h42",
+   "text": "Am Sonntag sitzt niemand von den Grubers in der Kirche.",
+   "img": "img/H42.jpg",
+   "prompt": "A Bavarian village church interior during Sunday mass, an empty pew in the front row"
+  },
+  {
+   "scene": "h43",
+   "text": "Der Postbote klopft. Niemand öffnet.",
+   "img": "img/H43.jpg",
+   "prompt": "A 1920s postman with a leather bag knocking on the closed door of a farmhouse"
+  },
+  {
+   "scene": "h44",
+   "text": "Am Dienstag, dem 4. April, gehen Nachbarn zum Hof.",
+   "img": "img/H44.jpg",
+   "prompt": "Three Bavarian men in coats and hats walking up a muddy path toward a silent farm, uneasy",
+   "say": "Am Dienstag, dem vierten April, gehen Nachbarn zum Hof."
+  },
+  {
+   "scene": "h45",
+   "text": "Unter ihnen: Lorenz Schlittenbauer. Ein Bauer aus dem Ort.",
+   "img": "img/H45.jpg",
+   "prompt": "Portrait of a Bavarian farmer in his forties with a hat and a hard face, 1920s"
+  },
+  {
+   "scene": "h46",
+   "text": "Sie öffnen das Scheunentor.",
+   "img": "img/H46.jpg",
+   "prompt": "A heavy wooden barn door being pushed open, a beam of daylight falling into darkness"
+  },
+  {
+   "scene": "h47",
+   "text": "Unter einer Tür und einem Haufen Stroh finden sie vier Tote.",
+   "img": "img/H47.jpg",
+   "prompt": "Men in a barn recoiling in horror, faces shocked, the scene itself hidden behind straw and an old door, no gore"
+  },
+  {
+   "scene": "h48",
+   "text": "Im Haus finden sie die Magd. Und den kleinen Josef.",
+   "img": "img/H48.jpg",
+   "prompt": "A man standing frozen in a dark farmhouse doorway, hand over his mouth, the room beyond in shadow"
+  },
+  {
+   "scene": "h49",
+   "text": "Die Nachricht verbreitet sich wie ein Lauffeuer.",
+   "img": "img/H49.jpg",
+   "prompt": "Villagers running across a field toward the farm, a crowd forming at the gate, 1922"
+  },
+  {
+   "scene": "h50",
+   "text": "Aus München kommen Kriminalbeamte.",
+   "img": "img/H50.jpg",
+   "prompt": "1920s Munich police detectives in long coats and hats arriving by car at a rural farm"
+  },
+  {
+   "scene": "h51",
+   "text": "Was sie finden, gibt ihnen Rätsel auf.",
+   "img": "img/H51.jpg",
+   "prompt": "A detective examining the farmyard with a magnifying glass, muddy tracks everywhere, onlookers"
+  },
+  {
+   "scene": "h52",
+   "text": "Im Haus liegt viel Geld. Goldmünzen. Niemand hat sie angerührt.",
+   "img": "img/H52.jpg",
+   "prompt": "Old gold coins and paper money in an open wooden box on a farmhouse table, untouched"
+  },
+  {
+   "scene": "h53",
+   "text": "Ein Raubmord? Unwahrscheinlich.",
+   "img": "img/H53.jpg",
+   "prompt": "A detective holding up a gold coin, frowning, puzzled, 1920s"
+  },
+  {
+   "scene": "h54",
+   "text": "Auf dem Dachboden finden die Ermittler ein Lager aus Stroh.",
+   "img": "img/H54.jpg",
+   "prompt": "A makeshift bed of straw in the corner of a dusty attic, with an indent where someone lay"
+  },
+  {
+   "scene": "h55",
+   "text": "Von dort konnte man durch ein Loch in den Stall hinunterschauen.",
+   "img": "img/H55.jpg",
+   "prompt": "A view through a gap in attic floorboards down into a barn below, voyeuristic angle, eerie"
+  },
+  {
+   "scene": "h56",
+   "text": "Hat jemand dort oben gewohnt? Tage? Wochen? Monate?",
+   "img": "img/H56.jpg",
+   "prompt": "Breadcrumbs and an empty tin can beside a straw bed in an attic, dim light"
+  },
+  {
+   "scene": "h57",
+   "text": "Die Schritte, die die Magd gehört hatte, die Spuren im Schnee… plötzlich ergibt alles einen Sinn.",
+   "img": "img/H57.jpg",
+   "prompt": "Collage-like scene: footprints in snow, a broken lock, a newspaper, an attic, connected visually, dark mood"
+  },
+  {
+   "scene": "h58",
+   "text": "Die Polizei geht verzweifelt vor.",
+   "img": "img/H58.jpg",
+   "prompt": "Policemen searching the forest around the farm with dogs, 1922"
+  },
+  {
+   "scene": "h59",
+   "text": "Die Köpfe der Opfer werden nach München geschickt. Zu Hellsehern.",
+   "img": "img/H59.jpg",
+   "prompt": "A 1920s spiritualist seance in a dim Munich room, a clairvoyant woman with closed eyes at a candle-lit table, no body parts shown"
+  },
+  {
+   "scene": "h60",
+   "text": "Die Hellseher liefern nichts. Die Spur verläuft im Nichts.",
+   "img": "img/H60.jpg",
+   "prompt": "A candle blown out on a seance table, smoke curling upward, darkness"
+  },
+  {
+   "scene": "h61",
+   "text": "Bald gibt es drei Verdächtige, über die das ganze Land spricht.",
+   "img": "img/H61.jpg",
+   "prompt": "Three shadowy silhouettes of men standing in a row against a wall, faces hidden, noir lighting"
+  },
+  {
+   "scene": "h62",
+   "text": "Erstens: Lorenz Schlittenbauer.",
+   "img": "img/H62.jpg",
+   "prompt": "Close-up of the neighbour Lorenz Schlittenbauer's suspicious eyes under a hat brim, 1920s"
+  },
+  {
+   "scene": "h63",
+   "text": "Er hatte eine Beziehung mit Viktoria. Vielleicht war er der Vater des kleinen Josef.",
+   "img": "img/H63.jpg",
+   "prompt": "A man and a widow talking secretly behind a barn, tense, 1920s Bavaria"
+  },
+  {
+   "scene": "h64",
+   "text": "Bei der Entdeckung verhält er sich seltsam. Er geht ganz ruhig durchs Haus. Er weiß, wo alles ist.",
+   "img": "img/H64.jpg",
+   "prompt": "A calm man walking through a dark farmhouse while others stand frozen behind him, suspicious composure"
+  },
+  {
+   "scene": "h65",
+   "text": "Doch beweisen kann man ihm nichts.",
+   "img": "img/H65.jpg",
+   "prompt": "A judge's gavel resting on closed case files, dim courtroom, 1920s"
+  },
+  {
+   "scene": "h66",
+   "text": "Zweitens: Karl Gabriel. Viktorias Mann.",
+   "img": "img/H66.jpg",
+   "prompt": "A 1914 German soldier in a spiked helmet, portrait photo style, sepia"
+  },
+  {
+   "scene": "h67",
+   "text": "Offiziell gefallen in Frankreich, 1914. Doch seine Leiche wurde nie gefunden.",
+   "img": "img/H67.jpg",
+   "prompt": "A misty World War I battlefield with craters and barbed wire, a lone helmet in the mud",
+   "say": "Offiziell gefallen in Frankreich, neunzehnhundertvierzehn. Doch seine Leiche wurde nie gefunden."
+  },
+  {
+   "scene": "h68",
+   "text": "Jahre später berichten Soldaten: Sie hätten ihn in Russland gesehen. Lebend.",
+   "img": "img/H68.jpg",
+   "prompt": "A gaunt soldier in a long coat standing in a snowy Russian landscape, seen from afar"
+  },
+  {
+   "scene": "h69",
+   "text": "Kam er zurück, um sich zu rächen?",
+   "img": "img/H69.jpg",
+   "prompt": "A shadowy man in an old army coat watching the farmhouse from the forest edge at night"
+  },
+  {
+   "scene": "h70",
+   "text": "Drittens: ein Landstreicher. Ein Fremder, der durch die Wälder zog.",
+   "img": "img/H70.jpg",
+   "prompt": "A ragged vagabond with a bundle walking along a forest road in the rain, 1920s"
+  },
+  {
+   "scene": "h71",
+   "text": "Aber warum sollte ein Fremder tagelang bleiben und das Geld liegen lassen?",
+   "img": "img/H71.jpg",
+   "prompt": "The untouched money box on the table again, with a dusty footprint beside it, mystery"
+  },
+  {
+   "scene": "h72",
+   "text": "1923 wird der Hof abgerissen.",
+   "img": "img/H72.jpg",
+   "prompt": "Workers tearing down an old farmhouse with ropes and crowbars, dust in the air, 1923",
+   "say": "Neunzehnhundertdreiundzwanzig wird der Hof abgerissen."
+  },
+  {
+   "scene": "h73",
+   "text": "Unter den Dielen des Dachbodens finden die Arbeiter die Reuthaue. Die Mordwaffe.",
+   "img": "img/H73.jpg",
+   "prompt": "A worker lifting an old mattock out from beneath attic floorboards, others staring"
+  },
+  {
+   "scene": "h74",
+   "text": "Wer hat sie dort versteckt? Und wann?",
+   "img": "img/H74.jpg",
+   "prompt": "Close-up of the old mattock lying on rubble, a single beam of light, mystery"
+  },
+  {
+   "scene": "h75",
+   "text": "Die Ermittlungen laufen jahrzehntelang weiter.",
+   "img": "img/H75.jpg",
+   "prompt": "Stacks of yellowed police files and photographs on an old desk, a detective's hand turning pages"
+  },
+  {
+   "scene": "h76",
+   "text": "Über hundert Verdächtige werden befragt.",
+   "img": "img/H76.jpg",
+   "prompt": "A long line of men waiting outside a rural police station, 1920s"
+  },
+  {
+   "scene": "h77",
+   "text": "1955 werden die Akten geschlossen. Ungelöst.",
+   "img": "img/H77.jpg",
+   "prompt": "A thick file stamped closed being placed into an archive box on a dark shelf, 1950s",
+   "say": "Neunzehnhundertfünfundfünfzig werden die Akten geschlossen. Ungelöst."
+  },
+  {
+   "scene": "h78",
+   "text": "Doch die Geschichte lässt die Menschen nicht los.",
+   "img": "img/H78.jpg",
+   "prompt": "A memorial stone in a Bavarian field at dusk with a candle and flowers"
+  },
+  {
+   "scene": "h79",
+   "text": "2007 rollen Polizeischüler aus Fürstenfeldbruck den Fall neu auf.",
+   "img": "img/H79.jpg",
+   "prompt": "Modern police cadets in a classroom studying old case photos pinned to a board",
+   "say": "Zweitausendsieben rollen Polizeischüler aus Fürstenfeldbruck den Fall neu auf."
+  },
+  {
+   "scene": "h80",
+   "text": "Mit modernen Methoden prüfen sie jede Spur noch einmal.",
+   "img": "img/H80.jpg",
+   "prompt": "A young investigator comparing old documents with a laptop, lamp light"
+  },
+  {
+   "scene": "h81",
+   "text": "Am Ende sagen sie: Sie haben einen dringenden Verdacht.",
+   "img": "img/H81.jpg",
+   "prompt": "A group of investigators looking at a single file folder in the middle of the table, serious"
+  },
+  {
+   "scene": "h82",
+   "text": "Aber den Namen nennen sie nicht. Aus Rücksicht auf die Nachkommen.",
+   "img": "img/H82.jpg",
+   "prompt": "A sealed envelope with no name on it lying on a desk, wax seal, dramatic light"
+  },
+  {
+   "scene": "h83",
+   "text": "Heute steht an der Stelle des Hofes nur noch ein Feld.",
+   "img": "img/H83.jpg",
+   "prompt": "An empty green field at the forest edge where a farm once stood, peaceful but eerie"
+  },
+  {
+   "scene": "h84",
+   "text": "Und am Waldrand ein kleines Marterl. Ein Gedenkstein für die Opfer.",
+   "img": "img/H84.jpg",
+   "prompt": "A small wooden wayside shrine with a cross at the edge of a forest, Bavarian style"
+  },
+  {
+   "scene": "h85",
+   "text": "Die sechs Toten liegen auf dem Friedhof von Waidhofen.",
+   "img": "img/H85.jpg",
+   "prompt": "A village cemetery with an old grave cross under a grey sky, fresh flowers",
+   "say": "Die sechs Toten liegen auf dem Friedhof von Waidhofen."
+  },
+  {
+   "scene": "h86",
+   "text": "Ihre Köpfe wurden nie zurückgegeben. Sie gingen im Krieg verloren.",
+   "img": "img/H86.jpg",
+   "prompt": "Bomb-damaged Munich buildings in 1944, ruins and smoke, sepia tone"
+  },
+  {
+   "scene": "h87",
+   "text": "Hundert Jahre später bleibt die Frage.",
+   "img": "img/H87.jpg",
+   "prompt": "An old pocket watch lying in snow next to a footprint, symbolizing time passing"
+  },
+  {
+   "scene": "h88",
+   "text": "Wer war in jener Nacht auf Hinterkaifeck?",
+   "img": "img/H88.jpg",
+   "prompt": "The farmhouse attic hatch slightly open, darkness inside, a faint pair of eyes barely visible"
+  },
+  {
+   "scene": "h89",
+   "text": "Ein Nachbar mit einem Geheimnis?",
+   "img": "img/H89.jpg",
+   "prompt": "The neighbour standing alone in a field, looking toward the farm, wind blowing"
+  },
+  {
+   "scene": "h90",
+   "text": "Ein totgeglaubter Soldat, der heimkehrte?",
+   "img": "img/H90.jpg",
+   "prompt": "A soldier's silhouette in the doorway of the farmhouse, backlit by moonlight"
+  },
+  {
+   "scene": "h91",
+   "text": "Oder ein Fremder, der monatelang über ihren Köpfen lebte?",
+   "img": "img/H91.jpg",
+   "prompt": "The straw bed in the attic again, and a hand reaching for the lantern, face unseen"
+  },
+  {
+   "scene": "h92",
+   "text": "Was denkst du? Wer war der Mörder von Hinterkaifeck? Schreib es in die Kommentare.",
+   "img": "img/H92.jpg",
+   "prompt": "A dark table with the three suspects' silhouettes as small portrait cards, a candle in the middle"
+  },
+  {
+   "scene": "h93",
+   "text": "Und folge Schattenchronik für mehr wahre Geschichten.",
+   "img": "img/H93.jpg",
+   "prompt": "The lonely farmstead at night again under a full moon, mist rolling in, final shot"
+  }
+ ]
+}
