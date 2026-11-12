@@ -1,6 +1,7 @@
 # Schattenchronik – Plan 12.11.–12.12.2026
 
 ## Rhythmus
+- Formate abwechseln: True Crime / Paranormal / Du-Geschichte / Kuriose Geschichte – pro Tag zwei verschiedene.
 - JEDEN TAG 2 lange Videos + 2 Shorts (Wunsch des Kanalbesitzers).
 - Produktion startet täglich 00:43 Berlin.
 - Upload: Video 1 um 05:00, Video 2 um 15:00 Berlin (Peak laut Metricool 16–17 Uhr, Di–Do am stärksten); Shorts zur GLEICHEN Zeit wie ihr langes Video. So testen wir beide Zeiten jeden Tag.
@@ -70,6 +71,21 @@ P8. Die Glocke von Bell Witch (Tennessee, 1817)
 - Rhythmus: ca. jeden zweiten Tag ersetzt eine Du-Geschichte eines der beiden Videos; Shorts eignen sich besonders.
 - Ideen: D1 Die Nachricht um 3:07 (Absender bist du selbst) · D2 Der Nachbar, der jede Nacht klopft (es gibt keine Wohnung nebenan) · D3 Das Babyfon empfängt eine zweite Stimme · D4 Die letzte U-Bahn hält an einer Station, die es nicht gibt · D5 Dein Spiegelbild blinzelt zu spät · D6 Die Mitbewohnerin, die seit einer Woche nicht mehr spricht · D7 Das Foto in deiner Galerie, das du nie gemacht hast · D8 Der Anruf von deiner eigenen Nummer
 - Auch echte Fälle können mit einer kurzen Du-Szene beginnen ("Stell dir vor, du bist …").
+
+## Format 4: Kuriose Geschichte (Wunsch des Kanalbesitzers: verrückte, wahre Ereignisse mit unerwarteter Wendung)
+Streitfrage: "Genial oder Wahnsinn?" / "Wer ist schuld?" – Legenden immer klar als Legende kennzeichnen.
+K1. Das Gu-Ritual – Tiere in einem Gefäß kämpfen, bis nur eins übrig ist (chinesische Legende; Version des Kanalbesitzers mit Ratten im Loch, der überlebende "Rattenkönig" frisst nur noch Ratten)
+K2. Die Rattenjagd von Hanoi (1902) – Prämie für Rattenschwänze, Menschen züchten Ratten
+K3. Der Kobra-Effekt (Britisch-Indien) – Prämie für tote Kobras, Kobra-Farmen
+K4. Maos Spatzenkampagne (1958) – Spatzen ausgerottet, Heuschrecken kommen, Hungersnot
+K5. Der Emu-Krieg (Australien 1932) – die Armee verliert gegen Vögel
+K6. 24 Kaninchen (Australien 1859) – daraus werden Hunderte Millionen
+K7. Die Aga-Kröte (Australien 1935) – gegen Käfer geholt, wird selbst zur Plage
+K8. Die Schlacht von Karansebes (1788) – eine Armee kämpft gegen sich selbst
+K9. Die Londoner Bierflut (1814) und die Melasseflut von Boston (1919)
+K10. Ludger Sylbaris (1902) – überlebt einen Vulkanausbruch in einer Gefängniszelle
+K11. Der Schweinekrieg (1859) – USA gegen Großbritannien wegen eines Schweins
+K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 
 ## Zuschauerfrage (Erkenntnis 12.11.: beim Bachmeier-Video kam auf die Schlussfrage sofort ein Kommentar)
 - Jedes Video bekommt eine klare Streitfrage mit zwei Seiten (z. B. "Heldin oder Mörderin?", "Polizei oder Presse?").
