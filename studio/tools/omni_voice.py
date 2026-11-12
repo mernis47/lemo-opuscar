@@ -5,7 +5,7 @@ torch.set_num_threads(4)
 ep = sys.argv[1]
 only = {int(x) for x in sys.argv[2].split(',')} if len(sys.argv) > 2 else None
 EP = f'/home/user/mardin-3d-studio/episodes/{ep}'
-REF = '/tmp/omni_storyteller.wav'
+REF = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'storyteller_ref.wav')
 REF_TEXT = "Eine Mutter zieht im Gerichtssaal eine Pistole. Und richtet sie auf den Mann, der ihre Tochter auf dem Gewissen hat. Acht Schüsse fallen. Sieben davon treffen."
 m = OmniVoice.from_pretrained('/home/user/ext/omnivoice_model', device_map='cpu', dtype=torch.float32)
 lines = json.load(open(f'{EP}/script.json'))['lines']
@@ -14,7 +14,7 @@ for i, l in enumerate(lines, 1):
     if only and i not in only: continue
     txt = (l.get('say') or l['text']).replace('–', ',')
     t = time.time()
-    a = m.generate(text=txt, language='German', ref_audio=REF, ref_text=REF_TEXT, speed=0.95, num_step=20)
+    a = m.generate(text=txt, language='German', ref_audio=REF, ref_text=REF_TEXT, speed=float(os.environ.get('SPEED','0.95')), num_step=20)
     w = a[0] if isinstance(a, (list, tuple)) else a
     w = w.squeeze().cpu().numpy() if hasattr(w, 'cpu') else w
     sf.write('/tmp/ov.wav', w, 24000)

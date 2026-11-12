@@ -15,8 +15,10 @@ NEG = "text, letters, watermark, logo, blurry, deformed, extra fingers, gore, bl
 
 ap = argparse.ArgumentParser()
 ap.add_argument("ep"); ap.add_argument("--force", action="store_true"); ap.add_argument("--only")
-ap.add_argument("--steps", type=int, default=5); ap.add_argument("--cfg", type=float, default=1.0)
+ap.add_argument("--steps", type=int, default=6); ap.add_argument("--cfg", type=float, default=1.0)
 ap.add_argument("--model", default="/home/user/ext/dsxl_light", help="dsxl_light (DreamShaper XL Lightning, besser) oder sdxl_turbo (schneller)")
+ap.add_argument("--style", type=float, default=0.6, help="Stärke der Stil-Referenz (alte Artlist-Bilder), 0 = aus")
+ap.add_argument("--ref", default="episodes/bach_de/img/B60.jpg")
 ap.add_argument("--portrait", action="store_true", help="9:16 (Short)")
 a = ap.parse_args()
 
@@ -24,7 +26,17 @@ ep = os.path.join(ROOT, "episodes", a.ep)
 lines = json.load(open(os.path.join(ep, "script.json"), encoding="utf-8"))["lines"]
 only = {int(x) for x in a.only.split(",")} if a.only else None
 torch.set_num_threads(os.cpu_count() or 4)
-pipe = AutoPipelineForText2Image.from_pretrained(a.model, torch_dtype=torch.bfloat16, variant="fp16")
+kw = {}
+if a.style > 0:
+    from transformers import CLIPVisionModelWithProjection
+    kw["image_encoder"] = CLIPVisionModelWithProjection.from_pretrained("/home/user/ext/ipadapter/models/image_encoder", torch_dtype=torch.bfloat16)
+pipe = AutoPipelineForText2Image.from_pretrained(a.model, torch_dtype=torch.bfloat16, variant="fp16", **kw)
+REF = None
+if a.style > 0:
+    from PIL import Image
+    pipe.load_ip_adapter("/home/user/ext/ipadapter", subfolder="sdxl_models", weight_name="ip-adapter_sdxl_vit-h.safetensors", image_encoder_folder=None)
+    pipe.set_ip_adapter_scale({"up": {"block_0": [0.0, a.style, 0.0]}})
+    REF = Image.open(os.path.join(ROOT, a.ref)).convert("RGB").resize((1024, 576))
 if "turbo" in a.model:
     a.steps, a.cfg = min(a.steps, 2), 0.0
 else:
@@ -41,7 +53,8 @@ for i, l in enumerate(lines, 1):
     t = time.time()
     g = torch.Generator().manual_seed(1000 + i)
     im = pipe(prompt=f"{l['prompt']}. {STYLE}", negative_prompt=NEG, num_inference_steps=a.steps,
-              guidance_scale=a.cfg, width=W, height=H, generator=g).images[0]
+              guidance_scale=a.cfg, width=W, height=H, generator=g,
+              **({"ip_adapter_image": REF} if REF is not None else {})).images[0]
     im.resize((OW, OH)).save(out, quality=93)
     print(f"{i}/{len(lines)} {time.time()-t:.0f}s", flush=True)
 print("DONE", flush=True)

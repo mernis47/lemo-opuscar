@@ -1,0 +1,98 @@
+{
+ "id": "dyat_short_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "s01",
+   "text": "Neun junge Menschen schneiden ihr Zelt von innen auf. Und rennen hinaus in die Nacht.",
+   "img": "img/S01.jpg",
+   "prompt": "A snow-covered tent on a bare mountain slope at night, a long slash in its fabric from inside, Ural 1959",
+   "move": "right",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s02",
+   "text": "Bei minus dreißig Grad. Ohne Schuhe. Ohne Jacken.",
+   "img": "img/S02.jpg",
+   "prompt": "Feet in woollen socks running through deep snow at night in a blizzard",
+   "move": "up"
+  },
+  {
+   "scene": "s03",
+   "text": "Ural, 1959. Eine Gruppe Studenten auf Skitour.",
+   "img": "img/S03.jpg",
+   "prompt": "Young Soviet hikers on skis in a line crossing a snowy valley, 1959",
+   "move": "in",
+   "say": "Ural, neunzehnhundertneunundfünfzig. Eine Gruppe Studenten auf Skitour."
+  },
+  {
+   "scene": "s04",
+   "text": "Der Berg, an dem sie zelten, heißt in der Sprache der Einheimischen: Toter Berg.",
+   "img": "img/S04.jpg",
+   "prompt": "A desolate snowy mountain against a blood-red sunset sky, ominous",
+   "move": "left",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s05",
+   "text": "Mitten in der Nacht passiert etwas. Sie schneiden die Zeltwand mit Messern auf.",
+   "img": "img/S05.jpg",
+   "prompt": "A knife blade cutting through tent canvas from inside, dramatic close-up",
+   "move": "out"
+  },
+  {
+   "scene": "s06",
+   "text": "Sie lassen Stiefel, Jacken und Äxte zurück.",
+   "img": "img/S06.jpg",
+   "prompt": "Inside an abandoned tent: boots, jackets and ice axes left behind, frost on everything",
+   "move": "in"
+  },
+  {
+   "scene": "s07",
+   "text": "Wochen später findet man die ersten Toten. In Unterwäsche, neben einem Feuer.",
+   "img": "img/S07.jpg",
+   "prompt": "Ashes of a small fire under a big cedar tree in the snow, searchers standing in shock, no bodies shown",
+   "move": "right"
+  },
+  {
+   "scene": "s08",
+   "text": "Drei liegen am Hang. Mit dem Gesicht zum Zelt.",
+   "img": "img/S08.jpg",
+   "prompt": "Markers in the snow on a slope all pointing up toward a distant tent",
+   "move": "up"
+  },
+  {
+   "scene": "s09",
+   "text": "Die letzten vier findet man erst im Mai. Mit Brüchen wie nach einem Autounfall.",
+   "img": "img/S09.jpg",
+   "prompt": "Chest X-rays with broken ribs on a light box, a shocked doctor in shadow",
+   "move": "in",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s10",
+   "text": "Und ihre Kleidung ist radioaktiv.",
+   "img": "img/S10.jpg",
+   "prompt": "A Geiger counter held over a frozen sweater, the needle jumping",
+   "move": "left"
+  },
+  {
+   "scene": "s11",
+   "text": "Die Akten werden geheim. Die Ursache: eine zwingende Naturgewalt.",
+   "img": "img/S11.jpg",
+   "prompt": "An orange glowing sphere hovering in the night sky above a snowy ridge",
+   "move": "out"
+  },
+  {
+   "scene": "s12",
+   "text": "Was ist in jener Nacht passiert? Die ganze Geschichte jetzt auf dem Kanal. Folge Schattenchronik.",
+   "img": "img/S12.jpg",
+   "prompt": "The slashed empty tent on the mountain at night under a strange glow, final shot",
+   "move": "in"
+  }
+ ]
+}

@@ -1,0 +1,576 @@
+{
+ "id": "dyat_de",
+ "lang": "de",
+ "style": "reel",
+ "widescreen": true,
+ "shots": true,
+ "pad_default": 0.55,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "d01",
+   "text": "Neun junge Menschen schneiden ihr Zelt von innen auf. Und rennen hinaus in die Nacht.",
+   "img": "img/D01.jpg",
+   "prompt": "A snow-covered tent on a bare mountain slope at night, a long slash in its fabric from inside, 1959 Soviet Ural mountains in deep winter",
+   "sfx": "sting"
+  },
+  {
+   "scene": "d02",
+   "text": "Bei minus dreißig Grad. Ohne Schuhe. Ohne Jacken.",
+   "img": "img/D02.jpg",
+   "prompt": "Bare feet and woollen socks running through deep snow at night, blizzard, 1959",
+   "say": "Bei minus dreißig Grad. Ohne Schuhe. Ohne Jacken."
+  },
+  {
+   "scene": "d03",
+   "text": "Keiner von ihnen kommt zurück.",
+   "img": "img/D03.jpg",
+   "prompt": "Nine sets of footprints in the snow leading down a dark mountain slope into a blizzard"
+  },
+  {
+   "scene": "d04",
+   "text": "Was hat sie aus dem Zelt getrieben?",
+   "img": "img/D04.jpg",
+   "prompt": "Close-up of a tent wall cut open from the inside, snow blowing through the gap, dark night"
+  },
+  {
+   "scene": "d05",
+   "text": "Das ist die Geschichte vom Djatlow-Pass. Einem der größten Rätsel des zwanzigsten Jahrhunderts.",
+   "img": "img/D05.jpg",
+   "prompt": "A vast snowy mountain pass under a grey sky, a lonely ridge, 1959 Soviet Ural mountains in deep winter, epic wide shot"
+  },
+  {
+   "scene": "d06",
+   "text": "Sowjetunion, Januar 1959.",
+   "img": "img/D06.jpg",
+   "prompt": "A snowy Soviet city street in 1959, old trucks, people in fur hats, red banners",
+   "say": "Sowjetunion, Januar neunzehnhundertneunundfünfzig."
+  },
+  {
+   "scene": "d07",
+   "text": "In Swerdlowsk, im Ural, plant eine Gruppe Studenten eine gefährliche Skitour.",
+   "img": "img/D07.jpg",
+   "prompt": "Students in 1950s winter clothes gathered around a map on a table in a university room, excited"
+  },
+  {
+   "scene": "d08",
+   "text": "Ihr Anführer: Igor Djatlow. Dreiundzwanzig Jahre alt. Ein erfahrener Bergsteiger.",
+   "img": "img/D08.jpg",
+   "prompt": "Portrait of a 23-year-old Soviet student with dark hair and a determined look, wearing a 1950s ski sweater"
+  },
+  {
+   "scene": "d09",
+   "text": "Insgesamt zehn junge Leute: acht Männer, zwei Frauen. Die meisten Studenten vom Polytechnischen Institut.",
+   "img": "img/D09.jpg",
+   "prompt": "A group of ten young Soviet hikers posing with skis and heavy backpacks in front of a train station, 1959"
+  },
+  {
+   "scene": "d10",
+   "text": "Sie sind jung, fröhlich, voller Energie. Sie singen, sie lachen, sie fotografieren sich gegenseitig.",
+   "img": "img/D10.jpg",
+   "prompt": "Young hikers laughing and singing in a train compartment, guitar, 1959"
+  },
+  {
+   "scene": "d11",
+   "text": "Ihr Ziel: der Berg Otorten. Eine Tour der höchsten Schwierigkeitsstufe.",
+   "img": "img/D11.jpg",
+   "prompt": "A distant snowy peak in the Ural mountains at dawn, dramatic clouds"
+  },
+  {
+   "scene": "d12",
+   "text": "Mitten in der Wildnis, Hunderte Kilometer von jeder Stadt entfernt.",
+   "img": "img/D12.jpg",
+   "prompt": "Endless snowy taiga forest with no roads, seen from above, grey winter light"
+  },
+  {
+   "scene": "d13",
+   "text": "Am 27. Januar erreichen sie die letzte Siedlung. Ein verlassenes Holzfällerdorf.",
+   "img": "img/D13.jpg",
+   "prompt": "An abandoned Soviet logging settlement with wooden huts half buried in snow",
+   "say": "Am siebenundzwanzigsten Januar erreichen sie die letzte Siedlung. Ein verlassenes Holzfällerdorf."
+  },
+  {
+   "scene": "d14",
+   "text": "Dort wird einer von ihnen krank. Juri Judin. Seine Beine schmerzen.",
+   "img": "img/D14.jpg",
+   "prompt": "A young hiker sitting on a sled, rubbing his aching leg, friends looking concerned"
+  },
+  {
+   "scene": "d15",
+   "text": "Er beschließt umzukehren. Er umarmt seine Freunde zum Abschied.",
+   "img": "img/D15.jpg",
+   "prompt": "A young man hugging his friends goodbye in the snow, emotional, backpacks around them"
+  },
+  {
+   "scene": "d16",
+   "text": "Er ahnt nicht, dass er der Einzige ist, der überleben wird.",
+   "img": "img/D16.jpg",
+   "prompt": "A lone young man walking back along a snowy track, looking over his shoulder at the group in the distance"
+  },
+  {
+   "scene": "d17",
+   "text": "Die anderen neun ziehen weiter. Tag für Tag, durch Schnee und Wind.",
+   "img": "img/D17.jpg",
+   "prompt": "Nine hikers on skis in a line crossing a frozen river valley, wind blowing snow"
+  },
+  {
+   "scene": "d18",
+   "text": "Ihre Tagebücher und Fotos wurden später gefunden. Sie zeigen gute Laune bis zuletzt.",
+   "img": "img/D18.jpg",
+   "prompt": "Old black-and-white style photos and a diary lying on snow, smiling faces in the photos"
+  },
+  {
+   "scene": "d19",
+   "text": "Am 1. Februar steigen sie am Hang eines Berges auf. Die Einheimischen nennen ihn Cholat Sjachl.",
+   "img": "img/D19.jpg",
+   "prompt": "Hikers climbing a bare, wind-swept mountain slope in late afternoon light, Ural 1959",
+   "say": "Am ersten Februar steigen sie am Hang eines Berges auf. Die Einheimischen nennen ihn Cholat Sjachl."
+  },
+  {
+   "scene": "d20",
+   "text": "In der Sprache der Mansi bedeutet das: Toter Berg.",
+   "img": "img/D20.jpg",
+   "prompt": "A desolate snowy mountain with a dark shape against a blood-red sunset sky, ominous"
+  },
+  {
+   "scene": "d21",
+   "text": "Am Abend schlagen sie ihr Zelt auf. Mitten am offenen Hang.",
+   "img": "img/D21.jpg",
+   "prompt": "Hikers setting up a long canvas tent on an exposed snowy slope at dusk"
+  },
+  {
+   "scene": "d22",
+   "text": "Sie essen. Sie scherzen. Sie schreiben noch eine Zeitung zum Spaß.",
+   "img": "img/D22.jpg",
+   "prompt": "Hikers inside a tent by candlelight, eating and laughing, writing in a notebook"
+  },
+  {
+   "scene": "d23",
+   "text": "Dann legen sie sich schlafen.",
+   "img": "img/D23.jpg",
+   "prompt": "The tent on the slope at night, a faint glow inside, stars above, peaceful"
+  },
+  {
+   "scene": "d24",
+   "text": "Irgendwann in dieser Nacht passiert etwas.",
+   "img": "img/D24.jpg",
+   "prompt": "The tent under a dark sky, a strange glow on the horizon, wind picking up"
+  },
+  {
+   "scene": "d25",
+   "text": "Etwas so Schreckliches, dass neun erfahrene Bergsteiger in Panik geraten.",
+   "img": "img/D25.jpg",
+   "prompt": "Silhouettes inside the tent moving frantically, shadows on the canvas, night"
+  },
+  {
+   "scene": "d26",
+   "text": "Sie nehmen sich nicht die Zeit, die Tür zu öffnen. Sie schneiden die Zeltwand mit Messern auf.",
+   "img": "img/D26.jpg",
+   "prompt": "A knife blade cutting through canvas from inside a tent, dramatic close-up"
+  },
+  {
+   "scene": "d27",
+   "text": "Sie laufen hinaus. In Socken. Manche barfuß.",
+   "img": "img/D27.jpg",
+   "prompt": "Figures in socks and underwear stumbling out of a slashed tent into deep snow at night"
+  },
+  {
+   "scene": "d28",
+   "text": "Ihre Stiefel, ihre Jacken, ihre Äxte bleiben im Zelt.",
+   "img": "img/D28.jpg",
+   "prompt": "Inside an abandoned tent: boots, jackets, ice axes and food left behind, frost covering everything"
+  },
+  {
+   "scene": "d29",
+   "text": "Sie gehen den Hang hinunter. Anderthalb Kilometer. In Richtung Wald.",
+   "img": "img/D29.jpg",
+   "prompt": "Footprints going down a long snowy slope toward a dark forest line far below",
+   "say": "Sie gehen den Hang hinunter. Anderthalb Kilometer. In Richtung Wald."
+  },
+  {
+   "scene": "d30",
+   "text": "Die Spuren zeigen: Sie gingen ruhig. Nicht in wilder Flucht.",
+   "img": "img/D30.jpg",
+   "prompt": "Neat rows of footprints in the snow side by side, walking pace, moonlight"
+  },
+  {
+   "scene": "d31",
+   "text": "Am Waldrand steht eine große Zeder. Dort machen sie ein Feuer.",
+   "img": "img/D31.jpg",
+   "prompt": "A large cedar tree at the forest edge at night, a small fire flickering at its base"
+  },
+  {
+   "scene": "d32",
+   "text": "Zwei von ihnen klettern auf den Baum. Die Äste sind bis in fünf Meter Höhe abgebrochen.",
+   "img": "img/D32.jpg",
+   "prompt": "Broken branches on a tall cedar trunk, a figure climbing up in the dark, looking back toward the slope"
+  },
+  {
+   "scene": "d33",
+   "text": "Wollten sie etwas sehen? Das Zelt? Oder etwas anderes?",
+   "img": "img/D33.jpg",
+   "prompt": "View from high in a tree across a dark snowy slope toward a faint light on the mountain"
+  },
+  {
+   "scene": "d34",
+   "text": "Was danach geschah, weiß niemand.",
+   "img": "img/D34.jpg",
+   "prompt": "The cedar tree with a dying fire, snow falling, no people visible"
+  },
+  {
+   "scene": "d35",
+   "text": "Tage vergehen. Die Gruppe meldet sich nicht.",
+   "img": "img/D35.jpg",
+   "prompt": "An empty telegraph office in a Soviet town, a clock on the wall, waiting"
+  },
+  {
+   "scene": "d36",
+   "text": "Familien und Freunde werden unruhig.",
+   "img": "img/D36.jpg",
+   "prompt": "Worried parents standing at a window in a Soviet apartment, snow outside"
+  },
+  {
+   "scene": "d37",
+   "text": "Am 20. Februar beginnt eine große Suchaktion. Studenten, Soldaten, Flugzeuge.",
+   "img": "img/D37.jpg",
+   "prompt": "A Soviet search party on skis with soldiers, a small plane flying over snowy mountains",
+   "say": "Am zwanzigsten Februar beginnt eine große Suchaktion. Studenten, Soldaten, Flugzeuge."
+  },
+  {
+   "scene": "d38",
+   "text": "Am 26. Februar finden sie das Zelt.",
+   "img": "img/D38.jpg",
+   "prompt": "Searchers approaching a half-collapsed tent buried in snow on a mountain slope",
+   "say": "Am sechsundzwanzigsten Februar finden sie das Zelt."
+  },
+  {
+   "scene": "d39",
+   "text": "Es ist halb eingestürzt. Und von innen aufgeschnitten.",
+   "img": "img/D39.jpg",
+   "prompt": "Close-up of the collapsed tent with long cuts in the canvas, a searcher kneeling"
+  },
+  {
+   "scene": "d40",
+   "text": "Drinnen: alles ordentlich. Essen, Kleidung, Geld. Als wären sie nur kurz hinausgegangen.",
+   "img": "img/D40.jpg",
+   "prompt": "Interior of a tent with neatly arranged belongings, food tins, folded clothes, frozen"
+  },
+  {
+   "scene": "d41",
+   "text": "Dann folgen die Retter den Spuren den Hang hinab.",
+   "img": "img/D41.jpg",
+   "prompt": "A line of searchers following old footprints down a snowy slope toward a forest"
+  },
+  {
+   "scene": "d42",
+   "text": "An der Zeder finden sie die ersten beiden Toten. Juri Doroschenko und Juri Kriwonischenko.",
+   "img": "img/D42.jpg",
+   "prompt": "Searchers standing in shock near a cedar tree in the snow, the scene itself hidden by their bodies, no gore"
+  },
+  {
+   "scene": "d43",
+   "text": "Sie tragen nur Unterwäsche. Neben ihnen die Reste eines Feuers.",
+   "img": "img/D43.jpg",
+   "prompt": "Ashes of a small fire in the snow under a cedar tree, burnt branches, cold morning light"
+  },
+  {
+   "scene": "d44",
+   "text": "Zwischen der Zeder und dem Zelt liegen drei weitere. Igor Djatlow, Sinaida Kolmogorowa, Rustem Slobodin.",
+   "img": "img/D44.jpg",
+   "prompt": "Three small mounds in the snow on a slope between a tree and a distant tent, searchers marking them with sticks"
+  },
+  {
+   "scene": "d45",
+   "text": "Sie liegen mit dem Gesicht zum Zelt. Als hätten sie versucht zurückzukehren.",
+   "img": "img/D45.jpg",
+   "prompt": "A wide shot of the slope with markers in the snow all pointing up toward the tent, eerie"
+  },
+  {
+   "scene": "d46",
+   "text": "Die Ärzte sagen: Sie sind erfroren.",
+   "img": "img/D46.jpg",
+   "prompt": "A Soviet doctor in a white coat writing a report at a desk, grim face, 1959"
+  },
+  {
+   "scene": "d47",
+   "text": "Aber Slobodin hat einen Schädelbruch.",
+   "img": "img/D47.jpg",
+   "prompt": "An X-ray of a skull with a crack, lit from behind on a light box, 1950s"
+  },
+  {
+   "scene": "d48",
+   "text": "Und vier Mitglieder der Gruppe fehlen immer noch.",
+   "img": "img/D48.jpg",
+   "prompt": "Four empty sleeping bags lined up in a tent, frost on them"
+  },
+  {
+   "scene": "d49",
+   "text": "Erst im Mai, als der Schnee schmilzt, werden sie gefunden.",
+   "img": "img/D49.jpg",
+   "prompt": "Melting snow in a forest ravine in spring, a small stream, searchers with long probes",
+   "say": "Erst im Mai, als der Schnee schmilzt, werden sie gefunden."
+  },
+  {
+   "scene": "d50",
+   "text": "In einer Schlucht, unter vier Metern Schnee.",
+   "img": "img/D50.jpg",
+   "prompt": "A deep ravine with walls of snow, searchers digging, spring light"
+  },
+  {
+   "scene": "d51",
+   "text": "Ljudmila Dubinina, Semjon Solotarjow, Nikolai Thibeaux-Brignolle, Alexander Kolewatow.",
+   "img": "img/D51.jpg",
+   "prompt": "Four portrait photographs of young Soviet hikers pinned to a board, black-and-white style"
+  },
+  {
+   "scene": "d52",
+   "text": "Und was die Ärzte jetzt sehen, ist unerklärlich.",
+   "img": "img/D52.jpg",
+   "prompt": "A pathologist taking off his glasses in shock, dim autopsy room, no bodies shown"
+  },
+  {
+   "scene": "d53",
+   "text": "Dubinina und Solotarjow haben schwere Brüche im Brustkorb.",
+   "img": "img/D53.jpg",
+   "prompt": "Two chest X-rays side by side on a light box showing broken ribs"
+  },
+  {
+   "scene": "d54",
+   "text": "Verletzungen wie nach einem Autounfall. Aber außen: kaum Spuren.",
+   "img": "img/D54.jpg",
+   "prompt": "A doctor comparing notes and X-rays, puzzled, lamp light, 1959"
+  },
+  {
+   "scene": "d55",
+   "text": "Thibeaux-Brignolle hat einen zertrümmerten Schädel.",
+   "img": "img/D55.jpg",
+   "prompt": "A grim doctor writing in a file, a skull diagram on the desk"
+  },
+  {
+   "scene": "d56",
+   "text": "Und Ljudmila Dubinina fehlen die Zunge und die Augen.",
+   "img": "img/D56.jpg",
+   "prompt": "A closed file folder with a red stamp lying on a cold metal table, dramatic light"
+  },
+  {
+   "scene": "d57",
+   "text": "Einige von ihnen tragen fremde Kleidung. Pullover und Hosen der Toten von der Zeder.",
+   "img": "img/D57.jpg",
+   "prompt": "A pile of mismatched sweaters and trousers in the snow, cut pieces of fabric"
+  },
+  {
+   "scene": "d58",
+   "text": "Und mehrere Kleidungsstücke sind radioaktiv.",
+   "img": "img/D58.jpg",
+   "prompt": "A Geiger counter held over a frozen sweater, the needle jumping, 1950s equipment"
+  },
+  {
+   "scene": "d59",
+   "text": "Die Ermittlungen werden plötzlich geheim.",
+   "img": "img/D59.jpg",
+   "prompt": "A Soviet officer stamping a folder with 'secret' style red seal, no readable text"
+  },
+  {
+   "scene": "d60",
+   "text": "Die Gegend wird für Jahre gesperrt. Für Wanderer, für Jäger, für alle.",
+   "img": "img/D60.jpg",
+   "prompt": "A barrier and armed soldier on a snowy mountain road blocking the way"
+  },
+  {
+   "scene": "d61",
+   "text": "Im Mai 1959 wird der Fall geschlossen.",
+   "img": "img/D61.jpg",
+   "prompt": "A thick case file tied with string being put into an archive drawer",
+   "say": "Im Mai neunzehnhundertneunundfünfzig wird der Fall geschlossen."
+  },
+  {
+   "scene": "d62",
+   "text": "Die offizielle Todesursache: eine zwingende Naturgewalt.",
+   "img": "img/D62.jpg",
+   "prompt": "A dark stormy mountain with swirling snow, an overwhelming force of nature"
+  },
+  {
+   "scene": "d63",
+   "text": "Was das bedeuten soll, sagt niemand.",
+   "img": "img/D63.jpg",
+   "prompt": "Close-up of a pair of eyes of a Soviet official, unreadable expression"
+  },
+  {
+   "scene": "d64",
+   "text": "Seitdem suchen Menschen nach einer Erklärung.",
+   "img": "img/D64.jpg",
+   "prompt": "Modern researchers with maps and old photos spread on a table, coffee cups"
+  },
+  {
+   "scene": "d65",
+   "text": "Die erste Theorie: Die Mansi. Ein Volk von Rentierzüchtern, das hier lebt.",
+   "img": "img/D65.jpg",
+   "prompt": "Mansi reindeer herders in fur clothes with reindeer in a snowy forest, respectful depiction"
+  },
+  {
+   "scene": "d66",
+   "text": "Hatten die Wanderer einen heiligen Ort betreten? Wurden sie angegriffen?",
+   "img": "img/D66.jpg",
+   "prompt": "A wooden Mansi spirit totem in a snowy forest, mysterious"
+  },
+  {
+   "scene": "d67",
+   "text": "Doch es gibt keine fremden Spuren. Und die Mansi halfen sogar bei der Suche.",
+   "img": "img/D67.jpg",
+   "prompt": "Mansi hunters helping Soviet searchers read tracks in the snow"
+  },
+  {
+   "scene": "d68",
+   "text": "Die zweite Theorie: ein geheimer Militärtest.",
+   "img": "img/D68.jpg",
+   "prompt": "A rocket trail glowing across a dark winter sky above mountains"
+  },
+  {
+   "scene": "d69",
+   "text": "In derselben Nacht sahen andere Wanderer leuchtende Kugeln am Himmel.",
+   "img": "img/D69.jpg",
+   "prompt": "Orange glowing spheres hovering in a night sky above a snowy ridge, hikers watching from far away"
+  },
+  {
+   "scene": "d70",
+   "text": "Orange Lichter, die lautlos über die Berge zogen.",
+   "img": "img/D70.jpg",
+   "prompt": "A strange orange light moving over a mountain range at night, long exposure feel"
+  },
+  {
+   "scene": "d71",
+   "text": "Das würde die Radioaktivität erklären. Und warum die Akten geheim wurden.",
+   "img": "img/D71.jpg",
+   "prompt": "A secret Soviet military base in the snow with antennas and searchlights"
+  },
+  {
+   "scene": "d72",
+   "text": "Die dritte Theorie: Infraschall. Wind, der um den Berg pfeift und einen Ton erzeugt, den man nicht hört.",
+   "img": "img/D72.jpg",
+   "prompt": "Wind swirling around a mountain peak, visible as ghostly streaks, eerie"
+  },
+  {
+   "scene": "d73",
+   "text": "Ein Ton, der Panik und Angst auslöst. Ohne dass man weiß, warum.",
+   "img": "img/D73.jpg",
+   "prompt": "A hiker holding his head in panic inside a dark tent, distorted shadows"
+  },
+  {
+   "scene": "d74",
+   "text": "Und dann gibt es noch die wilden Theorien. Ein Yeti. Außerirdische. Ein Fluch.",
+   "img": "img/D74.jpg",
+   "prompt": "A huge shadowy figure in a blizzard on a mountain ridge, barely visible, mysterious"
+  },
+  {
+   "scene": "d75",
+   "text": "Fast sechzig Jahre lang bleibt das Rätsel ungelöst.",
+   "img": "img/D75.jpg",
+   "prompt": "A memorial plaque on a rock at the mountain pass, flowers frozen in snow"
+  },
+  {
+   "scene": "d76",
+   "text": "2019 öffnet die russische Staatsanwaltschaft den Fall erneut.",
+   "img": "img/D76.jpg",
+   "prompt": "Modern Russian investigators in winter gear on the snowy pass, measuring the slope",
+   "say": "Zweitausendneunzehn öffnet die russische Staatsanwaltschaft den Fall erneut."
+  },
+  {
+   "scene": "d77",
+   "text": "Ihr Ergebnis: eine Lawine.",
+   "img": "img/D77.jpg",
+   "prompt": "A slab of snow breaking loose on a mountain slope, powder flying"
+  },
+  {
+   "scene": "d78",
+   "text": "Eine kleine Schneebrettlawine, ausgelöst durch den Schnitt, den die Gruppe für ihr Zelt in den Hang gegraben hat.",
+   "img": "img/D78.jpg",
+   "prompt": "A cross-section illustration of a tent dug into a snow slope with a slab sliding above it"
+  },
+  {
+   "scene": "d79",
+   "text": "Die Schneemassen drücken auf das Zelt. Die Gruppe glaubt, gleich verschüttet zu werden.",
+   "img": "img/D79.jpg",
+   "prompt": "Snow pressing down on a tent at night, canvas bending, people inside shielding themselves"
+  },
+  {
+   "scene": "d80",
+   "text": "Sie schneiden sich hinaus und fliehen zum Wald. Um später zurückzukehren.",
+   "img": "img/D80.jpg",
+   "prompt": "Hikers stumbling down the slope away from the tent, looking back fearfully"
+  },
+  {
+   "scene": "d81",
+   "text": "2021 bestätigen Schweizer Forscher: Eine solche Lawine ist möglich. Und sie könnte die Brustbrüche erklären.",
+   "img": "img/D81.jpg",
+   "prompt": "Scientists in a modern lab with a computer simulation of a snow slab on a screen",
+   "say": "Zweitausendeinundzwanzig bestätigen Schweizer Forscher: Eine solche Lawine ist möglich. Und sie könnte die Brustbrüche erklären."
+  },
+  {
+   "scene": "d82",
+   "text": "Doch viele zweifeln bis heute.",
+   "img": "img/D82.jpg",
+   "prompt": "A skeptical old man looking at a newspaper by a window, snowy city"
+  },
+  {
+   "scene": "d83",
+   "text": "Warum fand man am Hang keine Lawinenspuren?",
+   "img": "img/D83.jpg",
+   "prompt": "A smooth untouched snow slope under a pale sky, no avalanche marks"
+  },
+  {
+   "scene": "d84",
+   "text": "Warum gingen die Wanderer ruhig, statt zu rennen?",
+   "img": "img/D84.jpg",
+   "prompt": "Footprints walking in a calm line down a slope, moonlight"
+  },
+  {
+   "scene": "d85",
+   "text": "Und woher kam die Radioaktivität?",
+   "img": "img/D85.jpg",
+   "prompt": "The Geiger counter again on a frozen sweater, needle in the red"
+  },
+  {
+   "scene": "d86",
+   "text": "Juri Judin, der einzige Überlebende, lebte noch bis 2013.",
+   "img": "img/D86.jpg",
+   "prompt": "An old man looking at a black-and-white group photo of young hikers, tears in his eyes",
+   "say": "Juri Judin, der einzige Überlebende, lebte noch bis zweitausenddreizehn."
+  },
+  {
+   "scene": "d87",
+   "text": "Er sagte: Wenn er Gott eine einzige Frage stellen dürfte, dann diese: Was ist in jener Nacht mit meinen Freunden passiert?",
+   "img": "img/D87.jpg",
+   "prompt": "An old man sitting alone by a window at dusk, holding the photo against his chest"
+  },
+  {
+   "scene": "d88",
+   "text": "Heute heißt der Ort Djatlow-Pass. Nach dem jungen Anführer der Gruppe.",
+   "img": "img/D88.jpg",
+   "prompt": "A snowy mountain pass with a stone monument and a small metal plate, wind"
+  },
+  {
+   "scene": "d89",
+   "text": "Jedes Jahr kommen Wanderer dorthin. Sie legen Blumen nieder. Und sie stellen dieselbe Frage.",
+   "img": "img/D89.jpg",
+   "prompt": "Modern hikers placing flowers at a memorial stone on the snowy pass"
+  },
+  {
+   "scene": "d90",
+   "text": "Lawine? Militär? Oder etwas, das wir bis heute nicht verstehen?",
+   "img": "img/D90.jpg",
+   "prompt": "The slashed tent in the snow at night under a strange orange glow in the sky, final mystery shot"
+  },
+  {
+   "scene": "d91",
+   "text": "Was glaubst du? Was hat die neun aus dem Zelt getrieben? Schreib es in die Kommentare.",
+   "img": "img/D91.jpg",
+   "prompt": "Nine pairs of ski boots lined up in the snow in front of an empty tent, moonlight"
+  },
+  {
+   "scene": "d92",
+   "text": "Und folge Schattenchronik für mehr wahre Geschichten.",
+   "img": "img/D92.jpg",
+   "prompt": "The dark Dead Mountain under a starry sky, wind blowing snow across the ridge, final shot"
+  }
+ ]
+}
