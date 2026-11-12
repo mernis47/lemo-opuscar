@@ -1,9 +1,10 @@
 # Schattenchronik – Plan 12.11.–12.12.2026
 
 ## Rhythmus
-- 2 lange Videos + 2 Shorts pro Woche.
-- Produktion: Di + Fr morgens. Upload am selben Tag.
-- Upload-Zeit (Test): abwechselnd 15:00 Berlin (2 Std. vor Peak 16–17 Uhr laut Metricool) und 05:00 Berlin (Wunsch-Test des Kanalbesitzers). Nach 4 Videos vergleichen und die bessere Zeit behalten.
+- JEDEN TAG 2 lange Videos + 2 Shorts (Wunsch des Kanalbesitzers).
+- Produktion startet täglich 00:43 Berlin.
+- Upload: Video 1 um 05:00, Video 2 um 15:00 Berlin (Peak laut Metricool 16–17 Uhr, Di–Do am stärksten); Shorts je 3 Std. später. So testen wir beide Zeiten jeden Tag.
+- Bild-Sparmodus: ca. 1 Bild pro 2 Zeilen (≈55 Bilder/Video).
 - Fertige Videos (lang + Short) immer auch in den Chat schicken.
 
 ## Themen (Reihenfolge, anpassbar nach Zahlen)
@@ -15,6 +16,29 @@
 6. Wunder von Lengede (1963) – 14 Tage unter Tage
 7. Ramstein-Flugtagunglück (1988)
 8. Tunguska (1908) – die Explosion ohne Krater
+9. Das Grubenunglück von Courrières / Lassing (1998)
+10. Die Titanic-Schwester Britannic
+11. Mary Celeste ist erledigt (mc) – stattdessen: Flight 19 / Bermuda-Dreieck
+12. Elisa Lam – Cecil Hotel
+13. Der Fall Peter Kürten – Vampir von Düsseldorf
+14. Fritz Haarmann – der Schlächter von Hannover
+15. Die Kinder von Hameln (1284)
+16. Der Ötzi-Fund (1991)
+17. Das Unglück von Lengede ist 6 – stattdessen: Zugunglück Eschede nur sachlich, ohne Opferbilder
+18. Der Untergang der Estonia (1994)
+19. Die Hindenburg-Katastrophe (1937)
+20. Der Fall Ursula Herrmann (1981) – Kiste im Wald
+21. Das Verschwinden von Flug MH370
+22. Der Bernsteinzimmer-Raub
+23. Der Rattenfänger-Mythos vs. Fakten
+24. Der Mörder Jack Unterweger
+25. Die Tanzwut ist erledigt (dans) – stattdessen: Die Lachepidemie von Tanganjika (1962)
+26. Der Fall Rudolf Hess – Spandau
+27. Die Leiche im Bodensee – unbekannte Tote
+28. Der Isdal-Frau-Fall (Norwegen 1970)
+29. Das Somerton-Rätsel (Tamam Shud)
+30. Die Grube von Lassing (1998)
+Weitere Themen nach Zahlen aus der Sonntags-Auswertung ergänzen.
 
 Jedes lange Video endet mit einer Zuschauerfrage + „Folge Schattenchronik“. Ziel 8–10 Min (Skript ~110 Zeilen, weil die Erzählerstimme schnell ist).
 
