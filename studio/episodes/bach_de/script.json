@@ -1,0 +1,401 @@
+{
+ "id": "bach_de",
+ "lang": "de",
+ "style": "reel",
+ "widescreen": true,
+ "shots": true,
+ "pad_default": 0.45,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "b01",
+   "text": "Eine Mutter zieht im Gerichtssaal eine Pistole. Und schießt auf den Mann, der ihre Tochter getötet hat.",
+   "img": "img/B01.jpg",
+   "sfx": "sting",
+   "say": "Eine Mutter zieht im Gerichtssaal eine Pistole. Und richtet sie auf den Mann, der ihre Tochter auf dem Gewissen hat."
+  },
+  {
+   "scene": "b02",
+   "text": "Acht Schüsse. Mitten im laufenden Prozess.",
+   "img": "img/B02.jpg"
+  },
+  {
+   "scene": "b03",
+   "text": "Vor den Augen von Richtern, Anwälten und Zuschauern.",
+   "img": "img/B50.jpg"
+  },
+  {
+   "scene": "b04",
+   "text": "Danach ist Deutschland gespalten.",
+   "img": "img/B03.jpg"
+  },
+  {
+   "scene": "b05",
+   "text": "Ist sie eine Mörderin? Oder eine Mutter, die getan hat, was der Staat nicht konnte?",
+   "img": "img/B51.jpg"
+  },
+  {
+   "scene": "b06",
+   "text": "Das ist die Geschichte von Marianne Bachmeier.",
+   "img": "img/B04.jpg"
+  },
+  {
+   "scene": "b07",
+   "text": "Lübeck, Frühjahr 1980. Eine alte Hansestadt, Backsteinhäuser, enge Gassen.",
+   "img": "img/B05.jpg",
+   "say": "Lübeck, Frühjahr neunzehnhundertachtzig. Eine alte Hansestadt, Backsteinhäuser, enge Gassen."
+  },
+  {
+   "scene": "b08",
+   "text": "Marianne ist dreißig Jahre alt. Sie führt eine kleine Kneipe in der Altstadt.",
+   "img": "img/B06.jpg"
+  },
+  {
+   "scene": "b09",
+   "text": "Das Leben war nie leicht für sie. Ihre Kindheit war hart, ihre Jugend chaotisch.",
+   "img": "img/B52.jpg"
+  },
+  {
+   "scene": "b10",
+   "text": "Doch dann kam Anna.",
+   "img": "img/B53.jpg"
+  },
+  {
+   "scene": "b11",
+   "text": "Anna ist sieben. Fröhlich, frech, neugierig.",
+   "img": "img/B07.jpg"
+  },
+  {
+   "scene": "b12",
+   "text": "Für Marianne ist sie der Mittelpunkt der Welt.",
+   "img": "img/B54.jpg"
+  },
+  {
+   "scene": "b13",
+   "text": "Am Morgen des 5. Mai streiten Mutter und Tochter. Eine Kleinigkeit, wie in jeder Familie.",
+   "img": "img/B08.jpg",
+   "say": "Am Morgen des fünften Mai streiten Mutter und Tochter. Eine Kleinigkeit, wie in jeder Familie."
+  },
+  {
+   "scene": "b14",
+   "text": "Anna hat keine Lust auf die Schule.",
+   "img": "img/B55.jpg"
+  },
+  {
+   "scene": "b15",
+   "text": "Sie schwänzt – und bleibt in ihrer Straße.",
+   "img": "img/B09.jpg"
+  },
+  {
+   "scene": "b16",
+   "text": "Ein paar Häuser weiter wohnt ein Mann, den sie kennt. Klaus Grabowski, 35 Jahre alt.",
+   "img": "img/B10.jpg",
+   "say": "Ein paar Häuser weiter wohnt ein Mann, den sie kennt. Klaus Grabowski, fünfunddreißig Jahre alt."
+  },
+  {
+   "scene": "b17",
+   "text": "Er ist Metzger. Ein unauffälliger Nachbar.",
+   "img": "img/B56.jpg"
+  },
+  {
+   "scene": "b18",
+   "text": "Er hat Katzen. Und die Kinder der Nachbarschaft kommen gern vorbei, um mit ihnen zu spielen.",
+   "img": "img/B11.jpg"
+  },
+  {
+   "scene": "b19",
+   "text": "Was die Nachbarn nicht wissen: Grabowski war schon einmal verurteilt worden.",
+   "img": "img/B12.jpg"
+  },
+  {
+   "scene": "b20",
+   "text": "Er galt als Gefahr für Kinder.",
+   "img": "img/B57.jpg"
+  },
+  {
+   "scene": "b21",
+   "text": "Anna klingelt an seiner Tür. Er lässt sie herein.",
+   "img": "img/B13.jpg"
+  },
+  {
+   "scene": "b22",
+   "text": "Sie kommt nie wieder heraus.",
+   "img": "img/B58.jpg"
+  },
+  {
+   "scene": "b23",
+   "text": "Mittags kommt Anna nicht nach Hause.",
+   "img": "img/B59.jpg"
+  },
+  {
+   "scene": "b24",
+   "text": "Am Nachmittag sucht Marianne überall nach ihrer Tochter. Bei Freundinnen, auf Spielplätzen, in der Schule.",
+   "img": "img/B14.jpg"
+  },
+  {
+   "scene": "b25",
+   "text": "Am Abend ruft sie die Polizei. Die ganze Nacht suchen Beamte nach dem kleinen Mädchen.",
+   "img": "img/B15.jpg"
+  },
+  {
+   "scene": "b26",
+   "text": "Marianne sitzt am Telefon und wartet. Stunde um Stunde.",
+   "img": "img/B60.jpg"
+  },
+  {
+   "scene": "b27",
+   "text": "Dann meldet sich eine Frau. Grabowskis Verlobte. Er habe ihr etwas Schreckliches gestanden.",
+   "img": "img/B16.jpg"
+  },
+  {
+   "scene": "b28",
+   "text": "Klaus Grabowski wird festgenommen.",
+   "img": "img/B17.jpg"
+  },
+  {
+   "scene": "b29",
+   "text": "Er führt die Polizei an das Ufer eines Kanals. Dort, in einem Karton, finden sie Anna.",
+   "img": "img/B18.jpg"
+  },
+  {
+   "scene": "b30",
+   "text": "Für Marianne bricht die Welt zusammen.",
+   "img": "img/B19.jpg"
+  },
+  {
+   "scene": "b31",
+   "text": "Im Verhör gibt Grabowski zu, das Mädchen getötet zu haben.",
+   "img": "img/B20.jpg"
+  },
+  {
+   "scene": "b32",
+   "text": "Aber seine Erklärung macht alles noch schlimmer.",
+   "img": "img/B61.jpg"
+  },
+  {
+   "scene": "b33",
+   "text": "Er behauptet, Anna habe ihn erpresst. Sie habe Geld von ihm verlangt.",
+   "img": "img/B21.jpg"
+  },
+  {
+   "scene": "b34",
+   "text": "Ein siebenjähriges Kind – als Erpresserin. Marianne liest es in der Zeitung. Und sie kann es nicht fassen.",
+   "img": "img/B22.jpg",
+   "say": "Ein Mädchen von sieben Jahren soll ihn unter Druck gesetzt haben. Marianne liest es in der Zeitung. Und sie kann es nicht fassen."
+  },
+  {
+   "scene": "b35",
+   "text": "Dann wird bekannt: Um früher aus der Haft zu kommen, hatte Grabowski sich Jahre zuvor freiwillig kastrieren lassen.",
+   "img": "img/B23.jpg"
+  },
+  {
+   "scene": "b36",
+   "text": "Später nahm er heimlich Hormone.",
+   "img": "img/B62.jpg"
+  },
+  {
+   "scene": "b37",
+   "text": "Ein Mann, vor dem man hätte warnen müssen. Und niemand hat es getan.",
+   "img": "img/B63.jpg"
+  },
+  {
+   "scene": "b38",
+   "text": "Anna wird beerdigt. Ein kleiner weißer Sarg. Marianne steht davor und weint.",
+   "img": "img/B24.jpg"
+  },
+  {
+   "scene": "b39",
+   "text": "Fast ein Jahr vergeht. Marianne wartet auf den Prozess.",
+   "img": "img/B64.jpg"
+  },
+  {
+   "scene": "b40",
+   "text": "Im März 1981 beginnt der Prozess vor dem Landgericht Lübeck.",
+   "img": "img/B25.jpg",
+   "say": "Im März neunzehnhunderteinundachtzig beginnt der Prozess vor dem Landgericht Lübeck."
+  },
+  {
+   "scene": "b41",
+   "text": "Der Saal ist voll. Presse, Fotografen, Nachbarn. Alle wollen sehen, wie er verurteilt wird.",
+   "img": "img/B26.jpg"
+  },
+  {
+   "scene": "b42",
+   "text": "Marianne sitzt jeden Tag im Zuschauerraum. Nur wenige Meter von dem Mann entfernt, der ihr Kind getötet hat.",
+   "img": "img/B27.jpg"
+  },
+  {
+   "scene": "b43",
+   "text": "Seine Verteidigung spricht von verminderter Schuldfähigkeit.",
+   "img": "img/B28.jpg"
+  },
+  {
+   "scene": "b44",
+   "text": "Und er wiederholt seine Geschichte über Anna.",
+   "img": "img/B65.jpg"
+  },
+  {
+   "scene": "b45",
+   "text": "Marianne hört zu. Tag für Tag. Und etwas in ihr zerbricht.",
+   "img": "img/B66.jpg"
+  },
+  {
+   "scene": "b46",
+   "text": "Am 6. März 1981, dem dritten Prozesstag, hat sie etwas in ihrer Handtasche.",
+   "img": "img/B29.jpg",
+   "say": "Am sechsten März neunzehnhunderteinundachtzig, dem dritten Prozesstag, hat sie etwas in ihrer Handtasche."
+  },
+  {
+   "scene": "b47",
+   "text": "Eine kleine Pistole. Eine Beretta.",
+   "img": "img/B67.jpg"
+  },
+  {
+   "scene": "b48",
+   "text": "Sie steht auf. Sie geht ein paar Schritte nach vorne.",
+   "img": "img/B30.jpg"
+  },
+  {
+   "scene": "b49",
+   "text": "Und zieht die Waffe.",
+   "img": "img/B68.jpg"
+  },
+  {
+   "scene": "b50",
+   "text": "Sie drückt ab. Acht Mal.",
+   "img": "img/B69.jpg"
+  },
+  {
+   "scene": "b51",
+   "text": "Sechs Kugeln treffen.",
+   "img": "img/B70.jpg"
+  },
+  {
+   "scene": "b52",
+   "text": "Klaus Grabowski bricht zusammen. Er stirbt noch im Gerichtssaal.",
+   "img": "img/B31.jpg"
+  },
+  {
+   "scene": "b53",
+   "text": "Marianne lässt die Waffe sinken. Sie wehrt sich nicht. Sie läuft nicht weg.",
+   "img": "img/B32.jpg"
+  },
+  {
+   "scene": "b54",
+   "text": "Am nächsten Morgen kennt ganz Deutschland ihren Namen.",
+   "img": "img/B33.jpg"
+  },
+  {
+   "scene": "b55",
+   "text": "Und das ganze Land streitet. In Kneipen, in Familien, in den Zeitungen.",
+   "img": "img/B34.jpg"
+  },
+  {
+   "scene": "b56",
+   "text": "Viele feiern sie als Heldin. Sie bekommt tausende Briefe, Blumen, Spenden.",
+   "img": "img/B35.jpg"
+  },
+  {
+   "scene": "b57",
+   "text": "Andere sind entsetzt. Niemand darf selbst Richter sein, sagen sie. Auch keine Mutter.",
+   "img": "img/B36.jpg"
+  },
+  {
+   "scene": "b58",
+   "text": "Eine Umfrage zeigt, wie tief der Riss geht. Etwa ein Viertel findet eine Strafe angemessen, ein Viertel zu hart, ein Viertel zu mild.",
+   "img": "img/B37.jpg"
+  },
+  {
+   "scene": "b59",
+   "text": "Eine große Illustrierte zahlt viel Geld für ihre Geschichte. Damit bezahlt Marianne ihre Verteidigung.",
+   "img": "img/B38.jpg"
+  },
+  {
+   "scene": "b60",
+   "text": "Dann steht sie selbst vor Gericht. Die Anklage lautet: Mord.",
+   "img": "img/B39.jpg"
+  },
+  {
+   "scene": "b61",
+   "text": "Die Verteidigung sagt: Sie handelte im Ausnahmezustand. Aus Trauer, aus Verzweiflung.",
+   "img": "img/B40.jpg"
+  },
+  {
+   "scene": "b62",
+   "text": "Die Anklage sagt: Sie hat die Waffe mitgebracht. Sie hat es geplant.",
+   "img": "img/B41.jpg"
+  },
+  {
+   "scene": "b63",
+   "text": "Das war kein Augenblick des Wahnsinns.",
+   "img": "img/B71.jpg"
+  },
+  {
+   "scene": "b64",
+   "text": "1983 fällt das Urteil. Kein Mord – sondern Totschlag. Sechs Jahre Haft.",
+   "img": "img/B42.jpg",
+   "say": "Neunzehnhundertdreiundachtzig fällt das Urteil. Kein Mord – sondern Totschlag. Sechs Jahre Haft."
+  },
+  {
+   "scene": "b65",
+   "text": "Nach drei Jahren kommt sie frei. Aber Ruhe findet sie nie.",
+   "img": "img/B43.jpg"
+  },
+  {
+   "scene": "b66",
+   "text": "Sie verlässt Deutschland. Sie lebt in Afrika, später auf Sizilien. Weit weg von Lübeck.",
+   "img": "img/B44.jpg"
+  },
+  {
+   "scene": "b67",
+   "text": "Jahre später spricht sie im Fernsehen offen über den Tag im Gerichtssaal.",
+   "img": "img/B45.jpg"
+  },
+  {
+   "scene": "b68",
+   "text": "Sie sagt: Sie habe es bewusst getan. Sie wollte verhindern, dass er noch mehr Lügen über Anna erzählt.",
+   "img": "img/B72.jpg"
+  },
+  {
+   "scene": "b69",
+   "text": "Kurz darauf erfährt sie, dass sie schwer krank ist. Krebs.",
+   "img": "img/B46.jpg"
+  },
+  {
+   "scene": "b70",
+   "text": "Sie kehrt nach Lübeck zurück. 1996 stirbt Marianne Bachmeier. Sie wird nur 46 Jahre alt.",
+   "img": "img/B73.jpg",
+   "say": "Sie kehrt nach Lübeck zurück. Neunzehnhundertsechsundneunzig stirbt Marianne Bachmeier. Sie wird nur sechsundvierzig Jahre alt."
+  },
+  {
+   "scene": "b71",
+   "text": "Sie wird neben ihrer Tochter begraben. Endlich wieder bei Anna.",
+   "img": "img/B47.jpg"
+  },
+  {
+   "scene": "b72",
+   "text": "Ihr Fall wird verfilmt, in Büchern erzählt, in Schulen diskutiert. Bis heute.",
+   "img": "img/B74.jpg"
+  },
+  {
+   "scene": "b73",
+   "text": "Denn die Frage, die sie hinterlassen hat, ist nie beantwortet worden.",
+   "img": "img/B48.jpg"
+  },
+  {
+   "scene": "b74",
+   "text": "Darf ein Mensch das Recht selbst in die Hand nehmen? Wenn es um das eigene Kind geht?",
+   "img": "img/B75.jpg"
+  },
+  {
+   "scene": "b75",
+   "text": "Und jetzt frage ich dich: Hättest du an ihrer Stelle genauso gehandelt? Schreib es in die Kommentare.",
+   "img": "img/B76.jpg"
+  },
+  {
+   "scene": "b76",
+   "text": "Und folge Schattenchronik für mehr wahre Geschichten.",
+   "img": "img/B77.jpg"
+  }
+ ]
+}

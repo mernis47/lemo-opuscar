@@ -1,0 +1,343 @@
+{
+ "id": "gacy_de",
+ "lang": "de",
+ "style": "reel",
+ "widescreen": true,
+ "shots": true,
+ "pad_default": 0.25,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "g01",
+   "text": "Er verkleidete sich als Clown und brachte Kinder zum Lachen. Doch unter seinem Haus lag eines der dunkelsten Geheimnisse Amerikas.",
+   "img": "img/G01.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "g02",
+   "text": "Sein Name: John Wayne Gacy. Die Welt kennt ihn heute als den Killer-Clown.",
+   "img": "img/G02.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "g03",
+   "text": "Dezember 1978. Ein ganz normales Haus in einem Vorort von Chicago. Gepflegter Rasen, freundliche Nachbarn.",
+   "img": "img/G03.jpg",
+   "say": "Dezember neunzehnhundertachtundsiebzig. Ein ganz normales Haus in einem Vorort von Chicago. Gepflegter Rasen, freundliche Nachbarn."
+  },
+  {
+   "scene": "g04",
+   "text": "Wenige Tage später stehen dort Dutzende Polizeiwagen. Und was die Ermittler finden, schockiert eine ganze Nation.",
+   "img": "img/G04.jpg"
+  },
+  {
+   "scene": "g05",
+   "text": "Wie wird aus einem beliebten Nachbarn eines der schlimmsten Monster der Geschichte? Alles beginnt in seiner Kindheit.",
+   "img": "img/G05.jpg"
+  },
+  {
+   "scene": "g06",
+   "text": "Gacy wird am 17. März 1942 in Chicago geboren. Sein Vater trinkt, schreit und schlägt. Für ihn ist der Junge ein Versager.",
+   "img": "img/G05.jpg",
+   "say": "Gacy wird am siebzehnten März neunzehnhundertzweiundvierzig in Chicago geboren. Sein Vater trinkt, schreit und schlägt. Für ihn ist der Junge ein Versager."
+  },
+  {
+   "scene": "g07",
+   "text": "Dazu kommt ein schwaches Herz. Der Junge liegt oft im Krankenhaus. Und der Vater nennt ihn einen Simulanten.",
+   "img": "img/G06.jpg"
+  },
+  {
+   "scene": "g08",
+   "text": "Als junger Mann zieht Gacy nach Iowa. Er heiratet und leitet mehrere Fast-Food-Restaurants seines Schwiegervaters.",
+   "img": "img/G07.jpg"
+  },
+  {
+   "scene": "g09",
+   "text": "Er engagiert sich in einem Verein junger Geschäftsleute, gewinnt Preise, wird bewundert. Nach außen ein Vorzeigebürger.",
+   "img": "img/G08.jpg"
+  },
+  {
+   "scene": "g10",
+   "text": "Doch 1968 zeigt sich sein wahres Gesicht. Gacy wird vor Gericht gestellt und verurteilt. Zehn Jahre Haft.",
+   "img": "img/G09.jpg",
+   "say": "Doch neunzehnhundertachtundsechzig zeigt sich sein wahres Gesicht. Gacy wird vor Gericht gestellt und verurteilt. Zehn Jahre Haft."
+  },
+  {
+   "scene": "g11",
+   "text": "Im Gefängnis gilt er als Mustergefangener. Er kocht, organisiert, ist zu allen höflich.",
+   "img": "img/G10.jpg"
+  },
+  {
+   "scene": "g12",
+   "text": "Nach nur 18 Monaten ist er wieder frei. Ein Fehler, der viele junge Menschen das Leben kosten wird.",
+   "img": "img/G10.jpg",
+   "say": "Nach nur achtzehn Monaten ist er wieder frei. Ein Fehler, der viele junge Menschen das Leben kosten wird.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "g13",
+   "text": "1971 kauft er ein Haus in Norwood Park, im Nordwesten von Chicago. Adresse: 8213 West Summerdale Avenue.",
+   "img": "img/G11.jpg",
+   "say": "Neunzehnhunderteinundsiebzig kauft er ein Haus in Norwood Park, im Nordwesten von Chicago. Adresse: Zweiundachtzig dreizehn, West Summerdale Avenue."
+  },
+  {
+   "scene": "g14",
+   "text": "Er feiert riesige Gartenpartys. Hunderte Gäste kommen. Niemand ahnt, was direkt unter ihren Füßen liegt.",
+   "img": "img/G12.jpg"
+  },
+  {
+   "scene": "g15",
+   "text": "Gacy gründet eine eigene Baufirma: PDM Contractors. Am liebsten stellt er junge Männer und Teenager ein.",
+   "img": "img/G13.jpg",
+   "say": "Gacy gründet eine eigene Baufirma: P D M Contractors. Am liebsten stellt er junge Männer und Teenager ein."
+  },
+  {
+   "scene": "g16",
+   "text": "Und er erschafft eine zweite Identität: Pogo, der Clown. Geschminkt und im gestreiften Kostüm besucht er Kinderfeste und Krankenhäuser.",
+   "img": "img/G14.jpg"
+  },
+  {
+   "scene": "g17",
+   "text": "Später soll er einen Satz gesagt haben, der bis heute Gänsehaut macht: Clowns kommen sogar mit Mord davon.",
+   "img": "img/G02.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "g18",
+   "text": "Gacy wird sogar politisch aktiv. 1978 schüttelt er bei einer Parade die Hand der First Lady, Rosalynn Carter.",
+   "img": "img/G15.jpg",
+   "say": "Gacy wird sogar politisch aktiv. Neunzehnhundertachtundsiebzig schüttelt er bei einer Parade die Hand der First Lady, Rosalynn Carter."
+  },
+  {
+   "scene": "g19",
+   "text": "Auf dem Foto trägt er eine kleine Anstecknadel. Die bekamen nur Personen, die vom Secret Service überprüft worden waren.",
+   "img": "img/G16.jpg"
+  },
+  {
+   "scene": "g20",
+   "text": "Ein Mann, vom Geheimdienst durchleuchtet. Und gleichzeitig ein Serienmörder.",
+   "img": "img/G16.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "g21",
+   "text": "Doch zu Hause stimmt etwas nicht. Seine Frau beschwert sich immer wieder über einen seltsamen Geruch im Haus.",
+   "img": "img/G17.jpg"
+  },
+  {
+   "scene": "g22",
+   "text": "Gacy hat immer eine Erklärung. Feuchtigkeit, sagt er. Ein Problem mit dem Abwasser.",
+   "img": "img/G17.jpg"
+  },
+  {
+   "scene": "g23",
+   "text": "Unter dem Haus gibt es einen niedrigen Kriechkeller. Gacy lässt niemanden dort hinunter. Niemals.",
+   "img": "img/G18.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "g24",
+   "text": "Zwischen 1972 und 1978 verschwinden in Chicago immer mehr junge Männer. Viele sind Ausreißer, ohne Geld, ohne Zuhause.",
+   "img": "img/G19.jpg",
+   "say": "Zwischen neunzehnhundertzweiundsiebzig und neunzehnhundertachtundsiebzig verschwinden in Chicago immer mehr junge Männer. Viele sind Ausreißer, ohne Geld, ohne Zuhause."
+  },
+  {
+   "scene": "g25",
+   "text": "Gacy spricht sie an. Er bietet ihnen Arbeit an, eine Mitfahrt, einen Platz zum Schlafen.",
+   "img": "img/G20.jpg"
+  },
+  {
+   "scene": "g26",
+   "text": "Zu Hause zeigt er ihnen einen angeblichen Zaubertrick mit Handschellen. Wer sie einmal trägt, kommt nicht mehr frei.",
+   "img": "img/G20.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "g27",
+   "text": "Die Familien melden ihre Söhne als vermisst. Doch die Polizei hält die meisten für ganz normale Ausreißer.",
+   "img": "img/G21.jpg"
+  },
+  {
+   "scene": "g28",
+   "text": "Eine Mutter wartet jede Nacht neben dem Telefon. Es wird nie klingeln.",
+   "img": "img/G22.jpg"
+  },
+  {
+   "scene": "g29",
+   "text": "Dann kommt der 11. Dezember 1978. Robert Piest, 15 Jahre alt, jobbt in einer Apotheke in Des Plaines.",
+   "img": "img/G23.jpg",
+   "say": "Dann kommt der elfte Dezember neunzehnhundertachtundsiebzig. Robert Piest, fünfzehn Jahre alt, jobbt in einer Apotheke in Des Plaines.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "g30",
+   "text": "Am selben Tag ist Gacy dort, um einen Umbau zu besprechen. Er erwähnt, dass er Jungen für gut bezahlte Arbeit sucht.",
+   "img": "img/G23.jpg"
+  },
+  {
+   "scene": "g31",
+   "text": "Robert will mehr Geld verdienen. Er sagt: Ich bin gleich wieder da. Dann geht er hinaus in den Schnee.",
+   "img": "img/G24.jpg",
+   "snow": 0.5
+  },
+  {
+   "scene": "g32",
+   "text": "Draußen im Auto wartet seine Mutter. Es ist ihr Geburtstag. Zu Hause steht schon die Torte bereit.",
+   "img": "img/G25.jpg"
+  },
+  {
+   "scene": "g33",
+   "text": "Robert kommt nie zurück.",
+   "img": "img/G25.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "g34",
+   "text": "Der Fall landet bei Leutnant Joseph Kozenczak. Er spürt sofort: Hier stimmt etwas nicht.",
+   "img": "img/G26.jpg"
+  },
+  {
+   "scene": "g35",
+   "text": "Die Polizei besucht Gacy. Er bleibt freundlich, ruhig, hilfsbereit. Und er streitet alles ab.",
+   "img": "img/G27.jpg",
+   "snow": 0.4
+  },
+  {
+   "scene": "g36",
+   "text": "Kozenczak prüft seine Vergangenheit. Und stößt auf die alte Verurteilung in Iowa.",
+   "img": "img/G26.jpg"
+  },
+  {
+   "scene": "g37",
+   "text": "Ab sofort wird Gacy rund um die Uhr beschattet. Zwei Teams folgen ihm überall hin.",
+   "img": "img/G28.jpg",
+   "snow": 0.4
+  },
+  {
+   "scene": "g38",
+   "text": "Gacy macht ein Spiel daraus. Er lädt die Beamten zum Frühstück ein und lacht ihnen ins Gesicht.",
+   "img": "img/G29.jpg"
+  },
+  {
+   "scene": "g39",
+   "text": "Mit einem Durchsuchungsbefehl betreten die Ermittler sein Haus. Sie finden Handschellen, verdächtige Bücher und einen Ring, der nicht ihm gehört.",
+   "img": "img/G30.jpg"
+  },
+  {
+   "scene": "g40",
+   "text": "Und dann einen kleinen Zettel: einen Abholschein für Fotos. Aus genau der Apotheke, in der Robert gearbeitet hat.",
+   "img": "img/G31.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "g41",
+   "text": "Bei einem weiteren Besuch springt die Heizung an. Ein Beamter erkennt den Geruch aus dem Lüftungsschacht sofort. Es ist der Geruch des Todes.",
+   "img": "img/G32.jpg"
+  },
+  {
+   "scene": "g42",
+   "text": "Gacy spürt, wie sich die Schlinge zuzieht. In einer langen Nacht bei seinen Anwälten beginnt er zu reden. Stundenlang.",
+   "img": "img/G33.jpg"
+  },
+  {
+   "scene": "g43",
+   "text": "Am 21. Dezember 1978 wird John Wayne Gacy verhaftet.",
+   "img": "img/G34.jpg",
+   "say": "Am einundzwanzigsten Dezember neunzehnhundertachtundsiebzig wird John Wayne Gacy verhaftet.",
+   "sfx": "heart",
+   "snow": 0.5
+  },
+  {
+   "scene": "g44",
+   "text": "Auf einer Skizze zeigt er den Ermittlern, wo sie graben sollen. Im Kriechkeller beginnt die schlimmste Arbeit ihres Lebens.",
+   "img": "img/G35.jpg"
+  },
+  {
+   "scene": "g45",
+   "text": "26 Opfer liegen direkt unter dem Haus. 3 weitere auf dem Grundstück.",
+   "img": "img/G35.jpg",
+   "say": "Sechsundzwanzig Opfer liegen direkt unter dem Haus. Drei weitere auf dem Grundstück.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "g46",
+   "text": "Reporter belagern die Straße. Ganz Amerika verfolgt die Nachrichten mit Entsetzen.",
+   "img": "img/G36.jpg"
+  },
+  {
+   "scene": "g47",
+   "text": "4 weitere Opfer warf er in den Des Plaines River, weil unter dem Haus kein Platz mehr war. Auch Robert Piest.",
+   "img": "img/G37.jpg",
+   "say": "Vier weitere Opfer warf er in den Des Plaines River, weil unter dem Haus kein Platz mehr war. Auch Robert Piest."
+  },
+  {
+   "scene": "g48",
+   "text": "Insgesamt mindestens 33 junge Männer und Jungen. Die jüngsten waren erst 14.",
+   "img": "img/G37.jpg",
+   "say": "Insgesamt mindestens dreiunddreißig junge Männer und Jungen. Die jüngsten waren erst vierzehn.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "g49",
+   "text": "1979 wird das Haus abgerissen. Doch die Erinnerung lässt sich nicht abreißen.",
+   "img": "img/G38.jpg",
+   "say": "Neunzehnhundertneunundsiebzig wird das Haus abgerissen. Doch die Erinnerung lässt sich nicht abreißen."
+  },
+  {
+   "scene": "g50",
+   "text": "Im Februar 1980 beginnt der Prozess. Gacy gibt an, unzurechnungsfähig zu sein. Die Geschworenen glauben ihm nicht.",
+   "img": "img/G39.jpg",
+   "say": "Im Februar neunzehnhundertachtzig beginnt der Prozess. Gacy gibt an, unzurechnungsfähig zu sein. Die Geschworenen glauben ihm nicht."
+  },
+  {
+   "scene": "g51",
+   "text": "Nach weniger als 2 Stunden Beratung: schuldig in 33 Fällen. Das Urteil lautet Todesstrafe.",
+   "img": "img/G39.jpg",
+   "say": "Nach weniger als zwei Stunden Beratung: schuldig in dreiunddreißig Fällen. Das Urteil lautet Todesstrafe.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "g52",
+   "text": "Im Todestrakt beginnt Gacy zu malen. Clowns. Immer wieder Clowns.",
+   "img": "img/G40.jpg"
+  },
+  {
+   "scene": "g53",
+   "text": "Seine Bilder werden an Sammler verkauft. Für viele Angehörige der Opfer ist das unerträglich.",
+   "img": "img/G41.jpg"
+  },
+  {
+   "scene": "g54",
+   "text": "Am 10. Mai 1994 wird Gacy im Gefängnis Stateville hingerichtet. Draußen warten Hunderte Menschen. Manche feiern, andere beten.",
+   "img": "img/G42.jpg",
+   "say": "Am zehnten Mai neunzehnhundertvierundneunzig wird Gacy im Gefängnis Stateville hingerichtet. Draußen warten Hunderte Menschen. Manche feiern, andere beten."
+  },
+  {
+   "scene": "g55",
+   "text": "Seine letzten Worte sollen eine Beleidigung gewesen sein. Keine Reue. Bis zum Schluss.",
+   "img": "img/G42.jpg"
+  },
+  {
+   "scene": "g56",
+   "text": "Doch die Geschichte ist nicht vorbei. 2011 werden die unbekannten Opfer mit DNA-Tests neu untersucht.",
+   "img": "img/G43.jpg",
+   "say": "Doch die Geschichte ist nicht vorbei. Zweitausendelf werden die unbekannten Opfer mit D N A Tests neu untersucht."
+  },
+  {
+   "scene": "g57",
+   "text": "Einige bekommen endlich ihren Namen zurück. Andere sind bis heute namenlos.",
+   "img": "img/G43.jpg"
+  },
+  {
+   "scene": "g58",
+   "text": "Heute steht an der Summerdale Avenue ein anderes Haus. Die Straße ist ruhig. Fast so ruhig wie damals.",
+   "img": "img/G44.jpg"
+  },
+  {
+   "scene": "g59",
+   "text": "Vielleicht ist das die erschreckendste Lektion: Das Böse trägt nicht immer eine Maske. Manchmal trägt es eine rote Nase und lacht.",
+   "img": "img/G45.jpg",
+   "sfx": "sting"
+  }
+ ]
+}

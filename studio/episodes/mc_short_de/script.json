@@ -1,0 +1,74 @@
+{
+ "id": "mc_short_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "wind_gain": 0.15,
+ "lines": [
+  {
+   "scene": "s01",
+   "img": "img/S01.jpg",
+   "move": "in",
+   "text": "Dezember 1872. Mitten im Atlantik treibt ein Schiff. Die Segel zerfetzt. Niemand am Steuer.",
+   "say": "Dezember achtzehnhundertzweiundsiebzig. Mitten im Atlantik treibt ein Schiff. Die Segel zerfetzt. Niemand am Steuer.",
+   "wind": 0.8,
+   "sfx": "sting"
+  },
+  {
+   "scene": "s02",
+   "img": "img/S02.jpg",
+   "move": "up",
+   "text": "Kapitän Morehouse erkennt es sofort: die Mary Celeste. Sie ist acht Tage vor ihm aus New York ausgelaufen.",
+   "wind": 0.6
+  },
+  {
+   "scene": "s03",
+   "img": "img/S03.jpg",
+   "move": "left",
+   "text": "Er schickt drei Männer hinüber. Sie rufen. Keine Antwort.",
+   "wind": 0.8
+  },
+  {
+   "scene": "s04",
+   "img": "img/S04.jpg",
+   "move": "in",
+   "text": "Oliver Deveau klettert an Bord. Das Deck ist leer. Nur das Knarren der Taue.",
+   "wind": 0.6
+  },
+  {
+   "scene": "s05",
+   "img": "img/S05.jpg",
+   "move": "down",
+   "text": "Im Laderaum steht Wasser. Aber das Schiff ist völlig seetüchtig.",
+   "wind": 0.3
+  },
+  {
+   "scene": "s06",
+   "img": "img/S06.jpg",
+   "move": "in",
+   "text": "In der Kajüte: das Bett der kleinen Sophia. Ihr Spielzeug liegt noch da."
+  },
+  {
+   "scene": "s07",
+   "img": "img/S07.jpg",
+   "move": "up",
+   "text": "Der letzte Eintrag im Logbuch ist neun Tage alt. Kein Wort von Gefahr."
+  },
+  {
+   "scene": "s08",
+   "img": "img/S08.jpg",
+   "move": "right",
+   "text": "Dann sieht Deveau, was fehlt. Das Beiboot ist weg. Und mit ihm zehn Menschen.",
+   "wind": 0.7
+  },
+  {
+   "scene": "s09",
+   "img": "img/S09.jpg",
+   "move": "out",
+   "text": "Warum verlässt man ein sicheres Schiff, mitten im Ozean? Die Antwort ist unheimlicher, als du denkst. Folge Schattenchronik.",
+   "wind": 0.8
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "id": "cin_de",
+ "series": "",
+ "number": 0,
+ "title": "Ein Feind, der nichts wiegt",
+ "style": "dynamic",
+ "pad_default": 0.22,
+ "lines": [
+  {
+   "scene": "hook_tree",
+   "text": "1644. Peking. Ein Kaiser erhängt sich an einem Baum auf dem Hügel hinter seinem Palast.",
+   "sfx": "sting",
+   "say": "Sechzehnhundertvierundvierzig. Peking. Ein Kaiser erhängt sich an einem Baum auf dem Hügel hinter seinem Palast."
+  },
+  {
+   "scene": "hook_power",
+   "text": "Er herrscht über das bevölkerungsreichste Land der Welt. Er hat Schießpulver, Kanonen und Millionen Soldaten.",
+   "beds": [
+    "cannon:1"
+   ]
+  },
+  {
+   "scene": "hook_q",
+   "text": "Was also hat ihn an diesen Baum gebracht?"
+  },
+  {
+   "scene": "hook_not",
+   "text": "Keine Armee. Kein Verrat.",
+   "beds": [
+    "hooves:4"
+   ]
+  },
+  {
+   "scene": "hook_invisible",
+   "text": "Etwas, das man mit bloßem Auge nicht einmal sehen kann.",
+   "sfx": "sting",
+   "pad": 0.7
+  },
+  {
+   "scene": "title",
+   "text": "Ein Feind, der nichts wiegt.",
+   "pad": 0.8
+  },
+  {
+   "scene": "inventions",
+   "text": "Zuerst musst du wissen: Dieses Land war die fortschrittlichste Zivilisation seiner Zeit. Schießpulver, Kompass, Buchdruck, Papiergeld... alles ihre Erfindungen.",
+   "beds": [
+    "cannon:1"
+   ]
+  },
+  {
+   "scene": "weakness",
+   "text": "Doch dieser Riese hat eine Schwäche. Und diese Schwäche wird ihn zweimal zu Fall bringen.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "horse_key",
+   "text": "Ihr Name: das Pferd.",
+   "beds": [
+    "hooves:1"
+   ]
+  },
+  {
+   "scene": "horse_war",
+   "text": "In dieser Zeit gewinnt das Pferd den Krieg. Mit Pferden kannst du einkreisen und Fliehende jagen. Ohne Pferde wartest du hinter deinen Mauern.",
+   "beds": [
+    "hooves:6",
+    "arrows:2"
+   ]
+  },
+  {
+   "scene": "horse_bad",
+   "text": "Und Chinas Pferde... waren miserabel. Klein, schwach, krank."
+  },
+  {
+   "scene": "horse_fade",
+   "text": "Selbst starke Pferde aus dem Norden verkümmerten hier innerhalb weniger Jahre."
+  },
+  {
+   "scene": "q_state",
+   "text": "Weißt du, was der Staat dagegen unternahm?"
+  },
+  {
+   "scene": "wang",
+   "text": "1073 erließ der Minister Wang Anshi ein Gesetz: Bauern sollten die Pferde des Staates bei sich zu Hause halten.",
+   "say": "Tausenddreiundsiebzig erließ der Minister Wang Anshi ein Gesetz: Bauern sollten die Pferde des Staates bei sich zu Hause halten."
+  },
+  {
+   "scene": "wang_rule",
+   "text": "Stirbt ein Pferd, zahlt der Bauer."
+  },
+  {
+   "scene": "wang_fail",
+   "text": "Das Ergebnis? Die Pferde starben trotzdem. Die Bauern versanken in Schulden. Das Gesetz scheiterte."
+  },
+  {
+   "scene": "buy",
+   "text": "Es blieb nur ein Ausweg: kaufen."
+  },
+  {
+   "scene": "tea",
+   "text": "China schaffte Tonnen von Tee über die Grenze und bekam dafür Pferde. Dafür gründete man sogar eine eigene Behörde: das Tee-und-Pferde-Amt.",
+   "beds": [
+    "hooves:2:walk"
+   ]
+  },
+  {
+   "scene": "twist",
+   "text": "Doch das Schreckliche daran: Die Verkäufer waren genau die Steppenvölker, die eines Tages mit diesen Pferden China angreifen würden.",
+   "sfx": "sting",
+   "beds": [
+    "hooves:6"
+   ]
+  },
+  {
+   "scene": "enemy_fed",
+   "text": "Das mächtigste Reich der Welt finanzierte seinen eigenen Feind.",
+   "beds": [
+    "hooves:1"
+   ]
+  },
+  {
+   "scene": "best_horse",
+   "text": "Und der Hirte in der Steppe verkaufte niemals sein bestes Pferd."
+  },
+  {
+   "scene": "steppe",
+   "text": "Im Norden war alles genau umgekehrt.",
+   "beds": [
+    "hooves:3"
+   ]
+  },
+  {
+   "scene": "mongol_spare",
+   "text": "Ein mongolischer Krieger zog nicht mit einem Pferd in den Krieg, sondern mit drei, vier, manchmal fünf Ersatzpferden.",
+   "beds": [
+    "hooves:4"
+   ]
+  },
+  {
+   "scene": "mongol_cold",
+   "text": "Diese Pferde liefen bei minus vierzig Grad, scharrten das Gras unter dem Schnee hervor und rannten tagelang ohne Pause.",
+   "beds": [
+    "hooves:4"
+   ]
+  },
+  {
+   "scene": "dust",
+   "text": "Und eines Tages kam diese Staubwolke aus dem Norden.",
+   "beds": [
+    "hooves:12"
+   ]
+  },
+  {
+   "scene": "siege",
+   "text": "1268. Die Mongolen belagern Xiangyang, die stärkste Festung der Song.",
+   "beds": [
+    "cannon:3",
+    "arrows:2"
+   ],
+   "say": "Zwölfhundertachtundsechzig. Die Mongolen belagern Xiangyang, die stärkste Festung der Song."
+  },
+  {
+   "scene": "years",
+   "text": "Ein Jahr vergeht. Zwei. Drei. Fünf Jahre.",
+   "sfx": "tick"
+  },
+  {
+   "scene": "fall",
+   "text": "1273 fällt die Festung. Das Tor zum Süden steht offen.",
+   "sfx": "stone",
+   "beds": [
+    "cannon:1",
+    "fire"
+   ],
+   "say": "Zwölfhundertdreiundsiebzig fällt die Festung. Das Tor zum Süden steht offen."
+  },
+  {
+   "scene": "sea_battle",
+   "text": "1279 verliert die letzte Hoffnung der Song-Dynastie ihre letzte Schlacht auf dem Meer.",
+   "sfx": "sting",
+   "beds": [
+    "cannon:4",
+    "fire"
+   ],
+   "say": "Zwölfhundertneunundsiebzig verliert die letzte Hoffnung der Song-Dynastie ihre letzte Schlacht auf dem Meer."
+  },
+  {
+   "scene": "kublai",
+   "text": "China gehörte nun der Steppe. Auf dem Thron saß Kublai, der Enkel Dschingis Khans."
+  },
+  {
+   "scene": "ming",
+   "text": "Ein Jahrhundert später wurden die Mongolen vertrieben. Die neue Ming-Dynastie glaubte, ihre Lektion gelernt zu haben.",
+   "beds": [
+    "hooves:5"
+   ]
+  },
+  {
+   "scene": "wall",
+   "text": "Und sie errichtete gewaltige Mauern. Die Mauern, die wir heute die Chinesische Mauer nennen."
+  },
+  {
+   "scene": "same_horses",
+   "text": "Doch eines konnten sie nicht ändern. Die Pferde blieben schwach. Sie mussten weiterhin an der Grenze gekauft werden."
+  },
+  {
+   "scene": "rebels",
+   "text": "1644. Das Land zerbricht an inneren Aufständen. Rebellen dringen in Peking ein.",
+   "beds": [
+    "musket:6",
+    "fire"
+   ],
+   "say": "Sechzehnhundertvierundvierzig. Das Land zerbricht an inneren Aufständen. Rebellen dringen in Peking ein."
+  },
+  {
+   "scene": "tree_again",
+   "text": "Kaiser Chongzhen steigt auf den Hügel. Der Baum vom Anfang dieser Geschichte... ist dieser Baum.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "manchu",
+   "text": "Wenige Wochen später stößt eine neue Macht aus dem Nordosten vor: die Mandschu. Meisterhafte Reiter, meisterhafte Bogenschützen.",
+   "beds": [
+    "hooves:8",
+    "arrows:2"
+   ]
+  },
+  {
+   "scene": "gate",
+   "text": "Sie ziehen durch das Tor der Mauer und nehmen Peking ein.",
+   "beds": [
+    "hooves:6"
+   ]
+  },
+  {
+   "scene": "twice",
+   "text": "Zum zweiten Mal ergab sich das riesige China den Reitern der Steppe. Die Mandschu regierten dieses Land ganze zweihundertachtundsechzig Jahre."
+  },
+  {
+   "scene": "why",
+   "text": "Aber was war nun mit diesen Pferden los?",
+   "pad": 0.6
+  },
+  {
+   "scene": "keshan",
+   "text": "Die Antwort kam Jahrhunderte später. 1935 starben im Nordosten Chinas Menschen an einer rätselhaften Herzkrankheit.",
+   "sfx": "heart",
+   "say": "Die Antwort kam Jahrhunderte später. Neunzehnhundertfünfunddreißig starben im Nordosten Chinas Menschen an einer rätselhaften Herzkrankheit."
+  },
+  {
+   "scene": "search",
+   "text": "Jahrelang suchten Wissenschaftler nach der Ursache. Und schließlich fanden sie sie."
+  },
+  {
+   "scene": "selenium",
+   "text": "Im Boden fehlte Selen.",
+   "sfx": "sting",
+   "pad": 0.8
+  },
+  {
+   "scene": "what_se",
+   "text": "Selen. Ein unsichtbares Mineral, ohne Geschmack und ohne Geruch. Aber lebenswichtig für Muskeln und Herz."
+  },
+  {
+   "scene": "white_muscle",
+   "text": "Fehlt es bei Tieren, werden die Muskeln schwach, das Herz ermüdet, und die Jungtiere wachsen nicht."
+  },
+  {
+   "scene": "belt",
+   "text": "Und auf der Karte Chinas zieht sich vom Nordosten bis in den Südwesten ein riesiger Gürtel, in dem der Boden kaum Selen enthält."
+  },
+  {
+   "scene": "theory",
+   "text": "Einigen Forschern zufolge war das einer der Gründe, warum Chinas Pferde über Jahrhunderte schwach blieben."
+  },
+  {
+   "scene": "cannot",
+   "text": "Du kannst das Schießpulver erfinden. Du kannst die längste Mauer der Welt bauen. Aber was der Boden nicht hergibt, kann niemand erzwingen.",
+   "beds": [
+    "cannon:1"
+   ]
+  },
+  {
+   "scene": "finale",
+   "text": "Der Feind, der ein Imperium stürzt, wirbelt manchmal keinen Staub auf. Manchmal wartet er jahrhundertelang still unter deinen Füßen.",
+   "sfx": "sting",
+   "pad": 2.5
+  }
+ ],
+ "ambient_gain": 0.25,
+ "lang": "de",
+ "scenes_from": "cin",
+ "labels": {
+  "PEKİN": "PEKING",
+  "BARUT": "SCHIESSPULVER",
+  "BİR GRAM BİLE": "EIN FEIND,",
+  "GELMEYEN DÜŞMAN": "DER NICHTS WIEGT",
+  "ÇAĞININ ZİRVESİ": "GIPFEL SEINER ZEIT",
+  "PUSULA": "KOMPASS",
+  "KÂĞIT PARA": "PAPIERGELD",
+  "2 KEZ": "2-MAL",
+  "AT": "DAS PFERD",
+  "KISA · CILIZ · HASTA": "KLEIN · SCHWACH · KRANK",
+  "~. YIL": ". JAHR",
+  "NE YAPTI?": "DIE LÖSUNG?",
+  "ÖDEYEN: KÖYLÜ": "ZAHLEN: DIE BAUERN",
+  "ATLAR ÖLDÜ": "PFERDE STARBEN",
+  "KÖYLÜ BORÇTA": "BAUERN VERSCHULDET",
+  "ÇÖKTÜ": "GESCHEITERT",
+  "SATIN AL": "KAUFEN",
+  "DÜŞMAN": "DER FEIND",
+  "SATILMAZ": "UNVERKÄUFLICH",
+  "1 ASKER": "1 KRIEGER",
+  "~ AT": " PFERDE",
+  "1 YIL": "1 JAHR",
+  "5 YIL": "5 JAHRE",
+  "KUBİLAY HAN": "KUBLAI KHAN",
+  "MİNG": "MING",
+  "ÇİN SEDDİ": "CHINESISCHE MAUER",
+  "MANÇULAR": "MANDSCHU",
+  "268 YIL": "268 JAHRE",
+  "NEDEN?": "WARUM?",
+  "GÖRÜNMEZ": "UNSICHTBAR",
+  "TATSIZ": "GESCHMACKLOS",
+  "KOKUSUZ": "GERUCHLOS",
+  "KALP · KAS": "HERZ · MUSKELN",
+  "SELENYUM KUŞAĞI": "SELEN-GÜRTEL",
+  "BİR TEORİ": "EINE THEORIE",
+  "TOPRAK": "DER BODEN",
+  "BİR GRAM BİLE GELMEYEN DÜŞMAN": "EIN FEIND, DER NICHTS WIEGT",
+  "SELENYUM": "SELEN",
+  "AT BESLEME": "PFERDEHALTUNGS-",
+  "YASASI": "GESETZ",
+  "ÇAY-AT": "TEE-PFERDE-",
+  "DAİRESİ": "BEHÖRDE",
+  "BOZKIR": "STEPPE"
+ }
+}

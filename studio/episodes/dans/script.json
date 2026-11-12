@@ -1,0 +1,107 @@
+{
+ "id": "dans",
+ "lang": "tr",
+ "style": "reel",
+ "shots": true,
+ "whoosh_cuts": true,
+ "pad_default": 0.18,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "d01",
+   "text": "Temmuz 1518. Strazburg. Bir kadın evinden çıkıyor… ve dans etmeye başlıyor.",
+   "img": "../dans/img/d01.png",
+   "sfx": "sting",
+   "say": "Temmuz bin beş yüz on sekiz. Strazburg. Bir kadın evinden çıkıyor… ve dans etmeye başlıyor."
+  },
+  {
+   "scene": "d02",
+   "text": "Müzik yok. Kahkaha yok. Sadece dans.",
+   "img": "../dans/img/d02.png"
+  },
+  {
+   "scene": "d03",
+   "text": "Saatler geçiyor. Gece oluyor. Ayakkabıları parçalanıyor. Ama durmuyor.",
+   "img": "../dans/img/d03.png",
+   "crop": 1.08
+  },
+  {
+   "scene": "d04",
+   "text": "Bir hafta sonra yanında otuzdan fazla insan dans ediyor.",
+   "img": "../dans/img/d04.png"
+  },
+  {
+   "scene": "d05",
+   "text": "Bir ay içinde… yüzlerce.",
+   "img": "../dans/img/d05.png"
+  },
+  {
+   "scene": "d06",
+   "text": "Kimse neden dans ettiğini bilmiyor. Ve kimse duramıyor.",
+   "img": "../dans/img/d06.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "d07",
+   "text": "Şehir yönetimi doktorları çağırıyor. Teşhis: sıcak kan. Tedavi mi? Daha çok dans.",
+   "img": "../dans/img/d07.png"
+  },
+  {
+   "scene": "d08",
+   "text": "Ve şehir sahne kuruyor. Müzisyen tutuyor. Dans ederek iyileşsinler diye.",
+   "img": "../dans/img/d08.png",
+   "sfx": "beat"
+  },
+  {
+   "scene": "d09",
+   "text": "Ama bu, ateşe benzin dökmekti. Dans edenlerin sayısı arttıkça arttı.",
+   "img": "../dans/img/d09.png",
+   "sfx": "beat"
+  },
+  {
+   "scene": "d10",
+   "text": "Bazıları bitkinlikten yere yığıldı.",
+   "img": "../dans/img/d10.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "d11",
+   "text": "Kaç kişinin öldüğü bilinmiyor. Şehrin o dönemki kayıtları ölümlerden hiç bahsetmiyor.",
+   "img": "../dans/img/d11.png",
+   "crop": 1.1,
+   "sfx": "sting"
+  },
+  {
+   "scene": "d12",
+   "text": "Sonunda yönetim fikrini değiştirdi. Müzik de dans da yasaklandı.",
+   "img": "../dans/img/d12.png"
+  },
+  {
+   "scene": "d13",
+   "text": "Dansçılar Aziz Vitus'un tapınağına götürüldü. Dualar edildi, ellerine kırmızı ayakkabılar verildi.",
+   "img": "../dans/img/d13.png"
+  },
+  {
+   "scene": "d14",
+   "text": "Eylülde salgın yavaş yavaş söndü.",
+   "img": "../dans/img/d14.png"
+  },
+  {
+   "scene": "d15",
+   "text": "Peki neydi bu? Bazıları çavdardaki zehirli bir mantarı suçluyor.",
+   "img": "../dans/img/d15.png"
+  },
+  {
+   "scene": "d16",
+   "text": "Ama birçok tarihçiye göre sebep açlık, hastalık ve korkuydu. İnsanlar bir azizin lanetine inanıyordu. Bir kitle histerisi.",
+   "img": "../dans/img/d16.png",
+   "crop": 1.08
+  },
+  {
+   "scene": "d17",
+   "text": "Ve belki de en korkutucusu şu: Bir şehrin aklı bir gün… sessizce dans etmeye başlayabilir.",
+   "img": "../dans/img/d17.png",
+   "sfx": "sting"
+  }
+ ]
+}

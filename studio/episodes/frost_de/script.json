@@ -1,0 +1,514 @@
+{
+ "id": "frost_de",
+ "lang": "de",
+ "style": "reel",
+ "widescreen": true,
+ "shots": true,
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "k01",
+   "text": "Kurz bevor sie erfrieren, ziehen sich viele Menschen aus. Mitten im Schnee. Bei minus 20 Grad.",
+   "img": "img/K01.jpg",
+   "sfx": "sting",
+   "say": "Kurz bevor sie erfrieren, ziehen sich viele Menschen aus. Mitten im Schnee. Bei minus zwanzig Grad.",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k02",
+   "text": "Retter finden sie oft halbnackt, die Jacke daneben im Schnee. Als hätte ihnen jemand den Verstand geraubt.",
+   "img": "img/K01.jpg",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k03",
+   "text": "Was passiert in deinem Körper, wenn du erfrierst? Heute gehen wir es durch. Grad für Grad.",
+   "img": "img/K22.jpg",
+   "sfx": "heart",
+   "snow": 0.9,
+   "wind": 1
+  },
+  {
+   "scene": "k04",
+   "text": "Ein Wintermorgen in den Alpen. Ein Wanderer bricht auf. Blauer Himmel, Sonne, perfekte Bedingungen.",
+   "img": "img/K02.jpg",
+   "snow": 0,
+   "wind": 0.1
+  },
+  {
+   "scene": "k05",
+   "text": "Er will nur eine Tagestour machen. Am Abend wieder unten sein. Eine leichte Jacke reicht, denkt er.",
+   "img": "img/K02.jpg",
+   "snow": 0,
+   "wind": 0.1
+  },
+  {
+   "scene": "k06",
+   "text": "Doch am Nachmittag ändert sich alles. Von Westen zieht eine Wand aus Wolken und Schnee heran.",
+   "img": "img/K03.jpg",
+   "sfx": "whoosh",
+   "snow": 0.5,
+   "wind": 0.7
+  },
+  {
+   "scene": "k07",
+   "text": "Innerhalb von Minuten sieht er nichts mehr. Keine Spur, kein Weg, kein Horizont. Nur Weiß.",
+   "img": "img/K04.jpg",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k08",
+   "text": "Der Wind peitscht mit 80 Kilometern pro Stunde. Die gefühlte Temperatur fällt auf minus 30 Grad.",
+   "img": "img/K04.jpg",
+   "say": "Der Wind peitscht mit achtzig Kilometern pro Stunde. Die gefühlte Temperatur fällt auf minus dreißig Grad.",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k09",
+   "text": "Sein Körper hat jetzt nur ein Ziel. Den Kern warm halten. Herz, Lunge, Gehirn. Exakt 37 Grad.",
+   "img": "img/K05.jpg",
+   "say": "Sein Körper hat jetzt nur ein Ziel. Den Kern warm halten. Herz, Lunge, Gehirn. Exakt siebenunddreißig Grad.",
+   "badge": "37°C",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k10",
+   "text": "37 Grad Celsius. Das ist die Temperatur, bei der dein Körper perfekt funktioniert.",
+   "img": "img/K04.jpg",
+   "say": "Siebenunddreißig Grad Celsius. Das ist die Temperatur, bei der dein Körper perfekt funktioniert.",
+   "badge": "37°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k11",
+   "text": "Also trifft er eine brutale Entscheidung. Die Blutgefäße in Händen und Füßen ziehen sich zusammen.",
+   "img": "img/K05.jpg",
+   "badge": "37°C",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k12",
+   "text": "Die Arme und Beine werden geopfert, damit das Herz überlebt.",
+   "img": "img/K07.jpg",
+   "sfx": "heart",
+   "badge": "37°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k13",
+   "text": "36 Grad. Das Zittern beginnt. Jeder Muskel zieht sich zusammen, immer und immer wieder.",
+   "img": "img/K06.jpg",
+   "say": "Sechsunddreißig Grad. Das Zittern beginnt. Jeder Muskel zieht sich zusammen, immer und immer wieder.",
+   "badge": "36°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k14",
+   "text": "Zittern ist eine Notheizung. Es kann die Wärmeproduktion des Körpers verfünffachen. Aber es kostet enorm viel Energie.",
+   "img": "img/K06.jpg",
+   "badge": "36°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k15",
+   "text": "35 Grad. Ab hier sprechen Ärzte offiziell von Unterkühlung. Die Finger werden taub und steif.",
+   "img": "img/K07.jpg",
+   "sfx": "sting",
+   "say": "Fünfunddreißig Grad. Ab hier sprechen Ärzte offiziell von Unterkühlung. Die Finger werden taub und steif.",
+   "badge": "35°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k16",
+   "text": "Er will seinen Reißverschluss schließen. Es gelingt ihm nicht. Das Feuerzeug fällt ihm aus der Hand.",
+   "img": "img/K07.jpg",
+   "badge": "35°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k17",
+   "text": "Einfache Bewegungen werden plötzlich unmöglich. Die feinen Muskeln gehorchen nicht mehr.",
+   "img": "img/K07.jpg",
+   "badge": "35°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k18",
+   "text": "34 Grad. Jetzt trifft es das Gehirn. Er stolpert. Er fällt. Er steht wieder auf.",
+   "img": "img/K08.jpg",
+   "say": "Vierunddreißig Grad. Jetzt trifft es das Gehirn. Er stolpert. Er fällt. Er steht wieder auf.",
+   "badge": "34°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k19",
+   "text": "Er stolpert, er murmelt, seine Hände fummeln ungeschickt herum. Und er wird gereizt.",
+   "img": "img/K08.jpg",
+   "badge": "34°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k20",
+   "text": "Und das Gefährlichste: Er merkt es nicht. Das Denken wird langsam. Die Entscheidungen werden falsch.",
+   "img": "img/K09.jpg",
+   "sfx": "heart",
+   "badge": "34°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k21",
+   "text": "Er setzt sich an einen Felsen. Nur kurz ausruhen, denkt er. Ein paar Minuten.",
+   "img": "img/K09.jpg",
+   "badge": "34°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k22",
+   "text": "Eine bleierne Müdigkeit legt sich über ihn. Der Schnee bedeckt langsam seine Schultern.",
+   "img": "img/K09.jpg",
+   "badge": "34°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k23",
+   "text": "33 Grad. Er redet mit sich selbst. Er vergisst, wo er ist. Er vergisst, warum er hier ist.",
+   "img": "img/K22.jpg",
+   "say": "Dreiunddreißig Grad. Er redet mit sich selbst. Er vergisst, wo er ist. Er vergisst, warum er hier ist.",
+   "badge": "33°C",
+   "snow": 0.9,
+   "wind": 1
+  },
+  {
+   "scene": "k24",
+   "text": "32 Grad. Und dann passiert etwas Unheimliches. Das Zittern hört auf.",
+   "img": "img/K10.jpg",
+   "sfx": "sting",
+   "say": "Zweiunddreißig Grad. Und dann passiert etwas Unheimliches. Das Zittern hört auf.",
+   "badge": "32°C",
+   "snow": 0.5,
+   "wind": 0.15
+  },
+  {
+   "scene": "k25",
+   "text": "Es fühlt sich an wie Erleichterung. Aber es ist das Gegenteil. Der Körper hat aufgegeben, Wärme zu produzieren.",
+   "img": "img/K10.jpg",
+   "badge": "32°C",
+   "snow": 0.5,
+   "wind": 0.15
+  },
+  {
+   "scene": "k26",
+   "text": "Die Energiereserven sind leer. Ab jetzt kühlt er immer schneller ab.",
+   "img": "img/K10.jpg",
+   "badge": "32°C",
+   "snow": 0.5,
+   "wind": 0.15
+  },
+  {
+   "scene": "k27",
+   "text": "31 Grad. Er sieht Dinge, die nicht da sind. Ein Licht. Eine Hütte. Ein Feuer im Kamin.",
+   "img": "img/K11.jpg",
+   "say": "Einunddreißig Grad. Er sieht Dinge, die nicht da sind. Ein Licht. Eine Hütte. Ein Feuer im Kamin.",
+   "badge": "31°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k28",
+   "text": "Halluzinationen sind typisch. Manche Bergsteiger berichten von Stimmen oder von unsichtbaren Begleitern.",
+   "img": "img/K11.jpg",
+   "badge": "31°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k29",
+   "text": "30 Grad. Und jetzt kommt der Moment vom Anfang. Ihm wird plötzlich heiß. Unerträglich heiß.",
+   "img": "img/K12.jpg",
+   "sfx": "heart",
+   "say": "Dreißig Grad. Und jetzt kommt der Moment vom Anfang. Ihm wird plötzlich heiß. Unerträglich heiß.",
+   "badge": "30°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k30",
+   "text": "Er reißt sich die Jacke vom Leib. Die Mütze. Die Handschuhe. Mitten im Sturm.",
+   "img": "img/K12.jpg",
+   "badge": "30°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k31",
+   "text": "Wissenschaftler nennen das paradoxes Entkleiden. Es tritt bei vielen Todesfällen durch Unterkühlung auf.",
+   "img": "img/K12.jpg",
+   "badge": "30°C",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k32",
+   "text": "Die Erklärung: Die Muskeln, die die Blutgefäße verengt haben, sind erschöpft. Sie geben plötzlich nach.",
+   "img": "img/K05.jpg",
+   "badge": "30°C",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k33",
+   "text": "Warmes Blut aus dem Kern strömt schlagartig in die Haut. Das Gehirn meldet: Hitze. Obwohl er gerade erfriert.",
+   "img": "img/K05.jpg",
+   "badge": "30°C",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k34",
+   "text": "Und dann folgt etwas, das Ermittler lange nicht verstanden haben. Er kriecht.",
+   "img": "img/K13.jpg",
+   "sfx": "sting",
+   "badge": "30°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k35",
+   "text": "Unter eine Tanne. In eine Felsspalte. In den kleinsten Raum, den er finden kann. Er rollt sich zusammen.",
+   "img": "img/K13.jpg",
+   "badge": "30°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k36",
+   "text": "Man nennt es Terminal Burrowing. Ein uralter Reflex aus dem Hirnstamm. Wie ein Tier, das sich zum Sterben versteckt.",
+   "img": "img/K13.jpg",
+   "badge": "30°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k37",
+   "text": "Deshalb werden manche Erfrorene erst Tage später gefunden. Versteckt. Fast unsichtbar.",
+   "img": "img/K13.jpg",
+   "badge": "30°C",
+   "snow": 0.6,
+   "wind": 0.5
+  },
+  {
+   "scene": "k38",
+   "text": "28 Grad. Er ist bewusstlos. Das Herz schlägt langsam und unregelmäßig.",
+   "img": "img/K14.jpg",
+   "sfx": "heart",
+   "say": "Achtundzwanzig Grad. Er ist bewusstlos. Das Herz schlägt langsam und unregelmäßig.",
+   "badge": "28°C",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k39",
+   "text": "Jede kleine Erschütterung kann jetzt Kammerflimmern auslösen. Das Herz zittert nur noch, statt zu pumpen.",
+   "img": "img/K14.jpg",
+   "badge": "28°C",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k40",
+   "text": "Die Pupillen sind weit. Der Atem ist kaum zu sehen. Ein paar Atemzüge pro Minute.",
+   "img": "img/K22.jpg",
+   "badge": "28°C",
+   "snow": 0.9,
+   "wind": 1
+  },
+  {
+   "scene": "k41",
+   "text": "Für jeden Beobachter sieht er jetzt tot aus. Aber er ist es noch nicht.",
+   "img": "img/K22.jpg",
+   "sfx": "sting",
+   "badge": "28°C",
+   "snow": 0.9,
+   "wind": 1
+  },
+  {
+   "scene": "k42",
+   "text": "Mitten in der Nacht. Lichter im Sturm. Ein Rettungsteam mit Suchhund findet seine Stiefel unter der Tanne.",
+   "img": "img/K15.jpg",
+   "snow": 0.6,
+   "wind": 0.6
+  },
+  {
+   "scene": "k43",
+   "text": "Jetzt zählt jede Bewegung. Die Retter heben ihn ganz langsam an. Flach liegend. Kein Ruck.",
+   "img": "img/K16.jpg",
+   "snow": 0.6,
+   "wind": 0.6
+  },
+  {
+   "scene": "k44",
+   "text": "Denn das kalte Blut in Armen und Beinen darf nicht plötzlich zum Herzen strömen. Es könnte es stoppen.",
+   "img": "img/K16.jpg",
+   "snow": 0.6,
+   "wind": 0.6
+  },
+  {
+   "scene": "k45",
+   "text": "In der Klinik wird er an eine Herz-Lungen-Maschine angeschlossen. Sein Blut wird außerhalb des Körpers gewärmt.",
+   "img": "img/K17.jpg",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k46",
+   "text": "Die Ärzte haben einen Grundsatz: Niemand ist tot, bis er warm und tot ist.",
+   "img": "img/K17.jpg",
+   "sfx": "heart",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k47",
+   "text": "Und dieser Satz ist keine Übertreibung. Das beweist eine Frau aus Norwegen. Ihr Name: Anna Bågenholm.",
+   "img": "img/K18.jpg",
+   "snow": 0.3,
+   "wind": 0.2
+  },
+  {
+   "scene": "k48",
+   "text": "1999. Bei einer Skitour stürzt sie kopfüber in einen eisigen Bach. Unter das Eis.",
+   "img": "img/K18.jpg",
+   "say": "Neunzehnhundertneunundneunzig. Bei einer Skitour stürzt sie kopfüber in einen eisigen Bach. Unter das Eis.",
+   "sfx": "whoosh",
+   "snow": 0.3,
+   "wind": 0.2
+  },
+  {
+   "scene": "k49",
+   "text": "Ihre Freunde halten ihre Skischuhe fest. Aber sie können sie nicht herausziehen. Das Wasser ist zu stark.",
+   "img": "img/K18.jpg",
+   "snow": 0.3,
+   "wind": 0.2
+  },
+  {
+   "scene": "k50",
+   "text": "80 Minuten liegt sie im eiskalten Wasser. Irgendwann hört ihr Herz auf zu schlagen.",
+   "img": "img/K18.jpg",
+   "say": "Achtzig Minuten liegt sie im eiskalten Wasser. Irgendwann hört ihr Herz auf zu schlagen.",
+   "snow": 0.3,
+   "wind": 0.2
+  },
+  {
+   "scene": "k51",
+   "text": "Als sie in die Klinik kommt, hat ihr Körper nur noch 13,7 Grad. Eine der niedrigsten je gemessenen Temperaturen.",
+   "img": "img/K17.jpg",
+   "say": "Als sie in die Klinik kommt, hat ihr Körper nur noch dreizehn Komma sieben Grad. Eine der niedrigsten je gemessenen Temperaturen.",
+   "sfx": "sting",
+   "badge": "13,7°C",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k52",
+   "text": "Ein ganzes Team kämpft stundenlang um sie. Sie wärmen ihr Blut. Grad für Grad.",
+   "img": "img/K17.jpg",
+   "badge": "13,7°C",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k53",
+   "text": "Und dann schlägt ihr Herz wieder. Nach 10 Tagen öffnet sie die Augen.",
+   "img": "img/K19.jpg",
+   "sfx": "heart",
+   "say": "Und dann schlägt ihr Herz wieder. Nach zehn Tagen öffnet sie die Augen.",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k54",
+   "text": "Anna überlebt. Später arbeitet sie als Ärztin. In genau dem Krankenhaus, das ihr das Leben gerettet hat.",
+   "img": "img/K19.jpg",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k55",
+   "text": "Die Kälte, die sie fast getötet hat, hat sie auch gerettet. Ein kaltes Gehirn braucht viel weniger Sauerstoff.",
+   "img": "img/K14.jpg",
+   "snow": 0,
+   "wind": 0
+  },
+  {
+   "scene": "k56",
+   "text": "Was hätte unser Wanderer tun können? Erstens: trocken bleiben. Nasse Kleidung leitet die Wärme viel schneller ab.",
+   "img": "img/K20.jpg",
+   "snow": 0.35,
+   "wind": 0.8
+  },
+  {
+   "scene": "k57",
+   "text": "Zweitens: Schutz vor dem Wind suchen. Eine Schneehöhle ist überraschend warm. Und sich nicht direkt auf den Schnee setzen.",
+   "img": "img/K20.jpg",
+   "snow": 0.35,
+   "wind": 0.8
+  },
+  {
+   "scene": "k58",
+   "text": "Drittens: Kopf und Hals bedecken. Rettungsdecke nutzen. Und niemals Alkohol. Er gaukelt Wärme nur vor.",
+   "img": "img/K20.jpg",
+   "snow": 0.35,
+   "wind": 0.8
+  },
+  {
+   "scene": "k59",
+   "text": "Und das Wichtigste: Wenn das Zittern aufhört, ist das kein gutes Zeichen. Es ist das letzte Warnsignal.",
+   "img": "img/K06.jpg",
+   "sfx": "heart",
+   "snow": 1,
+   "wind": 1
+  },
+  {
+   "scene": "k60",
+   "text": "Jedes Jahr sterben weltweit Tausende Menschen an Unterkühlung. Viele von ihnen nicht in den Bergen, sondern mitten in der Stadt.",
+   "img": "img/K21.jpg",
+   "snow": 0.8,
+   "wind": 1
+  },
+  {
+   "scene": "k61",
+   "text": "Der Tod durch Kälte kommt leise. Am Ende spürt man keinen Schmerz mehr. Es fühlt sich sogar warm an.",
+   "img": "img/K21.jpg",
+   "snow": 0.8,
+   "wind": 1
+  },
+  {
+   "scene": "k62",
+   "text": "Und genau das macht ihn so gefährlich.",
+   "img": "img/K01.jpg",
+   "sfx": "sting",
+   "snow": 1,
+   "wind": 1
+  }
+ ],
+ "page_cuts": true
+}

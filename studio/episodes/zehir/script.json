@@ -1,0 +1,98 @@
+{
+ "id": "zehir",
+ "lang": "tr",
+ "style": "reel",
+ "shots": true,
+ "whoosh_cuts": true,
+ "pad_default": 0.25,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "p01",
+   "text": "Noel gecesi, 1926. New York'taki Bellevue Hastanesi'nin koridorları birden doluyor.",
+   "img": "../zehir/img/p01.png",
+   "say": "Noel gecesi, bin dokuz yüz yirmi altı. New York'taki Bellevue Hastanesi'nin koridorları birden doluyor.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "p02",
+   "text": "Altmış kişi hastaneye kaldırıldı. Hepsi aynı şeyi içmişti. Sekizi o gece öldü.",
+   "img": "../zehir/img/p02.png",
+   "crop": 1.08,
+   "sfx": "heart"
+  },
+  {
+   "scene": "p03",
+   "text": "Onları zehirleyen bir katil değildi. Kendi hükümetleriydi.",
+   "img": "../zehir/img/p03.png",
+   "crop": 1.08,
+   "sfx": "sting"
+  },
+  {
+   "scene": "p04",
+   "text": "1920'de Amerika'da içki yasaklandı. Ama insanlar içmeyi bırakmadı.",
+   "img": "../zehir/img/p04.png",
+   "say": "Bin dokuz yüz yirmide Amerika'da içki yasaklandı. Ama insanlar içmeyi bırakmadı."
+  },
+  {
+   "scene": "p05",
+   "text": "Gizli barlar açıldı. Kaçakçılar fabrikalardan endüstriyel alkol çalmaya başladı.",
+   "img": "../zehir/img/p05.png"
+  },
+  {
+   "scene": "p06",
+   "text": "Bu alkol, içilmesin diye kanunen zaten zehirleniyordu. Ama kaçakçıların kimyagerleri zehri ayırıp alkolü yeniden satıyordu.",
+   "img": "../zehir/img/p06.png"
+  },
+  {
+   "scene": "p07",
+   "text": "Hükümet bir karar verdi: Zehri artırmak.",
+   "img": "../zehir/img/p07.png"
+  },
+  {
+   "scene": "p08",
+   "text": "Metanol oranı iki katına çıkarıldı. Gazyağı, benzin, cıva tuzları, kloroform eklendi.",
+   "img": "../zehir/img/p08.png",
+   "crop": 1.08
+  },
+  {
+   "scene": "p09",
+   "text": "Amaç korkutmaktı. Ama insanlar korkmadı. İçmeye devam ettiler.",
+   "img": "../zehir/img/p09.png"
+  },
+  {
+   "scene": "p10",
+   "text": "Noel'den sadece bir hafta sonra, yılbaşında… bir günde kırk bir kişi öldü.",
+   "img": "../zehir/img/p10.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "p11",
+   "text": "Kimi kör oldu. Kimi bir daha hiç uyanmadı.",
+   "img": "../zehir/img/p11.png",
+   "crop": 1.08
+  },
+  {
+   "scene": "p12",
+   "text": "New York'un baş adli tabibi Charles Norris öfkeliydi. Ona göre bu ölümlerin ahlaki sorumlusu hükümetti.",
+   "img": "../zehir/img/p12.png"
+  },
+  {
+   "scene": "p13",
+   "text": "Ama yasak sürdü. Tam 1933'e kadar.",
+   "img": "../zehir/img/p13.png",
+   "say": "Ama yasak sürdü. Tam bin dokuz yüz otuz üçe kadar."
+  },
+  {
+   "scene": "p14",
+   "text": "Bazı tahminlere göre zehirli içkiler, bu yıllarda en az on bin kişinin ölümüne yol açtı.",
+   "img": "../zehir/img/p14.png"
+  },
+  {
+   "scene": "p15",
+   "text": "Bir hükümet, kendi vatandaşlarını cezalandırmak için şişelere zehir koydu. Ve en korkuncu: herkes bunu biliyordu.",
+   "img": "../zehir/img/p15.png",
+   "sfx": "sting"
+  }
+ ]
+}

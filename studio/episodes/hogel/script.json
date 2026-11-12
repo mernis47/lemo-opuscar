@@ -1,0 +1,103 @@
+{
+ "id": "hogel",
+ "lang": "tr",
+ "style": "reel",
+ "shots": true,
+ "whoosh_cuts": true,
+ "pad_default": 0.25,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "h01",
+   "text": "Gece vardiyası. Yoğun bakımda her şey sakin. Ama bir hemşire, saatine bakıyor.",
+   "img": "../hogel/img/h01.png"
+  },
+  {
+   "scene": "h02",
+   "text": "Birazdan bir hastanın kalbi duracak. Ve bunu ondan başka kimse bilmiyor.",
+   "img": "../hogel/img/h02.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "h03",
+   "text": "Alarm çalıyor. Doktorlar koşuyor. Ama o hemşire herkesten önce yatağın başında.",
+   "img": "../hogel/img/h03.png",
+   "sfx": "sting"
+  },
+  {
+   "scene": "h04",
+   "text": "Bazen hastayı hayata döndürüyor. Herkes onu bir kahraman sanıyor.",
+   "img": "../hogel/img/h04.png",
+   "fy": 0.3,
+   "fz": 1.45
+  },
+  {
+   "scene": "h05",
+   "text": "Adı Niels Högel. Almanya'nın kuzeyinde, Oldenburg ve Delmenhorst'taki iki hastanede çalışan bir hemşire.",
+   "img": "../hogel/img/h05.png"
+  },
+  {
+   "scene": "h06",
+   "text": "Ama o kalp krizleri tesadüf değildi. Högel, hastalarına bilerek kalp ilaçları veriyordu.",
+   "img": "../hogel/img/h06.png",
+   "sfx": "sting"
+  },
+  {
+   "scene": "h07",
+   "text": "Neden mi? Savcılara göre sıkılıyordu. Ve onları kurtarırken parlamak istiyordu.",
+   "img": "../hogel/img/h07.png"
+  },
+  {
+   "scene": "h08",
+   "text": "İlk hastanede ölümler artınca, sessizce gitmesi istendi. Eline iyi bir referans mektubu verildi. Ve yeni bir hastanede işe başladı.",
+   "img": "../hogel/img/h08.png"
+  },
+  {
+   "scene": "h09",
+   "text": "2005'te bir meslektaşı, onu bir hastaya ilaç verirken gördü.",
+   "img": "../hogel/img/h09.png",
+   "say": "İki bin beşte bir meslektaşı, onu bir hastaya ilaç verirken gördü."
+  },
+  {
+   "scene": "h10",
+   "text": "Ama yönetim iki gün bekledi. Ve o iki günde, bir hasta daha öldü.",
+   "img": "../hogel/img/h10.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "h11",
+   "text": "Sonunda tutuklandı. Ama o gün gerçeğin sadece küçük bir parçası biliniyordu.",
+   "img": "../hogel/img/h11.png",
+   "fy": 0.38,
+   "fz": 1.3
+  },
+  {
+   "scene": "h12",
+   "text": "Polis, yüz otuz dört mezarı açtı. Toprak, yıllarca saklanan sırrı anlatmaya başladı.",
+   "img": "../hogel/img/h12.png",
+   "fy": 0.4,
+   "fz": 1.25,
+   "sfx": "sting"
+  },
+  {
+   "scene": "h13",
+   "text": "2019'da mahkeme kararını verdi: Seksen beş cinayet. Ömür boyu hapis.",
+   "img": "../hogel/img/h13.png",
+   "say": "İki bin on dokuzda mahkeme kararını verdi: Seksen beş cinayet. Ömür boyu hapis.",
+   "fy": 0.4,
+   "fz": 1.25
+  },
+  {
+   "scene": "h14",
+   "text": "Ama gerçek sayıyı kimse bilmiyor. Kurbanların bir kısmı yakılmıştı. Onların hikâyesi hiç anlatılamayacak.",
+   "img": "../hogel/img/h14.png"
+  },
+  {
+   "scene": "h15",
+   "text": "Bir hastanede en çok güvendiğin el… bazen seni öldüren el olabilir.",
+   "img": "../hogel/img/h15.png",
+   "crop": 1.08,
+   "sfx": "sting"
+  }
+ ]
+}

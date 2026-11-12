@@ -1,0 +1,111 @@
+{
+ "id": "reel1",
+ "lang": "tr",
+ "style": "reel",
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "s01",
+   "text": "1644. Pekin. Dünyanın en kalabalık ülkesinin imparatoru, sarayının arkasındaki tepede yapayalnız.",
+   "img": "../reel1/img/s01.png",
+   "move": "in",
+   "sfx": "sting",
+   "say": "Bin altı yüz kırk dört. Pekin. Dünyanın en kalabalık ülkesinin imparatoru, sarayının arkasındaki tepede yapayalnız."
+  },
+  {
+   "scene": "s02",
+   "text": "Barutu var. Topu var. Milyonlarca askeri var.",
+   "img": "../reel1/img/s02.png",
+   "move": "up",
+   "beds": [
+    "cannon:1"
+   ]
+  },
+  {
+   "scene": "s03",
+   "text": "Ama onu bu tepeye getiren ne bir ordu, ne de bir ihanet.",
+   "img": "../reel1/img/s03.png",
+   "move": "in"
+  },
+  {
+   "scene": "s04",
+   "text": "Bu dev imparatorluğun tek bir zaafı vardı: at.",
+   "img": "../reel1/img/s04.png",
+   "move": "right",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s05",
+   "text": "Çin'in atları kısa, cılız ve hastaydı. Kuzeyden gelen güçlü atlar bile burada birkaç yılda eriyordu.",
+   "img": "../reel1/img/s05.png",
+   "move": "left",
+   "beds": [
+    "hooves:2:walk"
+   ]
+  },
+  {
+   "scene": "s06",
+   "text": "Tek çare kalmıştı: atı satın almak. Hem de düşmandan. Çay karşılığında.",
+   "img": "../reel1/img/s06.png",
+   "move": "in",
+   "beds": [
+    "hooves:2:walk"
+   ]
+  },
+  {
+   "scene": "s07",
+   "text": "Ve bozkırdaki çoban, en iyi atını asla satmadı.",
+   "img": "../reel1/img/s07.png",
+   "move": "out"
+  },
+  {
+   "scene": "s08",
+   "text": "Yani dünyanın en güçlü imparatorluğu, kendi düşmanını besliyordu.",
+   "img": "../reel1/img/s08.png",
+   "move": "up",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s09",
+   "text": "Ve bir gün, kuzeyden o toz bulutu geldi.",
+   "img": "../reel1/img/s09.png",
+   "move": "in",
+   "beds": [
+    "hooves:12",
+    "arrows:2"
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Çin önce Moğollara düştü. Yüzyıllar sonra da Mançulara. İki kez.",
+   "img": "../reel1/img/s10.png",
+   "move": "out",
+   "crop": 1.08,
+   "beds": [
+    "hooves:5"
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "Peki o atlarda ne vardı? Cevap yüzyıllar sonra, toprağın içinden çıktı.",
+   "img": "../reel1/img/s11.png",
+   "move": "right"
+  },
+  {
+   "scene": "s12",
+   "text": "Bazı araştırmacılara göre toprakta selenyum yoktu. Görünmez, tatsız, kokusuz. Ama kalp ve kas için hayati.",
+   "img": "../reel1/img/s12.png",
+   "move": "in",
+   "crop": 1.08,
+   "sfx": "sting"
+  },
+  {
+   "scene": "s13",
+   "text": "Bir imparatorluğu deviren düşman bazen toz kaldırmaz. Ayaklarının altında, sessizce bekler.",
+   "img": "../reel1/img/s13.png",
+   "move": "out",
+   "sfx": "sting"
+  }
+ ]
+}

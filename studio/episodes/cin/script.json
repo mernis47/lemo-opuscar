@@ -1,0 +1,292 @@
+{
+ "id": "cin",
+ "series": "",
+ "number": 0,
+ "title": "Bir Gram Bile Gelmeyen Düşman",
+ "style": "dynamic",
+ "pad_default": 0.22,
+ "lines": [
+  {
+   "scene": "hook_tree",
+   "text": "1644. Pekin. Bir imparator, sarayının arkasındaki tepede bir ağaca kendini asıyor.",
+   "sfx": "sting",
+   "say": "Bin altı yüz kırk dört. Pekin. Bir imparator, sarayının arkasındaki tepede bir ağaca kendini asıyor."
+  },
+  {
+   "scene": "hook_power",
+   "text": "Dünyanın en kalabalık ülkesini yöneten adam bu. Barutu var, topu var, milyonlarca askeri var.",
+   "beds": [
+    "cannon:1"
+   ]
+  },
+  {
+   "scene": "hook_q",
+   "text": "Peki onu bu ağaca getiren ne?"
+  },
+  {
+   "scene": "hook_not",
+   "text": "Bir ordu değil. Bir ihanet de değil.",
+   "beds": [
+    "hooves:4"
+   ]
+  },
+  {
+   "scene": "hook_invisible",
+   "text": "Gözle bile göremeyeceğin bir şey.",
+   "sfx": "sting",
+   "pad": 0.7
+  },
+  {
+   "scene": "title",
+   "text": "Bir gram bile gelmeyen düşman.",
+   "pad": 0.8
+  },
+  {
+   "scene": "inventions",
+   "text": "Önce şunu bil: Bu ülke, çağının en ileri medeniyeti. Barut, pusula, matbaa, kâğıt para... hepsi onların.",
+   "beds": [
+    "cannon:1"
+   ]
+  },
+  {
+   "scene": "weakness",
+   "text": "Ama bu devin bir zaafı var. Ve bu zaaf, onu iki kez yıkacak.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "horse_key",
+   "text": "Zaafın adı: at.",
+   "beds": [
+    "hooves:1"
+   ]
+  },
+  {
+   "scene": "horse_war",
+   "text": "O çağda savaşı at kazanır. Atın varsa kuşatırsın, kaçanı yakalarsın. Atın yoksa, surların arkasında beklersin.",
+   "beds": [
+    "hooves:6",
+    "arrows:2"
+   ]
+  },
+  {
+   "scene": "horse_bad",
+   "text": "Ve Çin'in atları... berbattı. Kısa, cılız, hastalıklı."
+  },
+  {
+   "scene": "horse_fade",
+   "text": "Kuzeyden getirilen güçlü atlar bile, buraya gelince birkaç yılda sönüp gidiyordu."
+  },
+  {
+   "scene": "q_state",
+   "text": "Devlet bunu çözmek için ne yaptı, biliyor musun?"
+  },
+  {
+   "scene": "wang",
+   "text": "1073'te bakan Wang Anshi bir yasa çıkardı: Köylüler, devletin atlarını kendi evlerinde besleyecek.",
+   "say": "Bin yetmiş üçte bakan Wang Anshi bir yasa çıkardı: Köylüler, devletin atlarını kendi evlerinde besleyecek."
+  },
+  {
+   "scene": "wang_rule",
+   "text": "At ölürse, parasını köylü ödeyecek."
+  },
+  {
+   "scene": "wang_fail",
+   "text": "Sonuç? Atlar yine öldü. Köylüler borca battı. Yasa çöktü."
+  },
+  {
+   "scene": "buy",
+   "text": "Tek çare kalmıştı: satın almak."
+  },
+  {
+   "scene": "tea",
+   "text": "Çin, tonlarca çayı sınırın ötesine taşıdı ve karşılığında at aldı. Bunun için resmî bir daire bile kurdular: Çay-At Dairesi.",
+   "beds": [
+    "hooves:2:walk"
+   ]
+  },
+  {
+   "scene": "twist",
+   "text": "Ama işin korkunç tarafı şu: Atları satanlar, bir gün o atlarla Çin'e saldıracak olan bozkır halklarıydı.",
+   "sfx": "sting",
+   "beds": [
+    "hooves:6"
+   ]
+  },
+  {
+   "scene": "enemy_fed",
+   "text": "Dünyanın en güçlü imparatorluğu, kendi düşmanını parayla besliyordu.",
+   "beds": [
+    "hooves:1"
+   ]
+  },
+  {
+   "scene": "best_horse",
+   "text": "Ve bozkırdaki çoban, en iyi atını asla satmıyordu."
+  },
+  {
+   "scene": "steppe",
+   "text": "Kuzeyde ise her şey tam tersiydi.",
+   "beds": [
+    "hooves:3"
+   ]
+  },
+  {
+   "scene": "mongol_spare",
+   "text": "Bir Moğol askeri savaşa tek atla değil; üç, dört, bazen beş yedek atla giderdi.",
+   "beds": [
+    "hooves:4"
+   ]
+  },
+  {
+   "scene": "mongol_cold",
+   "text": "Bu atlar eksi kırk derecede yürür, karın altındaki otu kazıp yer, günlerce durmadan koşardı.",
+   "beds": [
+    "hooves:4"
+   ]
+  },
+  {
+   "scene": "dust",
+   "text": "Ve bir gün, o toz bulutu kuzeyden geldi.",
+   "beds": [
+    "hooves:12"
+   ]
+  },
+  {
+   "scene": "siege",
+   "text": "1268. Moğollar, Song'un en güçlü kalesi Xiangyang'ı kuşatıyor.",
+   "beds": [
+    "cannon:3",
+    "arrows:2"
+   ],
+   "say": "Bin iki yüz altmış sekiz. Moğollar, Song'un en güçlü kalesi Xiangyang'ı kuşatıyor."
+  },
+  {
+   "scene": "years",
+   "text": "Bir yıl geçiyor. İki. Üç. Beş yıl.",
+   "sfx": "tick"
+  },
+  {
+   "scene": "fall",
+   "text": "1273'te kale düşüyor. Güneyin kapısı açılıyor.",
+   "sfx": "stone",
+   "beds": [
+    "cannon:1",
+    "fire"
+   ],
+   "say": "Bin iki yüz yetmiş üçte kale düşüyor. Güneyin kapısı açılıyor."
+  },
+  {
+   "scene": "sea_battle",
+   "text": "1279'da Song hanedanının son umudu, denizde son savaşını kaybediyor.",
+   "sfx": "sting",
+   "beds": [
+    "cannon:4",
+    "fire"
+   ],
+   "say": "Bin iki yüz yetmiş dokuzda Song hanedanının son umudu, denizde son savaşını kaybediyor."
+  },
+  {
+   "scene": "kublai",
+   "text": "Çin artık bozkırın elindeydi. Tahtta Cengiz Han'ın torunu Kubilay oturuyordu."
+  },
+  {
+   "scene": "ming",
+   "text": "Moğollar bir asır sonra kovuldu. Yeni hanedan Ming, ders aldığını sandı.",
+   "beds": [
+    "hooves:5"
+   ]
+  },
+  {
+   "scene": "wall",
+   "text": "Ve o devasa surları yükseltti. Bugün Çin Seddi dediğimiz duvarları."
+  },
+  {
+   "scene": "same_horses",
+   "text": "Ama bir şeyi değiştiremediler. Atlar yine cılızdı. Yine sınırdan satın alınıyordu."
+  },
+  {
+   "scene": "rebels",
+   "text": "1644. Ülke iç isyanlarla çöküyor. Asiler Pekin'e giriyor.",
+   "beds": [
+    "musket:6",
+    "fire"
+   ],
+   "say": "Bin altı yüz kırk dört. Ülke iç isyanlarla çöküyor. Asiler Pekin'e giriyor."
+  },
+  {
+   "scene": "tree_again",
+   "text": "İmparator Chongzhen tepeye çıkıyor. Hikâyenin başındaki ağaç... o ağaç.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "manchu",
+   "text": "Birkaç hafta sonra kuzeydoğudan yeni bir güç iniyor: Mançular. Usta binici, usta okçu.",
+   "beds": [
+    "hooves:8",
+    "arrows:2"
+   ]
+  },
+  {
+   "scene": "gate",
+   "text": "Seddin kapısından geçiyorlar ve Pekin'i alıyorlar.",
+   "beds": [
+    "hooves:6"
+   ]
+  },
+  {
+   "scene": "twice",
+   "text": "Koca Çin, ikinci kez bozkırın atlılarına teslim oldu. Mançular bu ülkeyi tam iki yüz altmış sekiz yıl yönetti."
+  },
+  {
+   "scene": "why",
+   "text": "Peki bu atlara ne oluyordu?",
+   "pad": 0.6
+  },
+  {
+   "scene": "keshan",
+   "text": "Cevap yüzyıllar sonra geldi. 1935'te kuzeydoğu Çin'de insanlar, gizemli bir kalp hastalığından ölmeye başladı.",
+   "sfx": "heart",
+   "say": "Cevap yüzyıllar sonra geldi. Bin dokuz yüz otuz beşte kuzeydoğu Çin'de insanlar, gizemli bir kalp hastalığından ölmeye başladı."
+  },
+  {
+   "scene": "search",
+   "text": "Bilim insanları yıllarca nedenini aradı. Ve sonunda buldular."
+  },
+  {
+   "scene": "selenium",
+   "text": "Toprakta selenyum yoktu.",
+   "sfx": "sting",
+   "pad": 0.8
+  },
+  {
+   "scene": "what_se",
+   "text": "Selenyum. Gözle görülmeyen, tadı ve kokusu olmayan bir mineral. Ama kaslar ve kalp için hayati."
+  },
+  {
+   "scene": "white_muscle",
+   "text": "Hayvanlarda eksik olduğunda kaslar zayıflıyor, kalp yoruluyor, yavrular büyüyemiyor."
+  },
+  {
+   "scene": "belt",
+   "text": "Ve Çin haritasında, kuzeydoğudan güneybatıya uzanan dev bir kuşakta, toprak bu mineralden neredeyse yoksun."
+  },
+  {
+   "scene": "theory",
+   "text": "Bazı araştırmacılara göre, Çin'in atlarını yüzyıllarca çökerten sebeplerden biri buydu."
+  },
+  {
+   "scene": "cannot",
+   "text": "Barutu icat edebilirsin. Dünyanın en uzun duvarını örebilirsin. Ama toprağın vermediğini, kimse zorla alamaz.",
+   "beds": [
+    "cannon:1"
+   ]
+  },
+  {
+   "scene": "finale",
+   "text": "Bir imparatorluğu yıkan düşman bazen ufukta toz kaldırmaz. Bazen ayağının altında, yüzyıllarca sessizce bekler.",
+   "sfx": "sting",
+   "pad": 2.5
+  }
+ ],
+ "ambient_gain": 0.25
+}

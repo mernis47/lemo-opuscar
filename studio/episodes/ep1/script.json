@@ -1,0 +1,155 @@
+{
+ "id": "ep1",
+ "series": "KUYUNUN SESİ",
+ "number": 1,
+ "title": "Cevap Verme",
+ "target": 180,
+ "lines": [
+  {
+   "scene": "title",
+   "text": "Kuyunun Sesi. Birinci bölüm: Cevap Verme.",
+   "pad": 1.5
+  },
+  {
+   "scene": "streetlight",
+   "text": "Adın Rojhat. Yirmi yedi yaşındasın."
+  },
+  {
+   "scene": "streetlight2",
+   "text": "Ve bu gecenin, son huzurlu gecen olduğunu bilmiyorsun."
+  },
+  {
+   "scene": "city",
+   "text": "İstanbul'da yaşıyorsun, köyünden çok uzakta."
+  },
+  {
+   "scene": "phone",
+   "text": "Bir gece telefonun çalıyor.",
+   "sfx": "ring"
+  },
+  {
+   "scene": "phonecall",
+   "text": "Köyden bir ses diyor ki: Ninen öldü."
+  },
+  {
+   "scene": "bus",
+   "text": "Otobüse biniyorsun ve Mardin'e doğru yola çıkıyorsun."
+  },
+  {
+   "scene": "village",
+   "text": "Ninenin köyü bir dağın tepesinde. Evleri sarı taştan."
+  },
+  {
+   "scene": "dog",
+   "text": "Köyde kimse kalmamış. Sadece bir köpek sana bakıyor."
+  },
+  {
+   "scene": "door",
+   "text": "Ninenin evi sokağın sonunda. Kapısı açık.",
+   "sfx": "creak"
+  },
+  {
+   "scene": "well",
+   "text": "Avluda eski bir kuyu var. Ağzında ağır bir taş duruyor."
+  },
+  {
+   "scene": "memory",
+   "text": "Hatırlıyorsun... ninen hep derdi ki:"
+  },
+  {
+   "scene": "warning",
+   "text": "Rojhat, gece kuyuya yaklaşma. Biri dibinden sana seslenirse... sakın cevap verme.",
+   "voice": "grandma",
+   "fx": "memory"
+  },
+  {
+   "scene": "room",
+   "text": "O gece onun odasında uyuyorsun."
+  },
+  {
+   "scene": "portrait",
+   "text": "Duvarda onun resmi asılı. Gözleri... senin üzerinde."
+  },
+  {
+   "scene": "clock",
+   "text": "Saat üç. Uyanıyorsun.",
+   "sfx": "tick"
+  },
+  {
+   "scene": "sound",
+   "text": "Bir ses geliyor. Ne kapıdan, ne pencereden... avludan."
+  },
+  {
+   "scene": "call",
+   "text": "Rojhat... Rojhat... oğlum...",
+   "voice": "grandma",
+   "fx": "well"
+  },
+  {
+   "scene": "grave",
+   "text": "Bu ninenin sesi. Ama ninen... dün gömüldü."
+  },
+  {
+   "scene": "feet",
+   "text": "Kalkıyorsun. Ayakların kendi kendine yürüyor.",
+   "sfx": "steps"
+  },
+  {
+   "scene": "stone",
+   "text": "Kuyunun taşı... artık yerinde değil.",
+   "sfx": "stone"
+  },
+  {
+   "scene": "deep",
+   "text": "Kuyunun dibine bakıyorsun. Karanlık. Derin."
+  },
+  {
+   "scene": "eyes",
+   "text": "Ve karanlıkta... iki göz açılıyor.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "hand",
+   "text": "Aşağı gel oğlum. Burası çok soğuk... ve ben yalnızım.",
+   "voice": "grandma",
+   "fx": "well"
+  },
+  {
+   "scene": "mouth",
+   "text": "Kaçmak istiyorsun. Ama ağzın kendiliğinden açılıyor...",
+   "sfx": "heart"
+  },
+  {
+   "scene": "answer",
+   "text": "Ve cevap veriyorsun: Geldim, nine."
+  },
+  {
+   "scene": "memory2",
+   "text": "Ninen demişti: cevap verme."
+  },
+  {
+   "scene": "pull",
+   "text": "Şimdi nedenini biliyorsun.",
+   "sfx": "scream",
+   "pad": 2.0
+  },
+  {
+   "scene": "morning",
+   "text": "Sabah, köpek kuyunun başında oturuyor. Taş yine yerinde."
+  },
+  {
+   "scene": "inside",
+   "text": "Ve sen... kuyunun dibinden, benim sesimi dinliyorsun."
+  },
+  {
+   "scene": "twoeyes",
+   "text": "Çünkü yıllar önce... ben de cevap vermiştim.",
+   "pad": 1.5
+  },
+  {
+   "scene": "next",
+   "text": "İkinci bölüm: Ayna.",
+   "pad": 2.0
+  }
+ ]
+}

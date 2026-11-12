@@ -1,0 +1,107 @@
+{
+ "id": "dans_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "whoosh_cuts": true,
+ "pad_default": 0.18,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "d01",
+   "text": "Juli 1518. Straßburg. Eine Frau tritt aus ihrem Haus… und beginnt zu tanzen.",
+   "img": "../dans/img/d01.png",
+   "sfx": "sting",
+   "say": "Juli fünfzehnhundertachtzehn. Straßburg. Eine Frau tritt aus ihrem Haus… und beginnt zu tanzen."
+  },
+  {
+   "scene": "d02",
+   "text": "Keine Musik. Kein Lachen. Nur Tanz.",
+   "img": "../dans/img/d02.png"
+  },
+  {
+   "scene": "d03",
+   "text": "Stunden vergehen. Es wird Nacht. Ihre Schuhe zerfallen. Aber sie hört nicht auf.",
+   "img": "../dans/img/d03.png",
+   "crop": 1.08
+  },
+  {
+   "scene": "d04",
+   "text": "Eine Woche später tanzen mehr als dreißig Menschen neben ihr.",
+   "img": "../dans/img/d04.png"
+  },
+  {
+   "scene": "d05",
+   "text": "Innerhalb eines Monats… Hunderte.",
+   "img": "../dans/img/d05.png"
+  },
+  {
+   "scene": "d06",
+   "text": "Niemand weiß, warum er tanzt. Und niemand kann aufhören.",
+   "img": "../dans/img/d06.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "d07",
+   "text": "Der Stadtrat ruft die Ärzte. Die Diagnose: heißes Blut. Die Behandlung? Noch mehr tanzen.",
+   "img": "../dans/img/d07.png"
+  },
+  {
+   "scene": "d08",
+   "text": "Also baut die Stadt eine Bühne. Sie bezahlt Musikanten. Die Kranken sollen sich gesund tanzen.",
+   "img": "../dans/img/d08.png",
+   "sfx": "beat"
+  },
+  {
+   "scene": "d09",
+   "text": "Doch das war Öl ins Feuer. Die Zahl der Tänzer stieg und stieg.",
+   "img": "../dans/img/d09.png",
+   "sfx": "beat"
+  },
+  {
+   "scene": "d10",
+   "text": "Manche brachen vor Erschöpfung zusammen.",
+   "img": "../dans/img/d10.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "d11",
+   "text": "Wie viele starben, weiß niemand. Die Straßburger Akten jener Zeit erwähnen keine Todesfälle.",
+   "img": "../dans/img/d11.png",
+   "crop": 1.1,
+   "sfx": "sting"
+  },
+  {
+   "scene": "d12",
+   "text": "Schließlich änderte der Rat seine Meinung. Musik und Tanz wurden verboten.",
+   "img": "../dans/img/d12.png"
+  },
+  {
+   "scene": "d13",
+   "text": "Die Tänzer wurden zum Heiligtum des heiligen Veit gebracht. Man betete für sie und gab ihnen rote Schuhe.",
+   "img": "../dans/img/d13.png"
+  },
+  {
+   "scene": "d14",
+   "text": "Im September ebbte die Seuche langsam ab.",
+   "img": "../dans/img/d14.png"
+  },
+  {
+   "scene": "d15",
+   "text": "Was war das also? Manche geben einem giftigen Pilz im Roggen die Schuld.",
+   "img": "../dans/img/d15.png"
+  },
+  {
+   "scene": "d16",
+   "text": "Doch viele Historiker sehen die Ursache in Hunger, Krankheit und Angst. Die Menschen glaubten an den Fluch eines Heiligen. Eine Massenhysterie.",
+   "img": "../dans/img/d16.png",
+   "crop": 1.08
+  },
+  {
+   "scene": "d17",
+   "text": "Und vielleicht ist das das Unheimlichste: Der Verstand einer ganzen Stadt kann eines Tages… still zu tanzen beginnen.",
+   "img": "../dans/img/d17.png",
+   "sfx": "sting"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "id": "ep4",
+ "series": "KUYUNUN SESİ",
+ "number": 4,
+ "title": "Senin Adın",
+ "target": 180,
+ "lines": [
+  {
+   "scene": "title",
+   "text": "Kuyunun Sesi. Son bölüm: Senin Adın.",
+   "pad": 1.5
+  },
+  {
+   "scene": "silence",
+   "text": "Davul susuyor. Bütün yüzsüzler dönüp sana bakıyor."
+  },
+  {
+   "scene": "cold",
+   "text": "Gelin elini tutuyor. Eli buz gibi."
+  },
+  {
+   "scene": "slide",
+   "text": "Kuyunun taşı kendiliğinden kayıyor.",
+   "sfx": "stone"
+  },
+  {
+   "scene": "rise",
+   "text": "Ve dibinden bir isim yükseliyor: Rojhat."
+  },
+  {
+   "scene": "yours",
+   "text": "Cevap vermek istemiyorsun. Ama bu isim senin..."
+  },
+  {
+   "scene": "orisit",
+   "text": "Ya da... öyle sanıyorsun."
+  },
+  {
+   "scene": "left",
+   "text": "Ninen ölmeden önce sana bir şey bırakmıştı. Hatırlıyor musun?"
+  },
+  {
+   "scene": "chest",
+   "text": "Onun odasında, eski bir sandık."
+  },
+  {
+   "scene": "run",
+   "text": "Koşuyorsun. Halay arkandan uzuyor, uzuyor...",
+   "sfx": "heart"
+  },
+  {
+   "scene": "open",
+   "text": "Sandığı açıyorsun. İçinde bir bebek kundağı ve katlanmış bir kâğıt.",
+   "sfx": "creak"
+  },
+  {
+   "scene": "letter",
+   "text": "Ninenin titrek el yazısı:"
+  },
+  {
+   "scene": "two",
+   "text": "Doğduğunda kulağına iki isim fısıldadım. Biri herkesin bildiği, öbürü sadece senin.",
+   "voice": "grandma",
+   "fx": "memory"
+  },
+  {
+   "scene": "rule",
+   "text": "Kuyu bir adı çağırırsa, ona öbür adını ver. Kuyu bilmediği adı tutamaz.",
+   "voice": "grandma",
+   "fx": "memory"
+  },
+  {
+   "scene": "word",
+   "text": "Kâğıdın en altında tek bir kelime yazıyor."
+  },
+  {
+   "scene": "back",
+   "text": "Kuyuya geri dönüyorsun. Gelin bekliyor. Deden bekliyor."
+  },
+  {
+   "scene": "lastcall",
+   "text": "Kuyu son kez çağırıyor: Rojhat!",
+   "sfx": "sting"
+  },
+  {
+   "scene": "answer",
+   "text": "Ve sen, ilk kez, o kuyuya başka bir adla cevap veriyorsun."
+  },
+  {
+   "scene": "quake",
+   "text": "Kuyunun içinden bir çığlık yükseliyor. Toprak sarsılıyor.",
+   "sfx": "scream"
+  },
+  {
+   "scene": "faces",
+   "text": "Halaydakilerin yüzleri tek tek geri geliyor."
+  },
+  {
+   "scene": "who",
+   "text": "Çoban. Komşunun kızı. Ve en son... genç bir damat."
+  },
+  {
+   "scene": "dance",
+   "text": "Deden geline elini uzatıyor. Kırk yıl sonra, düğün tamamlanıyor.",
+   "sfx": "drum"
+  },
+  {
+   "scene": "dawn",
+   "text": "Şafak sökerken hepsi sisin içinde kayboluyor."
+  },
+  {
+   "scene": "seal",
+   "text": "Kuyunun taşı yerine oturuyor. Bu sefer, sonsuza dek.",
+   "sfx": "stone"
+  },
+  {
+   "scene": "home",
+   "text": "İstanbul'a dönüyorsun. Aynalarının örtüsünü kaldırıyorsun."
+  },
+  {
+   "scene": "mirror",
+   "text": "Yansıman sana bakıyor. Ve bu sefer... gülümseyen sadece sen oluyorsun."
+  },
+  {
+   "scene": "why",
+   "text": "Bu hikâyeyi sana neden anlattım biliyor musun?"
+  },
+  {
+   "scene": "wells",
+   "text": "Çünkü kuyular sadece Mardin'de değil."
+  },
+  {
+   "scene": "three",
+   "text": "Bu gece saat üçte biri seni adınla çağırırsa...",
+   "sfx": "tick"
+  },
+  {
+   "scene": "end",
+   "text": "...cevap verme.",
+   "sfx": "sting",
+   "pad": 3.5
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "id": "bach_short_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "s01",
+   "text": "Acht Schüsse. Mitten im Gerichtssaal. Abgefeuert von einer Mutter.",
+   "img": "img/P01.jpg",
+   "move": "in",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s02",
+   "text": "Lübeck, 1980. Anna ist sieben Jahre alt.",
+   "img": "img/P02.jpg",
+   "move": "in",
+   "say": "Lübeck, neunzehnhundertachtzig. Anna ist sieben Jahre alt."
+  },
+  {
+   "scene": "s03",
+   "text": "Sie klingelt bei einem Nachbarn. Er lässt sie herein.",
+   "img": "img/P03.jpg",
+   "move": "right"
+  },
+  {
+   "scene": "s04",
+   "text": "Sie kommt nie wieder heraus.",
+   "img": "img/P04.jpg",
+   "move": "in",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s05",
+   "text": "Der Mann war schon einmal verurteilt. Niemand hat die Nachbarn gewarnt.",
+   "img": "img/P05.jpg",
+   "move": "out"
+  },
+  {
+   "scene": "s06",
+   "text": "Vor Gericht behauptet er: Das Kind habe ihn erpresst.",
+   "img": "img/P06.jpg",
+   "move": "in"
+  },
+  {
+   "scene": "s07",
+   "text": "Marianne sitzt nur wenige Meter von ihm entfernt. Tag für Tag.",
+   "img": "img/P07.jpg",
+   "move": "left"
+  },
+  {
+   "scene": "s08",
+   "text": "Am dritten Prozesstag hat sie etwas in ihrer Handtasche.",
+   "img": "img/P08.jpg",
+   "move": "in",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s09",
+   "text": "Sie steht auf. Und zieht die Waffe.",
+   "img": "img/P09.jpg",
+   "move": "in",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s10",
+   "text": "Ganz Deutschland streitet: Heldin oder Mörderin?",
+   "img": "img/P10.jpg",
+   "move": "out"
+  },
+  {
+   "scene": "s11",
+   "text": "Und dann steht sie selbst vor Gericht. Was mit ihr passiert, siehst du in der ganzen Folge.",
+   "img": "img/P11.jpg",
+   "move": "in"
+  },
+  {
+   "scene": "s12",
+   "text": "Hättest du genauso gehandelt? Folge Schattenchronik.",
+   "img": "img/P12.jpg",
+   "move": "in"
+  }
+ ]
+}

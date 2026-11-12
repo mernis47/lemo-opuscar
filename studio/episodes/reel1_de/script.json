@@ -1,0 +1,111 @@
+{
+ "id": "reel1_de",
+ "lang": "de",
+ "style": "reel",
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "s01",
+   "text": "1644. Peking. Der Kaiser des bevölkerungsreichsten Landes der Welt steht ganz allein auf dem Hügel hinter seinem Palast.",
+   "img": "../reel1/img/s01.png",
+   "move": "in",
+   "sfx": "sting",
+   "say": "Sechzehnhundertvierundvierzig. Peking. Der Kaiser des bevölkerungsreichsten Landes der Welt steht ganz allein auf dem Hügel hinter seinem Palast."
+  },
+  {
+   "scene": "s02",
+   "text": "Er hat Schießpulver. Er hat Kanonen. Er hat Millionen Soldaten.",
+   "img": "../reel1/img/s02.png",
+   "move": "up",
+   "beds": [
+    "cannon:1"
+   ]
+  },
+  {
+   "scene": "s03",
+   "text": "Doch was ihn auf diesen Hügel gebracht hat, war keine Armee. Und kein Verrat.",
+   "img": "../reel1/img/s03.png",
+   "move": "in"
+  },
+  {
+   "scene": "s04",
+   "text": "Dieses riesige Reich hatte nur eine Schwäche: das Pferd.",
+   "img": "../reel1/img/s04.png",
+   "move": "right",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s05",
+   "text": "Chinas Pferde waren klein, schwach und krank. Selbst starke Pferde aus dem Norden verkümmerten hier in wenigen Jahren.",
+   "img": "../reel1/img/s05.png",
+   "move": "left",
+   "beds": [
+    "hooves:2:walk"
+   ]
+  },
+  {
+   "scene": "s06",
+   "text": "Es blieb nur ein Ausweg: Pferde kaufen. Und zwar vom Feind. Gegen Tee.",
+   "img": "../reel1/img/s06.png",
+   "move": "in",
+   "beds": [
+    "hooves:2:walk"
+   ]
+  },
+  {
+   "scene": "s07",
+   "text": "Und der Hirte in der Steppe verkaufte niemals sein bestes Pferd.",
+   "img": "../reel1/img/s07.png",
+   "move": "out"
+  },
+  {
+   "scene": "s08",
+   "text": "Das mächtigste Reich der Welt finanzierte also seinen eigenen Feind.",
+   "img": "../reel1/img/s08.png",
+   "move": "up",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s09",
+   "text": "Und eines Tages kam diese Staubwolke aus dem Norden.",
+   "img": "../reel1/img/s09.png",
+   "move": "in",
+   "beds": [
+    "hooves:12",
+    "arrows:2"
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "China fiel zuerst an die Mongolen. Jahrhunderte später an die Mandschu. Zweimal.",
+   "img": "../reel1/img/s10.png",
+   "move": "out",
+   "crop": 1.08,
+   "beds": [
+    "hooves:5"
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "Aber was war mit diesen Pferden los? Die Antwort kam Jahrhunderte später, aus dem Boden.",
+   "img": "../reel1/img/s11.png",
+   "move": "right"
+  },
+  {
+   "scene": "s12",
+   "text": "Einigen Forschern zufolge fehlte dem Boden Selen. Unsichtbar, geschmacklos, geruchlos. Aber lebenswichtig für Herz und Muskeln.",
+   "img": "../reel1/img/s12.png",
+   "move": "in",
+   "crop": 1.08,
+   "sfx": "sting"
+  },
+  {
+   "scene": "s13",
+   "text": "Der Feind, der ein Imperium stürzt, wirbelt manchmal keinen Staub auf. Er wartet still unter deinen Füßen.",
+   "img": "../reel1/img/s13.png",
+   "move": "out",
+   "sfx": "sting"
+  }
+ ]
+}

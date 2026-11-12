@@ -1,0 +1,87 @@
+{
+ "id": "frost_short_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "s01",
+   "text": "Mitten im Schneesturm reißt sich dieser Mann die Jacke vom Leib.",
+   "img": "img/F01.jpg",
+   "move": "in",
+   "sfx": "sting",
+   "snow": 0.6,
+   "wind": 0.7
+  },
+  {
+   "scene": "s02",
+   "text": "Minus 30 Grad. Er hat sich verirrt. Seit Stunden kämpft er sich durch den Sturm.",
+   "img": "img/F02.jpg",
+   "move": "up",
+   "say": "Minus dreißig Grad. Er hat sich verirrt. Seit Stunden kämpft er sich durch den Sturm.",
+   "snow": 0.8,
+   "wind": 0.9
+  },
+  {
+   "scene": "s03",
+   "text": "Zuerst zittert er. Dann stolpert er. Dann redet er mit sich selbst.",
+   "img": "img/F03.jpg",
+   "move": "in",
+   "snow": 0.6,
+   "wind": 0.6
+  },
+  {
+   "scene": "s04",
+   "text": "Und plötzlich hört das Zittern auf. Er fühlt sich besser. Doch das ist das schlimmste Zeichen.",
+   "img": "img/F04.jpg",
+   "move": "out",
+   "sfx": "heart",
+   "snow": 0.5,
+   "wind": 0.4
+  },
+  {
+   "scene": "s05",
+   "text": "Er sieht ein Licht. Eine Hütte. Ein Feuer. Aber da ist nichts.",
+   "img": "img/F05.jpg",
+   "move": "in",
+   "snow": 0.4,
+   "wind": 0.3
+  },
+  {
+   "scene": "s06",
+   "text": "Dann wird ihm heiß. Unerträglich heiß. Die Mütze. Die Handschuhe. Die Jacke.",
+   "img": "img/F01.jpg",
+   "move": "right",
+   "snow": 0.6,
+   "wind": 0.7
+  },
+  {
+   "scene": "s07",
+   "text": "Und dann kriecht er unter eine Tanne. Und rollt sich zusammen.",
+   "img": "img/F06.jpg",
+   "move": "in",
+   "sfx": "heart",
+   "snow": 0.5,
+   "wind": 0.5
+  },
+  {
+   "scene": "s08",
+   "text": "Mitten in der Nacht: Lichter im Sturm. Ein Suchhund schlägt an.",
+   "img": "img/F07.jpg",
+   "move": "in",
+   "sfx": "sting",
+   "snow": 0.7,
+   "wind": 0.7
+  },
+  {
+   "scene": "s09",
+   "text": "Ist er noch zu retten? Das siehst du im langen Video. Folge Schattenchronik.",
+   "img": "img/F08.jpg",
+   "move": "in",
+   "snow": 0.3,
+   "wind": 0.2
+  }
+ ]
+}

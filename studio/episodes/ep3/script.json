@@ -1,0 +1,145 @@
+{
+ "id": "ep3",
+ "series": "KUYUNUN SESİ",
+ "number": 3,
+ "title": "Ölülerin Düğünü",
+ "target": 180,
+ "lines": [
+  {
+   "scene": "title",
+   "text": "Kuyunun Sesi. Üçüncü bölüm: Ölülerin Düğünü.",
+   "pad": 1.5
+  },
+  {
+   "scene": "covered",
+   "text": "Aradan bir ay geçiyor. Evdeki bütün aynaları örtüyorsun."
+  },
+  {
+   "scene": "envelope",
+   "text": "Bir sabah kapının altından bir zarf giriyor."
+  },
+  {
+   "scene": "invite",
+   "text": "Bir düğün davetiyesi. Mardin'deki köyden."
+  },
+  {
+   "scene": "bride",
+   "text": "Gelinin adı Hezal. Ninenin adı."
+  },
+  {
+   "scene": "date",
+   "text": "Tarih ise... kırk yıl önceki bir gece.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "lights",
+   "text": "Yine köye dönüyorsun. Ama bu sefer köy boş değil."
+  },
+  {
+   "scene": "roofs",
+   "text": "Damlarda lambalar yanıyor. Uzaktan davul zurna sesi geliyor.",
+   "sfx": "drum"
+  },
+  {
+   "scene": "fromwell",
+   "text": "Ses meydandan gelmiyor... kuyunun oradan geliyor.",
+   "sfx": "drum"
+  },
+  {
+   "scene": "halay",
+   "text": "Avluda uzun bir halay var. Herkes el ele tutuşmuş.",
+   "sfx": "drum"
+  },
+  {
+   "scene": "faceless",
+   "text": "Ama hiçbirinin yüzü yok.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "shepherd",
+   "text": "Halayın başındakini tanıyorsun. Geçen yıl kaybolan çoban.",
+   "sfx": "drum"
+  },
+  {
+   "scene": "lost",
+   "text": "Köyden kaybolan herkes burada. Kırk yıldır, her yıl, aynı gece."
+  },
+  {
+   "scene": "veil",
+   "text": "Kuyunun başında kırmızı duvaklı bir gelin oturuyor."
+  },
+  {
+   "scene": "unveil",
+   "text": "Duvağını kaldırıyor. Genç bir kadın... ama gözleri ninenin gözleri."
+  },
+  {
+   "scene": "young",
+   "text": "Geldin mi? Kırk yıldır damadımı bekliyorum.",
+   "voice": "grandma",
+   "fx": "well"
+  },
+  {
+   "scene": "past",
+   "text": "Kırk yıl önce, düğünün tam ortasında, kuyudan bir ses gelmiş."
+  },
+  {
+   "scene": "groom",
+   "text": "Damadın adını çağırmış. Ve damat... cevap vermiş."
+  },
+  {
+   "scene": "waiting",
+   "text": "Düğün yarım kalmış. Gelin ömrü boyunca kuyunun başında beklemiş."
+  },
+  {
+   "scene": "name",
+   "text": "Damadın adı... Rojhat'mış."
+  },
+  {
+   "scene": "naming",
+   "text": "Sana da onun adını vermişler.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "faster",
+   "text": "Davul hızlanıyor. Halay sana doğru kıvrılıyor.",
+   "sfx": "drum"
+  },
+  {
+   "scene": "seat",
+   "text": "Yüzsüz eller seni gelinin yanına oturtuyor."
+  },
+  {
+   "scene": "crown",
+   "text": "Birisi başına damat tacını koyuyor."
+  },
+  {
+   "scene": "complete",
+   "text": "Şimdi düğünümüz tamamlanacak.",
+   "voice": "grandma",
+   "fx": "well"
+  },
+  {
+   "scene": "voice",
+   "text": "Ve kuyunun dibinden bir ses diyor ki: Kalk oradan evlat. Orası benim yerim."
+  },
+  {
+   "scene": "know",
+   "text": "Bu sesi tanıyorsun. Çünkü üç bölümdür... seninle konuşan benim.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "grandpa",
+   "text": "Ben, deden. Kırk yıl önce cevap veren damat."
+  },
+  {
+   "scene": "one",
+   "text": "Ve bu gece... ikimizden biri o kuyudan çıkacak.",
+   "pad": 1.5
+  },
+  {
+   "scene": "next",
+   "text": "Son bölüm: Senin Adın.",
+   "pad": 2.0
+  }
+ ]
+}

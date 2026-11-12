@@ -1,0 +1,366 @@
+{
+ "id": "woolpit_de",
+ "lang": "de",
+ "style": "reel",
+ "widescreen": true,
+ "shots": true,
+ "whoosh_cuts": true,
+ "pad_default": 0.15,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "w01",
+   "text": "Zwei Kinder kletterten aus einer Grube. Ihre Haut war grün. Und niemand auf der Welt verstand ihre Sprache.",
+   "img": "img/W01.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "w02",
+   "text": "Das Mädchen sagte später nur einen Satz über ihre Heimat: Bei uns geht die Sonne niemals auf.",
+   "img": "img/W01.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "w03",
+   "text": "Das ist kein Märchen. Zwei Chronisten des Mittelalters haben es aufgeschrieben. Und beide schwören, dass es wirklich passiert ist.",
+   "img": "img/W02.jpg"
+  },
+  {
+   "scene": "w04",
+   "text": "Einer von ihnen zögerte jahrelang. Er hielt die Geschichte für lächerlich. Bis ihn die Zeugen überzeugten.",
+   "img": "img/W28.jpg"
+  },
+  {
+   "scene": "w05",
+   "text": "England, Mitte des 12. Jahrhunderts. Die Grafschaft Suffolk. Felder, Wälder, kleine Dörfer.",
+   "img": "img/W03.jpg",
+   "say": "England, Mitte des zwölften Jahrhunderts. Die Grafschaft Suffolk. Felder, Wälder, kleine Dörfer."
+  },
+  {
+   "scene": "w06",
+   "text": "Eines dieser Dörfer heißt Woolpit. Der Name kommt von alten Gruben, in denen man früher Wölfe gefangen hat.",
+   "img": "img/W03.jpg"
+  },
+  {
+   "scene": "w07",
+   "text": "Es ist Erntezeit. Die Bauern schneiden das Korn, wie jedes Jahr. Nichts deutet auf etwas Besonderes hin.",
+   "img": "img/W04.jpg"
+  },
+  {
+   "scene": "w08",
+   "text": "Doch plötzlich hört einer von ihnen etwas. Ein Geräusch, direkt aus einer der Wolfsgruben.",
+   "img": "img/W05.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "w09",
+   "text": "Am Rand der Grube stehen zwei Kinder. Ein Mädchen und ein kleiner Junge. Sie halten sich an den Händen.",
+   "img": "img/W06.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "w10",
+   "text": "Die Bauern erstarren. Denn die Haut dieser Kinder ist grün. Nicht blass. Nicht schmutzig. Grün.",
+   "img": "img/W06.jpg"
+  },
+  {
+   "scene": "w11",
+   "text": "Auch ihre Kleidung ist seltsam. Ein glänzender Stoff, den in der ganzen Gegend noch nie jemand gesehen hat.",
+   "img": "img/W07.jpg"
+  },
+  {
+   "scene": "w12",
+   "text": "Die Kinder zittern. Sie schauen sich um, als wären sie gerade in einer völlig fremden Welt aufgewacht.",
+   "img": "img/W08.jpg"
+  },
+  {
+   "scene": "w13",
+   "text": "Die Leute sprechen sie an. Doch die Kinder antworten in einer Sprache, die niemand kennt. Kein Englisch. Kein Latein. Kein Französisch.",
+   "img": "img/W09.jpg"
+  },
+  {
+   "scene": "w14",
+   "text": "Und dann bemerken die Bauern noch etwas. Rund um die Grube gibt es keine Spuren. Keine Fußabdrücke, keinen Weg.",
+   "img": "img/W10.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "w15",
+   "text": "Es ist, als wären die beiden einfach aus dem Boden aufgetaucht.",
+   "img": "img/W10.jpg"
+  },
+  {
+   "scene": "w16",
+   "text": "Man bringt die Kinder zum Gutshof eines Ritters. Sein Name: Richard de Calne. Er nimmt sie bei sich auf.",
+   "img": "img/W11.jpg"
+  },
+  {
+   "scene": "w17",
+   "text": "Man stellt ihnen Brot und Fleisch hin. Doch die Kinder rühren nichts an. Tagelang essen sie gar nichts.",
+   "img": "img/W12.jpg"
+  },
+  {
+   "scene": "w18",
+   "text": "Sie werden immer schwächer. Sie weinen. Alle glauben, dass sie bald verhungern werden.",
+   "img": "img/W13.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "w19",
+   "text": "Da bringt jemand frisch geerntete Bohnen herein, noch an den Stängeln. Und plötzlich werden die Kinder lebendig.",
+   "img": "img/W14.jpg"
+  },
+  {
+   "scene": "w20",
+   "text": "Sie greifen gierig nach den Pflanzen. Doch sie brechen die Stängel auf und suchen darin. Nicht in den Schoten.",
+   "img": "img/W15.jpg"
+  },
+  {
+   "scene": "w21",
+   "text": "Als hätten sie noch nie eine Bohne gesehen. Als würden bei ihnen zu Hause die Pflanzen ganz anders wachsen.",
+   "img": "img/W15.jpg"
+  },
+  {
+   "scene": "w22",
+   "text": "Erst als man ihnen die Bohnen zeigt, essen sie. Roh. Und monatelang essen sie nichts anderes.",
+   "img": "img/W16.jpg"
+  },
+  {
+   "scene": "w23",
+   "text": "Langsam gewöhnen sie sich an Brot. Doch mit dem neuen Essen beginnt sich etwas zu verändern.",
+   "img": "img/W12.jpg"
+  },
+  {
+   "scene": "w24",
+   "text": "Der Junge wird krank. Er ist still, schwach, er scheint zu verblassen. Das Mädchen weicht nicht von seiner Seite.",
+   "img": "img/W17.jpg"
+  },
+  {
+   "scene": "w25",
+   "text": "Man lässt die beiden Kinder taufen. Vielleicht aus Hoffnung. Vielleicht aus Angst vor dem, was sie sein könnten.",
+   "img": "img/W18.jpg"
+  },
+  {
+   "scene": "w26",
+   "text": "Kurz nach der Taufe stirbt der Junge. Das Mädchen bleibt allein zurück. In einer Welt, die nicht ihre ist.",
+   "img": "img/W19.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "w27",
+   "text": "Doch sie überlebt. Und mit der Zeit geschieht etwas Unheimliches. Ihre grüne Farbe verschwindet.",
+   "img": "img/W20.jpg"
+  },
+  {
+   "scene": "w28",
+   "text": "Woche für Woche wird ihre Haut heller. Bis sie aussieht wie jedes andere Kind im Dorf.",
+   "img": "img/W20.jpg"
+  },
+  {
+   "scene": "w29",
+   "text": "Sie lernt Englisch. Und dann, eines Abends, erzählt sie endlich, woher sie gekommen sind.",
+   "img": "img/W21.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "w30",
+   "text": "Ihre Heimat, sagt sie, heißt Sankt Martins Land. Dort ist alles grün. Die Menschen, die Felder, die Häuser.",
+   "img": "img/W22.jpg"
+  },
+  {
+   "scene": "w31",
+   "text": "Die Sonne geht dort niemals auf. Es herrscht ein ewiges Dämmerlicht, wie bei uns kurz nach Sonnenuntergang.",
+   "img": "img/W22.jpg"
+  },
+  {
+   "scene": "w32",
+   "text": "Und jenseits eines breiten Flusses, sagt sie, liegt ein leuchtendes Land. Hell. Aber niemand von ihnen ist je dort gewesen.",
+   "img": "img/W23.jpg"
+  },
+  {
+   "scene": "w33",
+   "text": "Die Dorfbewohner hören schweigend zu. Niemand wagt es zu fragen. Doch alle wollen wissen: Wie seid ihr hierher gekommen?",
+   "img": "img/W21.jpg"
+  },
+  {
+   "scene": "w34",
+   "text": "Sie hätten die Rinder ihres Vaters gehütet, erzählt das Mädchen. Die Tiere seien in eine Höhle gelaufen.",
+   "img": "img/W24.jpg"
+  },
+  {
+   "scene": "w35",
+   "text": "Die Kinder folgten ihnen hinein. Immer tiefer. Und dann hörten sie etwas. Glocken.",
+   "img": "img/W25.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "w36",
+   "text": "Ein wunderschöner Klang. Sie gingen ihm nach, durch die Dunkelheit, ohne zu wissen, wohin.",
+   "img": "img/W25.jpg"
+  },
+  {
+   "scene": "w37",
+   "text": "Am Ende der Höhle traf sie ein grelles Licht. So hell, dass sie die Augen nicht öffnen konnten.",
+   "img": "img/W26.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "w38",
+   "text": "Sie fielen zu Boden, wie betäubt. Die Wärme, das Licht, die Luft. Alles war fremd.",
+   "img": "img/W26.jpg"
+  },
+  {
+   "scene": "w39",
+   "text": "Als sie wieder zu sich kamen, lagen sie in der Wolfsgrube von Woolpit. Und über ihnen standen die Bauern.",
+   "img": "img/W27.jpg"
+  },
+  {
+   "scene": "w40",
+   "text": "Den Weg zurück zur Höhle haben sie nie wieder gefunden.",
+   "img": "img/W27.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "w41",
+   "text": "Klingt wie eine Legende. Aber hier wird es seltsam. Denn diese Geschichte stammt aus zwei unabhängigen Quellen.",
+   "img": "img/W28.jpg"
+  },
+  {
+   "scene": "w42",
+   "text": "Der erste ist William von Newburgh, ein Mönch und angesehener Historiker. Er schrieb sie um 1189 auf.",
+   "img": "img/W02.jpg",
+   "say": "Der erste ist William von Newburgh, ein Mönch und angesehener Historiker. Er schrieb sie um elfhundertneunundachtzig auf."
+  },
+  {
+   "scene": "w43",
+   "text": "Er gab zu, dass er sie lange nicht glauben wollte. Aber es gab zu viele glaubwürdige Zeugen.",
+   "img": "img/W28.jpg"
+  },
+  {
+   "scene": "w44",
+   "text": "Der zweite ist Ralph von Coggeshall, ein Abt aus Essex. Und er hatte eine ganz besondere Quelle.",
+   "img": "img/W02.jpg"
+  },
+  {
+   "scene": "w45",
+   "text": "Ralph hörte die Geschichte von Richard de Calne selbst. Dem Ritter, in dessen Haus das Mädchen gelebt hat.",
+   "img": "img/W11.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "w46",
+   "text": "Denn das Mädchen ist nicht verschwunden. Sie arbeitete viele Jahre als Dienerin in seinem Haus.",
+   "img": "img/W29.jpg"
+  },
+  {
+   "scene": "w47",
+   "text": "Später, so erzählt man sich, heiratete sie einen Mann aus King's Lynn, einer Hafenstadt an der Küste. Ihr Name soll Agnes gewesen sein.",
+   "img": "img/W29.jpg"
+  },
+  {
+   "scene": "w48",
+   "text": "Sie lebte unter ganz normalen Menschen. Doch ihr Geheimnis hat sie mit ins Grab genommen.",
+   "img": "img/W29.jpg"
+  },
+  {
+   "scene": "w49",
+   "text": "Wer also waren diese Kinder? Seit fast neunhundert Jahren suchen Menschen nach einer Antwort.",
+   "img": "img/W08.jpg",
+   "sfx": "whoosh"
+  },
+  {
+   "scene": "w50",
+   "text": "Die bekannteste Theorie: England steckte damals mitten in einem blutigen Bürgerkrieg.",
+   "img": "img/W30.jpg"
+  },
+  {
+   "scene": "w51",
+   "text": "Viele flämische Weber lebten in der Gegend. Sie wurden verfolgt, ihre Familien getötet.",
+   "img": "img/W30.jpg"
+  },
+  {
+   "scene": "w52",
+   "text": "Nicht weit von Woolpit liegt ein Dorf namens Fornham Sankt Martin. Hinter einem großen, dunklen Wald.",
+   "img": "img/W31.jpg"
+  },
+  {
+   "scene": "w53",
+   "text": "Vielleicht waren die Kinder Waisen, die tagelang durch diesen Wald irrten. Im Halbdunkel unter den Bäumen.",
+   "img": "img/W31.jpg"
+  },
+  {
+   "scene": "w54",
+   "text": "Sankt Martins Land wäre dann einfach Fornham Sankt Martin. Und die fremde Sprache wäre Flämisch.",
+   "img": "img/W31.jpg"
+  },
+  {
+   "scene": "w55",
+   "text": "Und die grüne Haut? Ärzte kennen eine Krankheit namens Bleichsucht. Durch schweren Hunger kann die Haut grünlich werden.",
+   "img": "img/W32.jpg"
+  },
+  {
+   "scene": "w56",
+   "text": "Als die Kinder richtig aßen, verschwand die Farbe. Das würde passen.",
+   "img": "img/W32.jpg"
+  },
+  {
+   "scene": "w57",
+   "text": "Aber diese Erklärung hat Lücken. Flämisch war in dieser Gegend bekannt. Warum erkannte es niemand?",
+   "img": "img/W09.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "w58",
+   "text": "Und warum erzählte das Mädchen von einem Land ohne Sonne? Von einem ewigen Zwielicht?",
+   "img": "img/W22.jpg"
+  },
+  {
+   "scene": "w59",
+   "text": "Und die Glocken? Ein Glockenklang, der sie aus der Dunkelheit herausgeführt hat?",
+   "img": "img/W25.jpg"
+  },
+  {
+   "scene": "w60",
+   "text": "Manche glauben deshalb an etwas ganz anderes. An eine Welt unter der Erde. Oder an eine Welt neben unserer.",
+   "img": "img/W33.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "w61",
+   "text": "Ein Ort, der nur durch eine Höhle mit unserer Welt verbunden ist. Und durch Zufall stand der Eingang offen.",
+   "img": "img/W33.jpg"
+  },
+  {
+   "scene": "w62",
+   "text": "Andere halten es für eine alte Legende. Eine Erzählung über das Fremde, über Angst vor dem Unbekannten.",
+   "img": "img/W23.jpg"
+  },
+  {
+   "scene": "w63",
+   "text": "Doch eine Legende braucht keine Zeugen. Und diese Geschichte hatte welche. Einen Ritter. Einen Abt. Ein ganzes Dorf.",
+   "img": "img/W01.jpg"
+  },
+  {
+   "scene": "w64",
+   "text": "Heute steht am Eingang von Woolpit ein Dorfschild. Darauf: zwei grüne Kinder.",
+   "img": "img/W34.jpg"
+  },
+  {
+   "scene": "w65",
+   "text": "Die Wolfsgruben gibt es nicht mehr. Doch die Frage ist geblieben.",
+   "img": "img/W34.jpg"
+  },
+  {
+   "scene": "w66",
+   "text": "Woher kamen sie wirklich? Aus einem Wald in Suffolk? Oder aus einem Land, das auf keiner Karte steht?",
+   "img": "img/W35.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "w67",
+   "text": "Vielleicht gibt es irgendwo eine Höhle, in der man ganz leise Glocken hört. Und dahinter ein Land, in dem die Sonne niemals aufgeht.",
+   "img": "img/W35.jpg",
+   "sfx": "sting"
+  }
+ ]
+}

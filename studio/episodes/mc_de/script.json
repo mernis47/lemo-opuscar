@@ -1,0 +1,341 @@
+{
+ "id": "mc_de",
+ "lang": "de",
+ "style": "reel",
+ "widescreen": true,
+ "shots": true,
+ "pad_default": 0.25,
+ "ambient_gain": 0.0,
+ "wind_gain": 0.15,
+ "lines": [
+  {
+   "scene": "m01",
+   "text": "Mitten im Atlantik treibt ein Schiff. Niemand am Steuer. Zehn Menschen – spurlos verschwunden.",
+   "img": "img/M01.jpg",
+   "sfx": "sting",
+   "wind": 0.5
+  },
+  {
+   "scene": "m02",
+   "text": "Kein Sturmschaden. Kein Kampf. Essen für sechs Monate. Und bis heute weiß niemand, was an Bord geschehen ist.",
+   "img": "img/M02.jpg",
+   "sfx": "heart",
+   "wind": 0.4
+  },
+  {
+   "scene": "m03",
+   "text": "Das ist die Geschichte der Mary Celeste. Des berühmtesten Geisterschiffs der Welt.",
+   "img": "img/M45.jpg",
+   "wind": 0.3
+  },
+  {
+   "scene": "m04",
+   "text": "New York, November 1872. Im Hafen wird eine Brigantine beladen. 1701 Fässer Alkohol, bestimmt für Genua.",
+   "img": "img/M03.jpg",
+   "say": "New York, November achtzehnhundertzweiundsiebzig. Im Hafen wird eine Brigantine beladen. Siebzehnhundertundein Fässer Alkohol, bestimmt für Genua."
+  },
+  {
+   "scene": "m05",
+   "text": "Der Kapitän heißt Benjamin Briggs. Ein erfahrener, frommer Seemann. Er rührt keinen Tropfen Alkohol an.",
+   "img": "img/M04.jpg"
+  },
+  {
+   "scene": "m06",
+   "text": "Diesmal nimmt er seine Frau Sarah mit. Und ihre zweijährige Tochter Sophia.",
+   "img": "img/M04.jpg"
+  },
+  {
+   "scene": "m07",
+   "text": "Sarah bringt sogar ihr kleines Harmonium an Bord. Es soll eine lange, friedliche Reise werden.",
+   "img": "img/M06.jpg"
+  },
+  {
+   "scene": "m08",
+   "text": "Unten im Laderaum stehen die Fässer dicht an dicht. Mit sieben Matrosen sind sie zehn Menschen an Bord.",
+   "img": "img/M05.jpg"
+  },
+  {
+   "scene": "m09",
+   "text": "Am Abend vor der Abfahrt soll Briggs mit einem befreundeten Kapitän gegessen haben. Sein Name: David Morehouse. Merk ihn dir.",
+   "img": "img/M07.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "m10",
+   "text": "Am 7. November 1872 legt die Mary Celeste ab.",
+   "img": "img/M08.jpg",
+   "say": "Am siebten November achtzehnhundertzweiundsiebzig legt die Mary Celeste ab.",
+   "wind": 0.2
+  },
+  {
+   "scene": "m11",
+   "text": "Was danach geschieht, weiß bis heute kein Mensch.",
+   "img": "img/M09.jpg",
+   "wind": 0.4
+  },
+  {
+   "scene": "m12",
+   "text": "4. Dezember 1872. Zwischen den Azoren und Portugal. Auf dem Frachtschiff Dei Gratia entdeckt ein Matrose ein Segel am Horizont.",
+   "img": "img/M10.jpg",
+   "say": "Vierter Dezember achtzehnhundertzweiundsiebzig. Zwischen den Azoren und Portugal. Auf dem Frachtschiff Dei Gratia entdeckt ein Matrose ein Segel am Horizont.",
+   "wind": 0.3
+  },
+  {
+   "scene": "m13",
+   "text": "Kapitän der Dei Gratia ist ausgerechnet David Morehouse. Er greift zu seinem Fernrohr.",
+   "img": "img/M11.jpg",
+   "wind": 0.3
+  },
+  {
+   "scene": "m14",
+   "text": "Das Schiff schlingert wie betrunken über die Wellen. An Deck ist niemand. Am Steuer ist niemand.",
+   "img": "img/M12.jpg",
+   "sfx": "heart",
+   "wind": 0.4
+  },
+  {
+   "scene": "m15",
+   "text": "Und am Heck steht ein Name, den Morehouse kennt: Mary Celeste.",
+   "img": "img/M12.jpg",
+   "sfx": "sting",
+   "wind": 0.3
+  },
+  {
+   "scene": "m16",
+   "text": "Er schickt seinen Ersten Offizier Oliver Deveau und zwei Männer mit einem Ruderboot hinüber.",
+   "img": "img/M13.jpg",
+   "wind": 0.5
+  },
+  {
+   "scene": "m17",
+   "text": "Deveau klettert an Bord. Er ruft. Niemand antwortet.",
+   "img": "img/M14.jpg",
+   "wind": 0.3
+  },
+  {
+   "scene": "m18",
+   "text": "Die Segel sind teilweise zerrissen. Seile hängen lose herab. Eine Luke steht offen.",
+   "img": "img/M15.jpg",
+   "wind": 0.3
+  },
+  {
+   "scene": "m19",
+   "text": "Im Laderaum steht über ein Meter Wasser. Viel, aber nicht genug, um zu sinken. Das Schiff ist völlig seetüchtig.",
+   "img": "img/M16.jpg"
+  },
+  {
+   "scene": "m20",
+   "text": "In der Kapitänskajüte ist alles an seinem Platz. Kleidung, Betten, persönliche Sachen. Nichts wurde mitgenommen.",
+   "img": "img/M17.jpg"
+  },
+  {
+   "scene": "m21",
+   "text": "In einer kleinen Koje liegt Sophias Spielzeug. Als hätte sie es gerade erst hingelegt.",
+   "img": "img/M18.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "m22",
+   "text": "In der Vorratskammer: Essen für sechs Monate. Fässer voll Trinkwasser. Niemand musste hungern.",
+   "img": "img/M24.jpg"
+  },
+  {
+   "scene": "m23",
+   "text": "Das Logbuch liegt da. Letzter Eintrag: 25. November, acht Uhr morgens. In Sichtweite der Azoreninsel Santa Maria.",
+   "img": "img/M19.jpg",
+   "say": "Das Logbuch liegt da. Letzter Eintrag: fünfundzwanzigster November, acht Uhr morgens. In Sichtweite der Azoreninsel Santa Maria."
+  },
+  {
+   "scene": "m24",
+   "text": "Das heißt: Neun Tage lang ist dieses Schiff ohne einen einzigen Menschen gesegelt. Rund 700 Kilometer weit.",
+   "img": "img/M19.jpg",
+   "say": "Das heißt: Neun Tage lang ist dieses Schiff ohne einen einzigen Menschen gesegelt. Rund siebenhundert Kilometer weit.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "m25",
+   "text": "Doch drei Dinge fehlen. Der Sextant. Der Chronometer. Und die Schiffspapiere.",
+   "img": "img/M23.jpg"
+  },
+  {
+   "scene": "m26",
+   "text": "Und das Beiboot. Das einzige Rettungsboot ist weg. Jemand hat das Schiff freiwillig verlassen. Aber warum?",
+   "img": "img/M20.jpg",
+   "sfx": "heart",
+   "wind": 0.3
+  },
+  {
+   "scene": "m27",
+   "text": "Dann finden sie unter einer Koje einen Säbel. Auf der Klinge: rotbraune Flecken.",
+   "img": "img/M21.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "m28",
+   "text": "Und an der Reling: seltsame Kerben. Wie von einer Axt.",
+   "img": "img/M22.jpg",
+   "wind": 0.2
+  },
+  {
+   "scene": "m29",
+   "text": "Morehouse beschließt, das Geisterschiff nach Gibraltar zu bringen. Für ein herrenloses Schiff gibt es Bergelohn. Viel Geld.",
+   "img": "img/M25.jpg",
+   "wind": 0.4
+  },
+  {
+   "scene": "m30",
+   "text": "Deveau und zwei Männer segeln die Mary Celeste tagelang über den Ozean. Auf einem Schiff, von dem zehn Menschen verschwunden sind.",
+   "img": "img/M25.jpg",
+   "wind": 0.4
+  },
+  {
+   "scene": "m31",
+   "text": "Mitte Dezember erreichen beide Schiffe Gibraltar. Und dort beginnt der Ärger.",
+   "img": "img/M26.jpg"
+  },
+  {
+   "scene": "m32",
+   "text": "Der Generalstaatsanwalt von Gibraltar, Frederick Solly-Flood, glaubt kein Wort. Für ihn ist das ein Verbrechen.",
+   "img": "img/M27.jpg"
+  },
+  {
+   "scene": "m33",
+   "text": "Seine Theorie: Die Matrosen tranken heimlich den Alkohol, meuterten gegen den Kapitän und flohen.",
+   "img": "img/M31.jpg"
+  },
+  {
+   "scene": "m34",
+   "text": "Oder noch schlimmer: Morehouse und Briggs haben alles zusammen geplant. Ein Betrug, um den Bergelohn zu teilen.",
+   "img": "img/M27.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "m35",
+   "text": "Doch dann wird der Säbel untersucht. Ergebnis: Die Flecken sind kein Blut.",
+   "img": "img/M28.jpg"
+  },
+  {
+   "scene": "m36",
+   "text": "Und die Meuterei? Der Alkohol an Bord war ungenießbar. Industriealkohol. Wer ihn trinkt, wird krank, nicht betrunken.",
+   "img": "img/M31.jpg"
+  },
+  {
+   "scene": "m37",
+   "text": "Am Ende bekommt Morehouse nur einen Bruchteil des Bergelohns. Und ein Verdacht bleibt für immer an ihm hängen.",
+   "img": "img/M26.jpg"
+  },
+  {
+   "scene": "m38",
+   "text": "Also was ist passiert? Piraten? Doch Piraten hätten die Ladung und alle Wertsachen mitgenommen. Nichts fehlte.",
+   "img": "img/M30.jpg",
+   "wind": 0.3
+  },
+  {
+   "scene": "m39",
+   "text": "Andere vermuten eine Wasserhose. Ein Wirbel aus Wasser, der das Schiff erschüttert und die Besatzung in Panik versetzt.",
+   "img": "img/M32.jpg",
+   "wind": 0.6
+  },
+  {
+   "scene": "m40",
+   "text": "Doch es gibt ein Detail, das lange übersehen wurde. Beim Entladen in Genua waren neun Fässer leer. Ausgelaufen.",
+   "img": "img/M29.jpg",
+   "sfx": "sting"
+  },
+  {
+   "scene": "m41",
+   "text": "Die Fässer waren aus rotem Eichenholz. Und das ist porös. Im Laderaum sammelten sich vielleicht tagelang Alkoholdämpfe.",
+   "img": "img/M05.jpg"
+  },
+  {
+   "scene": "m42",
+   "text": "Vielleicht hörte Briggs ein Zischen. Vielleicht schoss aus der Luke eine blaue Stichflamme.",
+   "img": "img/M33.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "m43",
+   "text": "Ein Kapitän mit Frau und Kind an Bord. Unter seinen Füßen 1700 Fässer, die jeden Moment explodieren könnten.",
+   "img": "img/M44.jpg",
+   "say": "Ein Kapitän mit Frau und Kind an Bord. Unter seinen Füßen siebzehnhundert Fässer, die jeden Moment explodieren könnten.",
+   "wind": 0.4
+  },
+  {
+   "scene": "m44",
+   "text": "Er gibt den Befehl: Alle ins Beiboot. Sofort. Er nimmt Chronometer, Sextant und Papiere mit. Genau die Dinge, die fehlten.",
+   "img": "img/M34.jpg",
+   "wind": 0.4
+  },
+  {
+   "scene": "m45",
+   "text": "Vielleicht band er das Boot mit einem langen Seil am Schiff fest. Um abzuwarten, bis die Gefahr vorüber ist.",
+   "img": "img/M35.jpg",
+   "wind": 0.5
+  },
+  {
+   "scene": "m46",
+   "text": "Doch dann frischt der Wind auf. Das Seil reißt. Und die Mary Celeste segelt davon. Ohne sie.",
+   "img": "img/M36.jpg",
+   "sfx": "sting",
+   "wind": 0.8
+  },
+  {
+   "scene": "m47",
+   "text": "Zehn Menschen in einem kleinen Boot, mitten im Atlantik. Man hat sie nie gefunden.",
+   "img": "img/M37.jpg",
+   "sfx": "heart",
+   "wind": 0.5
+  },
+  {
+   "scene": "m48",
+   "text": "2006 bauten Forscher in London den Laderaum nach und entzündeten Alkoholdampf. Die Flamme war gewaltig. Aber sie hinterließ keine Brandspuren.",
+   "img": "img/M33.jpg",
+   "say": "Zweitausendsechs bauten Forscher in London den Laderaum nach und entzündeten Alkoholdampf. Die Flamme war gewaltig. Aber sie hinterließ keine Brandspuren."
+  },
+  {
+   "scene": "m49",
+   "text": "In Massachusetts wartet Briggs' siebenjähriger Sohn Arthur bei seiner Großmutter. Er sieht seine Eltern und seine kleine Schwester nie wieder.",
+   "img": "img/M43.jpg",
+   "sfx": "heart"
+  },
+  {
+   "scene": "m50",
+   "text": "Zwölf Jahre später schreibt ein junger Arzt eine Geschichte über das Schiff. Sein Name: Arthur Conan Doyle. Der spätere Erfinder von Sherlock Holmes.",
+   "img": "img/M38.jpg"
+  },
+  {
+   "scene": "m51",
+   "text": "Er erfindet Details: ein halb gegessenes Frühstück, noch warmer Tee. Die Welt hält es für wahr. Bis heute.",
+   "img": "img/M39.jpg"
+  },
+  {
+   "scene": "m52",
+   "text": "Die Mary Celeste selbst gilt fortan als verfluchtes Schiff. Kaum ein Seemann will auf ihr fahren.",
+   "img": "img/M40.jpg"
+  },
+  {
+   "scene": "m53",
+   "text": "1885 setzt ihr letzter Kapitän sie vor Haiti absichtlich auf ein Riff. Für das Versicherungsgeld.",
+   "img": "img/M41.jpg",
+   "say": "Achtzehnhundertfünfundachtzig setzt ihr letzter Kapitän sie vor Haiti absichtlich auf ein Riff. Für das Versicherungsgeld."
+  },
+  {
+   "scene": "m54",
+   "text": "Taucher suchen noch heute nach ihrem Wrack. Doch die Antwort auf das größte Rätsel liegt nicht dort unten.",
+   "img": "img/M42.jpg"
+  },
+  {
+   "scene": "m55",
+   "text": "Was in diesen neun Tagen auf dem Atlantik geschah, wissen nur zehn Menschen. Und keiner von ihnen ist je zurückgekehrt.",
+   "img": "img/M45.jpg",
+   "sfx": "sting",
+   "wind": 0.5
+  },
+  {
+   "scene": "m56",
+   "text": "Was glaubst du: Alkoholdampf, Verbrechen – oder etwas ganz anderes? Schreib es in die Kommentare. Und folge Schattenchronik.",
+   "img": "img/M02.jpg",
+   "wind": 0.3
+  }
+ ]
+}

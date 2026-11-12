@@ -1,0 +1,338 @@
+{
+ "id": "mc",
+ "series": "",
+ "number": 0,
+ "title": "Mary Celeste",
+ "target": 600,
+ "lines": [
+  {
+   "scene": "title",
+   "text": "Mary Celeste. Okyanusun ortasında bulunan boş gemi.",
+   "pad": 1.2
+  },
+  {
+   "scene": "sea_night",
+   "text": "Bu hikâyenin bir kısmı resmî kayıtlarda yazıyor. Bir kısmı ise hiçbir zaman yazılmadı."
+  },
+  {
+   "scene": "date",
+   "text": "4 Aralık 1872. Atlantik Okyanusu. Azor Adaları ile Portekiz kıyıları arasında bir yer."
+  },
+  {
+   "scene": "lookout",
+   "text": "Dei Gratia adlı bir İngiliz gemisinin gözcüsü, ufukta yelkenleri yırtık bir gemi görüyor."
+  },
+  {
+   "scene": "drifting",
+   "text": "Gemi rüzgârla değil... başıboş, sarhoş gibi sallanarak ilerliyor."
+  },
+  {
+   "scene": "spyglass",
+   "text": "Kaptan Morehouse dürbününü kaldırıyor. Güvertede kimse yok. Dümenin başında kimse yok."
+  },
+  {
+   "scene": "name",
+   "text": "Kıçında adı yazıyor: Mary Celeste. Morehouse bu gemiyi tanıyor. Kaptanı Benjamin Briggs'i de."
+  },
+  {
+   "scene": "rowboat",
+   "text": "Üç adam bir sandala binip boş gemiye doğru kürek çekiyor."
+  },
+  {
+   "scene": "board",
+   "text": "Güverteye çıktıklarında ilk fark ettikleri şey sessizlik oluyor. Ne bir ses, ne bir martı."
+  },
+  {
+   "scene": "deck_wet",
+   "text": "Güverte ıslak. Ama son günlerde bölgeye tek bir damla yağmur düşmemiş."
+  },
+  {
+   "scene": "hatch",
+   "text": "Ambar kapakları açık. Ambarda su var. Ama gemi batmıyor. Gemi... bekliyor."
+  },
+  {
+   "scene": "cabin",
+   "text": "Kaptanın kamarasında her şey yerli yerinde. Giysiler katlanmış. Yataklar düzgün."
+  },
+  {
+   "scene": "table",
+   "text": "Anlatılana göre, masada yarım kalmış bir kahvaltı duruyor. Fincanlar devrilmemiş."
+  },
+  {
+   "scene": "doll",
+   "text": "Küçük bir yatağın üstünde bir oyuncak bebek. Kaptanın iki yaşındaki kızı Sophia'nın."
+  },
+  {
+   "scene": "barrels",
+   "text": "Ambarda bin yedi yüzden fazla fıçı alkol var. Neredeyse hepsi sağlam."
+  },
+  {
+   "scene": "nine_empty",
+   "text": "Sonradan sayıldığında, dokuz fıçının bomboş olduğu anlaşıldı. Dokuz fıçı. Dokuz gün."
+  },
+  {
+   "scene": "lifeboat",
+   "text": "Tek bir şey eksik: geminin filikası. Biri onu aceleyle suya indirmiş."
+  },
+  {
+   "scene": "sword",
+   "text": "Kaptanın kamarasında, kınından çıkarılmış bir kılıç bulundu. Üzerinde kurumuş, koyu bir leke vardı.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "people",
+   "text": "Gemide on kişi vardı. Kaptan Briggs, eşi Sarah, kızları Sophia ve yedi tayfa."
+  },
+  {
+   "scene": "none",
+   "text": "Hiçbiri bir daha görülmedi. Ne bir ceset, ne bir enkaz, ne bir iz."
+  },
+  {
+   "scene": "log",
+   "text": "Seyir defterindeki son kayıt, 25 Kasım sabahı. Sıradan bir cümle: Azor Adaları görüldü."
+  },
+  {
+   "scene": "gap",
+   "text": "Ama gemi bulunduğunda, o son kayıttan bu yana dokuz gün geçmişti."
+  },
+  {
+   "scene": "nine",
+   "text": "Dokuz gün boyunca, mürettebatsız bir gemi okyanusta kendi rotasında ilerlemişti.",
+   "sfx": "sting",
+   "pad": 1.0
+  },
+  {
+   "scene": "dei_night",
+   "text": "Dei Gratia tayfasından üç kişi, gemiyi limana götürmek için Mary Celeste'te kalıyor. İlk gece hiçbiri uyuyamıyor."
+  },
+  {
+   "scene": "dei_knock",
+   "text": "Çünkü sabaha kadar, ambardaki fıçılardan biri... içeriden vurmaya devam ediyor.",
+   "sfx": "knock",
+   "pad": 1.0
+  },
+  {
+   "scene": "theories",
+   "text": "Korsanlar dediler. Fırtına dediler. Alkol buharı, deniz canavarı, sigorta dolandırıcılığı."
+  },
+  {
+   "scene": "nofit",
+   "text": "Hiçbir açıklama, her şeyin neden bu kadar düzenli kaldığını açıklayamadı."
+  },
+  {
+   "scene": "court",
+   "text": "Cebelitarık'taki mahkeme haftalarca sürdü. Savcı, mürettebatın öldürüldüğüne inanıyordu. Ama tek bir kanıt bile bulamadı."
+  },
+  {
+   "scene": "unwritten",
+   "text": "Ama resmî kayıtlarda geçmeyen bir şey var.",
+   "pad": 1.2
+  },
+  {
+   "scene": "found",
+   "text": "Gemiyi Cebelitarık'a götüren adamlardan biri, kaptanın kamarasında, bir çekmecenin arkasına sıkışmış küçük bir defter bulmuş."
+  },
+  {
+   "scene": "sarah",
+   "text": "Defter, kaptanın eşi Sarah Briggs'e aitmiş. Ve o defter hiçbir zaman mahkemeye sunulmamış."
+  },
+  {
+   "scene": "d1",
+   "text": "Yirmi üç Kasım. Bu gece ambardan bir ses geldi. Biri fıçılara içeriden vuruyor gibiydi.",
+   "voice": "sarah",
+   "fx": "memory",
+   "sfx": "knock"
+  },
+  {
+   "scene": "search",
+   "text": "Tayfalar fenerlerle aşağı iniyor. Fıçıları tek tek dinliyorlar. Ses kesiliyor."
+  },
+  {
+   "scene": "barrel_wet",
+   "text": "Ama fıçılardan birinin dışından, içeriden sızmış gibi... deniz suyu damlıyor."
+  },
+  {
+   "scene": "d2",
+   "text": "Yirmi dört Kasım. Deniz durdu. Rüzgâr yok, dalga yok. Benjamin pusulanın durmadan döndüğünü söylüyor.",
+   "voice": "sarah",
+   "fx": "memory"
+  },
+  {
+   "scene": "calm",
+   "text": "Okyanusun ortasında su, bir cam gibi dümdüz oluyor. Yelkenler tek bir kıpırtı olmadan sarkıyor."
+  },
+  {
+   "scene": "whisper",
+   "text": "Gemide artık kimse yüksek sesle konuşmuyor. Herkes fısıldıyor. Sanki biri onları dinliyormuş gibi."
+  },
+  {
+   "scene": "d3",
+   "text": "Sophia bütün gün küpeşteden suya bakıyor. Su altındaki kızla oynadığını söylüyor.",
+   "voice": "sarah",
+   "fx": "memory"
+  },
+  {
+   "scene": "lean",
+   "text": "Sarah da eğilip bakıyor. Suyun yüzeyinde yansımalarını görüyor..."
+  },
+  {
+   "scene": "below",
+   "text": "...ama bu bir yansıma değil. Suyun altında, ters dönmüş ikinci bir Mary Celeste duruyor.",
+   "sfx": "sting",
+   "pad": 1.2
+  },
+  {
+   "scene": "figures",
+   "text": "Ve o geminin güvertesinde, baş aşağı... insanlar duruyor. Yukarıya, onlara bakıyorlar."
+  },
+  {
+   "scene": "d4",
+   "text": "Aşağıdaki gemide bir adam var. Yüzü aşçımızın yüzü. Ama aşçımız şu an mutfakta.",
+   "voice": "sarah",
+   "fx": "memory"
+  },
+  {
+   "scene": "cook",
+   "text": "O gece aşçı, kimseye bir şey söylemeden kamarasından çıkıyor. Ve bir daha görülmüyor.",
+   "sfx": "steps"
+  },
+  {
+   "scene": "cook_bed",
+   "text": "Ranzası hâlâ sıcak. Ve kamaranın kapısı... içeriden sürgülü.",
+   "pad": 0.8
+  },
+  {
+   "scene": "count",
+   "text": "Ertesi sabah aşağıdaki gemide iki kişi var. Sonraki gün... dört."
+  },
+  {
+   "scene": "helmsman",
+   "text": "Dümenci gece nöbetinde suya bakmamak için gözlerini bağlıyor. Sabah, bez güvertede duruyor. Kendisi yok.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "names",
+   "text": "Geceleri sudan isimler fısıldanıyor. Her gece başka bir isim. Ve çağrılan, sabaha karşı yok oluyor.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "sophia_night",
+   "text": "Bir gece Sophia'nın yatağı boş bulunuyor. Sarah onu küpeştenin dibinde, suya eğilmiş... gülerken buluyor."
+  },
+  {
+   "scene": "d5",
+   "text": "Benjamin artık uyumuyor. Herkesi filikaya bindireceğini, bu gemiden uzaklaşacağımızı söylüyor.",
+   "voice": "sarah",
+   "fx": "memory"
+  },
+  {
+   "scene": "lastlog",
+   "text": "Yirmi beş Kasım sabahı, Kaptan Briggs seyir defterine son kaydını düşüyor. Sıradan, sakin bir cümle."
+  },
+  {
+   "scene": "why",
+   "text": "Belki okuyanlar korkmasın diye. Belki de... aşağıdakiler de okuyabildiği için."
+  },
+  {
+   "scene": "lower",
+   "text": "Filika suya indiriliyor. Geriye kalan herkes içine biniyor. Sarah defterini almayı unutuyor."
+  },
+  {
+   "scene": "steps_above",
+   "text": "Gemi artık bomboş. Ama filikadakiler, güvertede yürüyen ayak seslerini duymaya devam ediyor.",
+   "sfx": "steps"
+  },
+  {
+   "scene": "rope",
+   "text": "Filikayı gemiye bağlayan uzun bir ip varmış. Gemiyi bırakmak istememişler. Sadece... ondan biraz uzaklaşmak."
+  },
+  {
+   "scene": "d6",
+   "text": "Son sayfa. Sophia suya el sallıyor. Aşağıdaki kız da ona el sallıyor. Aşağıdaki kız... Sophia.",
+   "voice": "sarah",
+   "fx": "memory",
+   "pad": 1.5
+  },
+  {
+   "scene": "blank",
+   "text": "Defterin geri kalanı boş.",
+   "pad": 1.5
+  },
+  {
+   "scene": "frayed",
+   "text": "Dei Gratia mürettebatı bulduğunda, o ipin ucu küpeşteden suya sarkıyormuş. Kesilmemiş... kopmuş. Sanki aşağıdan çekilmiş gibi.",
+   "sfx": "sting",
+   "pad": 1.2
+  },
+  {
+   "scene": "deathbed",
+   "text": "Gemiye çıkan üç adamdan biri, yıllar sonra ölüm döşeğinde bir şey anlatmış."
+  },
+  {
+   "scene": "saw",
+   "text": "Mary Celeste'in yanına yanaştıklarında suya bakmış. Ve suyun altında bir gemi görmüş."
+  },
+  {
+   "scene": "ten",
+   "text": "Güvertesinde on kişi duruyormuş. Biri küçük bir kızmış. Ve hepsi, yukarıya... ona bakıyormuş.",
+   "sfx": "heart",
+   "pad": 1.2
+  },
+  {
+   "scene": "mirrors",
+   "text": "O adam ömrünün geri kalanında bir daha denize açılmamış. Evindeki bütün aynaları ve su kovalarını ters çevirtmiş."
+  },
+  {
+   "scene": "cursed",
+   "text": "Mary Celeste sonraki on üç yıl boyunca el değiştirdi. Ona lanetli gemi demeye başladılar."
+  },
+  {
+   "scene": "haiti",
+   "text": "1885'te son kaptanı, gemiyi Haiti açıklarında bir resife bilerek bindirdi. Sigorta parası için.",
+   "sfx": "stone"
+  },
+  {
+   "scene": "sink",
+   "text": "Ve Mary Celeste, sonunda okyanusa gömüldü."
+  },
+  {
+   "scene": "fishermen",
+   "text": "O gün resifin yakınındaki balıkçılar, batan geminin hemen altında, yukarıya doğru yükselen ikinci bir gemi gördüklerini söylediler."
+  },
+  {
+   "scene": "never",
+   "text": "Mary Celeste'in mürettebatı hiçbir zaman bulunmadı. Çünkü belki de... hiçbir zaman gitmediler.",
+   "pad": 1.2
+  },
+  {
+   "scene": "you",
+   "text": "Bir gün açık denizde, durgun suya eğilip baktığında... yansımanı say."
+  },
+  {
+   "scene": "finale",
+   "text": "Eğer orada bir kişi fazlaysa, hemen uzaklaş. Çünkü aşağıdaki gemi... hâlâ mürettebat topluyor.",
+   "sfx": "sting",
+   "pad": 4.0
+  }
+ ],
+ "pad_default": 0.35,
+ "max_stretch": 1.6,
+ "music": [
+  {
+   "file": "01.wav",
+   "from": "title"
+  },
+  {
+   "file": "02.wav",
+   "from": "found"
+  },
+  {
+   "file": "03.wav",
+   "from": "lean"
+  },
+  {
+   "file": "04.wav",
+   "from": "cursed"
+  }
+ ]
+}

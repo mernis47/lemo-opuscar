@@ -1,0 +1,103 @@
+{
+ "id": "hogel_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "whoosh_cuts": true,
+ "pad_default": 0.25,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "h01",
+   "text": "Nachtschicht. Auf der Intensivstation ist alles ruhig. Doch ein Pfleger schaut auf seine Uhr.",
+   "img": "../hogel/img/h01.png"
+  },
+  {
+   "scene": "h02",
+   "text": "Gleich wird das Herz eines Patienten stehen bleiben. Und außer ihm weiß es niemand.",
+   "img": "../hogel/img/h02.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "h03",
+   "text": "Der Alarm geht los. Die Ärzte rennen. Doch dieser Pfleger ist als Erster am Bett.",
+   "img": "../hogel/img/h03.png",
+   "sfx": "sting"
+  },
+  {
+   "scene": "h04",
+   "text": "Manchmal holt er den Patienten zurück ins Leben. Alle halten ihn für einen Helden.",
+   "img": "../hogel/img/h04.png",
+   "fy": 0.3,
+   "fz": 1.45
+  },
+  {
+   "scene": "h05",
+   "text": "Sein Name: Niels Högel. Ein Krankenpfleger an zwei Kliniken in Norddeutschland, in Oldenburg und Delmenhorst.",
+   "img": "../hogel/img/h05.png"
+  },
+  {
+   "scene": "h06",
+   "text": "Doch diese Herzstillstände waren kein Zufall. Högel gab seinen Patienten absichtlich Herzmedikamente.",
+   "img": "../hogel/img/h06.png",
+   "sfx": "sting"
+  },
+  {
+   "scene": "h07",
+   "text": "Warum? Laut Staatsanwaltschaft aus Langeweile. Und weil er bei der Wiederbelebung glänzen wollte.",
+   "img": "../hogel/img/h07.png"
+  },
+  {
+   "scene": "h08",
+   "text": "Als in der ersten Klinik die Todesfälle zunahmen, legte man ihm nahe zu gehen. Er bekam ein gutes Zeugnis. Und fing in einer neuen Klinik an.",
+   "img": "../hogel/img/h08.png"
+  },
+  {
+   "scene": "h09",
+   "text": "2005 sah eine Pflegekraft, wie er einem Patienten etwas spritzte.",
+   "img": "../hogel/img/h09.png",
+   "say": "Zweitausendfünf sah eine Pflegekraft, wie er einem Patienten etwas spritzte."
+  },
+  {
+   "scene": "h10",
+   "text": "Doch die Klinikleitung wartete zwei Tage. Und in diesen zwei Tagen starb noch ein Patient.",
+   "img": "../hogel/img/h10.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "h11",
+   "text": "Schließlich wurde er festgenommen. Doch an diesem Tag kannte man nur einen kleinen Teil der Wahrheit.",
+   "img": "../hogel/img/h11.png",
+   "fy": 0.38,
+   "fz": 1.3
+  },
+  {
+   "scene": "h12",
+   "text": "Die Polizei öffnete hundertvierunddreißig Gräber. Und die Erde begann, ihr jahrelang verborgenes Geheimnis zu erzählen.",
+   "img": "../hogel/img/h12.png",
+   "fy": 0.4,
+   "fz": 1.25,
+   "sfx": "sting"
+  },
+  {
+   "scene": "h13",
+   "text": "2019 fiel das Urteil: fünfundachtzig Morde. Lebenslange Haft.",
+   "img": "../hogel/img/h13.png",
+   "say": "Zweitausendneunzehn fiel das Urteil: fünfundachtzig Morde. Lebenslange Haft.",
+   "fy": 0.4,
+   "fz": 1.25
+  },
+  {
+   "scene": "h14",
+   "text": "Doch die wahre Zahl kennt niemand. Ein Teil der Opfer war eingeäschert worden. Ihre Geschichte wird nie erzählt werden.",
+   "img": "../hogel/img/h14.png"
+  },
+  {
+   "scene": "h15",
+   "text": "Die Hand, der du im Krankenhaus am meisten vertraust… kann manchmal die Hand sein, die dich tötet.",
+   "img": "../hogel/img/h15.png",
+   "crop": 1.08,
+   "sfx": "sting"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "id": "ep2",
+ "series": "KUYUNUN SESİ",
+ "number": 2,
+ "title": "Ayna",
+ "target": 180,
+ "lines": [
+  {
+   "scene": "title",
+   "text": "Kuyunun Sesi. İkinci bölüm: Ayna.",
+   "pad": 1.5
+  },
+  {
+   "scene": "dark",
+   "text": "Kuyunun dibinde zaman yok. Ne gece var, ne gündüz."
+  },
+  {
+   "scene": "water",
+   "text": "Ama suyun yüzeyi... bir ayna gibi parlıyor."
+  },
+  {
+   "scene": "reflection",
+   "text": "Suya bakıyorsun. Kendi yüzünü değil, ninenin evini görüyorsun."
+  },
+  {
+   "scene": "mirrorroom",
+   "text": "Evdeki eski aynanın içinden dışarıyı izliyorsun."
+  },
+  {
+   "scene": "walker",
+   "text": "Odada biri yürüyor. Senin ceketini giymiş.",
+   "sfx": "steps"
+  },
+  {
+   "scene": "face",
+   "text": "Aynaya dönüyor. Senin yüzün... ama gözleri bomboş."
+  },
+  {
+   "scene": "smile",
+   "text": "Sana gülümsüyor. Sen hiç böyle gülümsemedin.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "uncle",
+   "text": "Amcan geliyor. Ona sarılıyor... ve amcan hiçbir şey fark etmiyor."
+  },
+  {
+   "scene": "shout",
+   "text": "Bağırıyorsun. Ama aynanın içinden ses çıkmıyor."
+  },
+  {
+   "scene": "bus",
+   "text": "Ertesi gün o şey İstanbul'a, senin evine gidiyor."
+  },
+  {
+   "scene": "key",
+   "text": "Senin anahtarınla, senin kapını açıyor.",
+   "sfx": "creak"
+  },
+  {
+   "scene": "bathroom",
+   "text": "Banyodaki aynadan onu izliyorsun. Yüzünü yıkıyor... ve yüzü bir an kayıyor."
+  },
+  {
+   "scene": "phone",
+   "text": "Annen arıyor. O şey senin sesinle konuşuyor: İyiyim anne.",
+   "sfx": "ring"
+  },
+  {
+   "scene": "mother",
+   "text": "Annen gülüyor. Oğlunun döndüğünü sanıyor."
+  },
+  {
+   "scene": "clock",
+   "text": "Her gece saat üçte, o şey uyanıyor.",
+   "sfx": "tick"
+  },
+  {
+   "scene": "mirrors",
+   "text": "Evdeki bütün aynaların önünde tek tek duruyor."
+  },
+  {
+   "scene": "search",
+   "text": "Seni arıyor."
+  },
+  {
+   "scene": "hide",
+   "text": "Aynadan aynaya kaçıyorsun. Bu dünyada sadece aynalar kadar yer var.",
+   "sfx": "heart"
+  },
+  {
+   "scene": "crack",
+   "text": "Bir gece mutfaktaki aynayı yumruğuyla kırıyor.",
+   "sfx": "glass"
+  },
+  {
+   "scene": "shards",
+   "text": "Sen de kırılıyorsun. Her parçada başka bir anın var."
+  },
+  {
+   "scene": "whisper",
+   "text": "Kırık parçalardan birinden bir ses fısıldıyor:"
+  },
+  {
+   "scene": "gma",
+   "text": "Rojhat... aynalar kapıdır. Kırık ayna da açık kapıdır.",
+   "voice": "grandma",
+   "fx": "well"
+  },
+  {
+   "scene": "reach",
+   "text": "Çatlaktan elini uzatıyorsun."
+  },
+  {
+   "scene": "grab",
+   "text": "Ve o şeyin bileğini yakalıyorsun.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "pullin",
+   "text": "Onu aynaya doğru çekiyorsun. Bütün gücünle."
+  },
+  {
+   "scene": "floor",
+   "text": "Bir an sonra yerdesin. Ellerin... senin ellerin."
+  },
+  {
+   "scene": "look",
+   "text": "Kalkıp aynaya bakıyorsun. Yansıman sana bakıyor..."
+  },
+  {
+   "scene": "grin",
+   "text": "...ve sen gülümsemediğin halde, o gülümsüyor.",
+   "sfx": "sting",
+   "pad": 1.5
+  },
+  {
+   "scene": "door2",
+   "text": "Onu içeri hapsettin sanıyorsun. Ama bazı kapılar... iki yöne de açılır.",
+   "pad": 1.5
+  },
+  {
+   "scene": "next",
+   "text": "Üçüncü bölüm: Ölülerin Düğünü.",
+   "pad": 2.0
+  }
+ ]
+}

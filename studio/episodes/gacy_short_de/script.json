@@ -1,0 +1,70 @@
+{
+ "id": "gacy_short_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "s01",
+   "text": "Dieser Junge sagte: Ich bin gleich zurück. Er kam nie wieder.",
+   "img": "img/S05.jpg",
+   "move": "in",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s02",
+   "text": "Chicago, 11. Dezember 1978. Robert Piest, 15, jobbt in einer kleinen Apotheke.",
+   "img": "img/S04.jpg",
+   "move": "in",
+   "say": "Chicago, elfter Dezember neunzehnhundertachtundsiebzig. Robert Piest, fünfzehn, jobbt in einer kleinen Apotheke."
+  },
+  {
+   "scene": "s03",
+   "text": "Im Laden steht ein Bauunternehmer. Er sucht Jungen für einen Job. Gut bezahlt.",
+   "img": "img/S04.jpg",
+   "move": "right"
+  },
+  {
+   "scene": "s04",
+   "text": "Draußen im Auto wartet Roberts Mutter. Heute ist ihr Geburtstag.",
+   "img": "img/S06.jpg",
+   "move": "out"
+  },
+  {
+   "scene": "s05",
+   "text": "Robert geht hinaus in den Schnee. Zu dem Mann am schwarzen Auto.",
+   "img": "img/S05.jpg",
+   "move": "up",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s06",
+   "text": "Die Mutter wartet. Zehn Minuten. Zwanzig. Eine Stunde.",
+   "img": "img/S06.jpg",
+   "move": "in"
+  },
+  {
+   "scene": "s07",
+   "text": "Die Polizei findet den Bauunternehmer. Und in seinem Müll einen Zettel aus genau dieser Apotheke.",
+   "img": "img/S07.jpg",
+   "move": "in",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s08",
+   "text": "Dann öffnen die Ermittler die Luke zu seinem Kriechkeller.",
+   "img": "img/S03.jpg",
+   "move": "in",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s09",
+   "text": "Sein Name: John Wayne Gacy. Was sie dort unten fanden, erfährst du im langen Video. Folge Schattenchronik.",
+   "img": "img/S01.jpg",
+   "move": "in",
+   "sfx": "sting"
+  }
+ ]
+}

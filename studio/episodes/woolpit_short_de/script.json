@@ -1,0 +1,63 @@
+{
+ "id": "woolpit_short_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "s01",
+   "text": "Zwei Kinder kletterten aus einer Grube. Ihre Haut war grün.",
+   "img": "img/V01.jpg",
+   "move": "in",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s02",
+   "text": "England, um 1150. Erntezeit im Dorf Woolpit. Die Bauern schneiden das Korn.",
+   "img": "img/V02.jpg",
+   "move": "right",
+   "say": "England, um elfhundertfünfzig. Erntezeit im Dorf Woolpit. Die Bauern schneiden das Korn."
+  },
+  {
+   "scene": "s03",
+   "text": "Plötzlich hört einer ein Geräusch. Direkt aus einer alten Wolfsgrube.",
+   "img": "img/V03.jpg",
+   "move": "in",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s04",
+   "text": "Am Rand stehen ein Mädchen und ein kleiner Junge. Sie halten sich an den Händen.",
+   "img": "img/V01.jpg",
+   "move": "out"
+  },
+  {
+   "scene": "s05",
+   "text": "Sie sprechen eine Sprache, die niemand kennt. Kein Wort ist zu verstehen.",
+   "img": "img/V04.jpg",
+   "move": "in"
+  },
+  {
+   "scene": "s06",
+   "text": "Und rund um die Grube: keine Spuren. Kein Weg. Als wären sie direkt aus dem Boden gekommen.",
+   "img": "img/V05.jpg",
+   "move": "up",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s07",
+   "text": "Später sagt das Mädchen: Bei uns zu Hause geht die Sonne niemals auf.",
+   "img": "img/V06.jpg",
+   "move": "in",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s08",
+   "text": "Und wie sie hierher kamen? Das erfährst du im langen Video. Folge Schattenchronik.",
+   "img": "img/V07.jpg",
+   "move": "in"
+  }
+ ]
+}

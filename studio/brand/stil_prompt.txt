@@ -1,0 +1,7 @@
+Schattenchronik – görsel stil (her görsel isteminin sonuna ekle)
+
+16:9 widescreen moody hand-drawn comic illustration, clean ink outlines, painterly shading, cinematic lighting, muted desaturated palette, dark atmosphere. Bottom fifth darker for subtitles. No text.
+
+Ücretsiz araçta kullanım (Gemini / Bing Image Creator):
+1. Bir önceki videodan bir görseli referans olarak yükle (örn. episodes/bach_de/img/B05.jpg).
+2. Yaz: "Create an image in exactly the same style as this reference: <sahne açıklaması>. " + yukarıdaki stil satırı.

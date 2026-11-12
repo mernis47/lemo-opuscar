@@ -1,0 +1,98 @@
+{
+ "id": "zehir_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "whoosh_cuts": true,
+ "pad_default": 0.25,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "p01",
+   "text": "Weihnachten 1926. Die Flure des Bellevue-Krankenhauses in New York füllen sich plötzlich.",
+   "img": "../zehir/img/p01.png",
+   "say": "Weihnachten neunzehnhundertsechsundzwanzig. Die Flure des Bellevue-Krankenhauses in New York füllen sich plötzlich.",
+   "sfx": "sting"
+  },
+  {
+   "scene": "p02",
+   "text": "Sechzig Menschen werden eingeliefert. Alle hatten dasselbe getrunken. Acht von ihnen sterben in dieser Nacht.",
+   "img": "../zehir/img/p02.png",
+   "crop": 1.08,
+   "sfx": "heart"
+  },
+  {
+   "scene": "p03",
+   "text": "Vergiftet hatte sie kein Mörder. Sondern ihre eigene Regierung.",
+   "img": "../zehir/img/p03.png",
+   "crop": 1.08,
+   "sfx": "sting"
+  },
+  {
+   "scene": "p04",
+   "text": "1920 wurde in Amerika der Alkohol verboten. Aber die Menschen hörten nicht auf zu trinken.",
+   "img": "../zehir/img/p04.png",
+   "say": "Neunzehnhundertzwanzig wurde in Amerika der Alkohol verboten. Aber die Menschen hörten nicht auf zu trinken."
+  },
+  {
+   "scene": "p05",
+   "text": "Geheime Bars öffneten. Schmuggler begannen, Industriealkohol aus Fabriken zu stehlen.",
+   "img": "../zehir/img/p05.png"
+  },
+  {
+   "scene": "p06",
+   "text": "Dieser Alkohol wurde per Gesetz ohnehin vergiftet, damit niemand ihn trinkt. Doch die Chemiker der Schmuggler trennten das Gift ab und verkauften den Alkohol weiter.",
+   "img": "../zehir/img/p06.png"
+  },
+  {
+   "scene": "p07",
+   "text": "Die Regierung traf eine Entscheidung: mehr Gift.",
+   "img": "../zehir/img/p07.png"
+  },
+  {
+   "scene": "p08",
+   "text": "Der Methanolanteil wurde verdoppelt. Dazu kamen Kerosin, Benzin, Quecksilbersalze und Chloroform.",
+   "img": "../zehir/img/p08.png",
+   "crop": 1.08
+  },
+  {
+   "scene": "p09",
+   "text": "Es sollte abschrecken. Aber die Menschen ließen sich nicht abschrecken. Sie tranken weiter.",
+   "img": "../zehir/img/p09.png"
+  },
+  {
+   "scene": "p10",
+   "text": "Nur eine Woche nach Weihnachten, an Neujahr… starben an einem einzigen Tag einundvierzig Menschen.",
+   "img": "../zehir/img/p10.png",
+   "sfx": "heart"
+  },
+  {
+   "scene": "p11",
+   "text": "Manche erblindeten. Manche wachten nie wieder auf.",
+   "img": "../zehir/img/p11.png",
+   "crop": 1.08
+  },
+  {
+   "scene": "p12",
+   "text": "New Yorks oberster Gerichtsmediziner Charles Norris war außer sich. Für ihn trug die Regierung die moralische Verantwortung für diese Toten.",
+   "img": "../zehir/img/p12.png"
+  },
+  {
+   "scene": "p13",
+   "text": "Doch das Verbot blieb. Bis 1933.",
+   "img": "../zehir/img/p13.png",
+   "say": "Doch das Verbot blieb. Bis neunzehnhundertdreiunddreißig."
+  },
+  {
+   "scene": "p14",
+   "text": "Einigen Schätzungen zufolge kostete vergifteter Alkohol in diesen Jahren mindestens zehntausend Menschen das Leben.",
+   "img": "../zehir/img/p14.png"
+  },
+  {
+   "scene": "p15",
+   "text": "Eine Regierung füllte Gift in Flaschen, um ihre eigenen Bürger zu bestrafen. Und das Schlimmste: Alle wussten es.",
+   "img": "../zehir/img/p15.png",
+   "sfx": "sting"
+  }
+ ]
+}
