@@ -97,4 +97,6 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 - 12.11. 15:00 – Hinterkaifeck (hint_de + hint_short_de) – geplant in Metricool
 - 13.11. 05:00 – Dyatlov-Pass (dyat_de + dyat_short_de) – in Produktion (tools/run_episode.sh), Upload danach
 - 13.11. 15:00 – Gladbecker Geiseldrama (glad_de + glad_short_de) – in Warteschlange nach Dyatlov
-- Nächste Themen für die Nachtschicht: Der Spuk von Rosenheim (P1) + Du-Geschichte D1 "Die Nachricht um 3:07" (→ 14.11.), danach Anneliese Michel (P2) + Wilhelm Gustloff, dann D2 + Kaspar Hauser
+- Nacht 12./13.11. (→ 14.11.): K1 Gu-/Rattenkönig-Legende (05:00) + K2 Rattenjagd von Hanoi (15:00) – Wunsch: mit dem neuen Format starten
+- Danach weiter abwechselnd: P1 Rosenheim + D1 Nachricht um 3:07, dann K3 Kobra-Effekt + P2 Anneliese Michel, dann Gustloff + K4 Spatzenkampagne …
+- Alle zwei Wochen (Sonntag): Formate nach Zahlen gewichten – was am besten läuft, kommt öfter.
