@@ -1,0 +1,491 @@
+{
+ "id": "glad_de",
+ "lang": "de",
+ "style": "reel",
+ "widescreen": true,
+ "shots": true,
+ "pad_default": 0.55,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "g01",
+   "text": "Ein Geiselnehmer gibt Interviews. Mit der Pistole am Hals einer jungen Frau.",
+   "img": "img/G01.jpg",
+   "prompt": "A crowd of 1980s press photographers surrounding a car, a man inside holding a gun near a young woman, flashbulbs, West Germany, August 1988",
+   "sfx": "sting"
+  },
+  {
+   "scene": "g02",
+   "text": "Reporter halten ihm das Mikrofon hin. Die Polizei schaut zu.",
+   "img": "img/G02.jpg",
+   "prompt": "1980s journalists pushing microphones toward the open window of a car, police officers standing back helplessly"
+  },
+  {
+   "scene": "g03",
+   "text": "Zwei Tage später sind zwei junge Menschen tot.",
+   "img": "img/G03.jpg",
+   "prompt": "Two candles burning in the rain on a wet German street at night, 1988"
+  },
+  {
+   "scene": "g04",
+   "text": "Das ist das Geiseldrama von Gladbeck. Der Tag, an dem Deutschland lernte, wo die Grenzen des Journalismus liegen.",
+   "img": "img/G04.jpg",
+   "prompt": "A 1980s West German TV studio with monitors showing a hostage car, dramatic lighting"
+  },
+  {
+   "scene": "g05",
+   "text": "Gladbeck, Nordrhein-Westfalen. Dienstag, der 16. August 1988.",
+   "img": "img/G05.jpg",
+   "prompt": "A quiet 1980s West German small-town street in the Ruhr area, morning light, brick houses",
+   "say": "Gladbeck, Nordrhein-Westfalen. Dienstag, der sechzehnte August neunzehnhundertachtundachtzig."
+  },
+  {
+   "scene": "g06",
+   "text": "Kurz vor acht Uhr morgens betreten zwei maskierte Männer eine Filiale der Deutschen Bank.",
+   "img": "img/G06.jpg",
+   "prompt": "Two masked men with guns entering a small bank branch in the morning, 1988, no logos"
+  },
+  {
+   "scene": "g07",
+   "text": "Hans-Jürgen Rösner und Dieter Degowski. Beide vorbestraft.",
+   "img": "img/G07.jpg",
+   "prompt": "Two rough-looking men in their thirties in 1980s clothes, one with a moustache, standing in a dim room, mugshot mood"
+  },
+  {
+   "scene": "g08",
+   "text": "Rösner ist einunddreißig. Er hat fast sein halbes Leben im Gefängnis verbracht.",
+   "img": "img/G08.jpg",
+   "prompt": "A man with a moustache staring out through prison bars, 1980s, hard expression"
+  },
+  {
+   "scene": "g09",
+   "text": "Degowski ist zweiunddreißig. Ein stiller Mann, der tut, was Rösner sagt.",
+   "img": "img/G09.jpg",
+   "prompt": "A quiet heavy-set man in a denim jacket sitting on a bed in a small apartment, 1988"
+  },
+  {
+   "scene": "g10",
+   "text": "Ihr Plan ist einfach: Geld holen und verschwinden. Doch nichts läuft nach Plan.",
+   "img": "img/G10.jpg",
+   "prompt": "A hand-drawn map of a small town with a bank marked, lying on a table next to a pistol and cigarettes"
+  },
+  {
+   "scene": "g11",
+   "text": "Sie nehmen zwei Bankangestellte als Geiseln.",
+   "img": "img/G11.jpg",
+   "prompt": "Two frightened bank employees with their hands raised behind a counter, 1980s bank interior"
+  },
+  {
+   "scene": "g12",
+   "text": "Ein Passant bemerkt etwas und ruft die Polizei. Schon nach wenigen Minuten ist das Gebäude umstellt.",
+   "img": "img/G12.jpg",
+   "prompt": "1980s West German police cars in green and white surrounding a small bank building"
+  },
+  {
+   "scene": "g13",
+   "text": "Doch statt aufzugeben, verlangen die Täter Geld und ein Fluchtauto.",
+   "img": "img/G13.jpg",
+   "prompt": "A man shouting through a bank door at police outside, holding a phone receiver"
+  },
+  {
+   "scene": "g14",
+   "text": "Und dann passiert etwas, das es so noch nie gegeben hat.",
+   "img": "img/G14.jpg",
+   "prompt": "A press van arriving at a crime scene, reporters jumping out with cameras, 1988"
+  },
+  {
+   "scene": "g15",
+   "text": "Journalisten rufen in der Bank an. Und die Geiselnehmer geben Interviews.",
+   "img": "img/G15.jpg",
+   "prompt": "A gunman holding a telephone to his ear inside a bank, grinning, a radio reporter on the other end"
+  },
+  {
+   "scene": "g16",
+   "text": "Live. Im Radio.",
+   "img": "img/G16.jpg",
+   "prompt": "An old 1980s radio on a kitchen table, a family listening in shock"
+  },
+  {
+   "scene": "g17",
+   "text": "Die Geiselnehmer genießen die Aufmerksamkeit. Rösner redet und redet.",
+   "img": "img/G17.jpg",
+   "prompt": "A man smoking and talking on a telephone inside a bank, feet on a desk, cocky"
+  },
+  {
+   "scene": "g18",
+   "text": "Draußen sammeln sich Schaulustige. Manche bringen Kaffee und Kuchen mit.",
+   "img": "img/G18.jpg",
+   "prompt": "Curious onlookers behind police tape in front of a bank, some with coffee cups, 1988"
+  },
+  {
+   "scene": "g19",
+   "text": "Stunde um Stunde vergeht. Die Polizei verhandelt am Telefon.",
+   "img": "img/G19.jpg",
+   "prompt": "A police negotiator in a car with a phone, sweating, a clock on the dashboard"
+  },
+  {
+   "scene": "g20",
+   "text": "Sie hat Scharfschützen in Stellung gebracht. Aber sie bekommen keinen Befehl.",
+   "img": "img/G20.jpg",
+   "prompt": "A police sniper lying on a rooftop with a rifle, waiting, evening light"
+  },
+  {
+   "scene": "g21",
+   "text": "Am Abend bekommen sie, was sie wollen: dreihunderttausend Mark und einen weißen Audi.",
+   "img": "img/G21.jpg",
+   "prompt": "A white 1980s sedan parked in front of a bank at dusk, police watching from a distance"
+  },
+  {
+   "scene": "g22",
+   "text": "Mit den beiden Geiseln fahren sie davon. Die Polizei folgt. Aber sie greift nicht ein.",
+   "img": "img/G22.jpg",
+   "prompt": "A white car driving away at night followed at a distance by unmarked police cars, 1988 Germany"
+  },
+  {
+   "scene": "g23",
+   "text": "Die Täter fahren kreuz und quer durch Westdeutschland. Durch die Nacht.",
+   "img": "img/G23.jpg",
+   "prompt": "A white car on an empty German autobahn at night, headlights, rain"
+  },
+  {
+   "scene": "g24",
+   "text": "Sie halten an Tankstellen. Sie kaufen Zigaretten. Niemand hält sie auf.",
+   "img": "img/G24.jpg",
+   "prompt": "A gunman buying cigarettes at a 1980s petrol station at night, the cashier frozen"
+  },
+  {
+   "scene": "g25",
+   "text": "In Bremen steigt Rösners Freundin dazu. Marion Löblich.",
+   "img": "img/G25.jpg",
+   "prompt": "A young woman with 1980s permed hair getting into the back of a car on a city street at night"
+  },
+  {
+   "scene": "g26",
+   "text": "Sie ist Anfang dreißig. Und sie bleibt bis zum Ende bei ihm.",
+   "img": "img/G26.jpg",
+   "prompt": "A woman with permed hair smoking nervously in the back seat of a car, street lights passing"
+  },
+  {
+   "scene": "g27",
+   "text": "Am nächsten Abend, am 17. August, kapern sie in Bremen einen voll besetzten Linienbus.",
+   "img": "img/G27.jpg",
+   "prompt": "A gunman standing inside a crowded 1980s city bus at night, passengers terrified",
+   "say": "Am nächsten Abend, am siebzehnten August, kapern sie in Bremen einen voll besetzten Linienbus."
+  },
+  {
+   "scene": "g28",
+   "text": "Über dreißig Menschen sind jetzt in ihrer Gewalt.",
+   "img": "img/G28.jpg",
+   "prompt": "Frightened passengers in a bus at night, faces lit by street lights, seen through the windows"
+  },
+  {
+   "scene": "g29",
+   "text": "Und um den Bus herum: ein Meer aus Reportern.",
+   "img": "img/G29.jpg",
+   "prompt": "Dozens of 1980s journalists with cameras and microphones crowding around a city bus at night"
+  },
+  {
+   "scene": "g30",
+   "text": "Fotografen klettern auf Autos. Kameraleute stehen direkt an den Fenstern.",
+   "img": "img/G30.jpg",
+   "prompt": "Photographers standing on car roofs taking pictures of a bus, flashes lighting the night"
+  },
+  {
+   "scene": "g31",
+   "text": "Ein Reporter fragt den Geiselnehmer: Was wollen Sie tun, wenn die Polizei kommt?",
+   "img": "img/G31.jpg",
+   "prompt": "A reporter leaning into a bus door holding a microphone toward a gunman, tense"
+  },
+  {
+   "scene": "g32",
+   "text": "Rösner antwortet in die Kamera. Mit der Waffe in der Hand.",
+   "img": "img/G32.jpg",
+   "prompt": "A man holding a pistol talking into a TV camera through a bus window, menacing smile"
+  },
+  {
+   "scene": "g33",
+   "text": "Ganz Deutschland sieht zu. Live im Fernsehen.",
+   "img": "img/G33.jpg",
+   "prompt": "A 1980s living room with a family watching the hostage bus on a boxy TV, horrified"
+  },
+  {
+   "scene": "g34",
+   "text": "Die Reporter stellen Fragen wie bei einem Prominenten. Haben Sie Angst? Wie geht es den Geiseln?",
+   "img": "img/G34.jpg",
+   "prompt": "Several microphones with blank foam covers pushed into a bus doorway, a gunman answering"
+  },
+  {
+   "scene": "g35",
+   "text": "Manche reichen den Tätern sogar Getränke durch das Fenster.",
+   "img": "img/G35.jpg",
+   "prompt": "A reporter handing a can of soda through a bus window to a gunman, surreal scene"
+  },
+  {
+   "scene": "g36",
+   "text": "Die Polizei bleibt auf Abstand. Ihre Funksprüche werden von den Journalisten mitgehört.",
+   "img": "img/G36.jpg",
+   "prompt": "A journalist listening to a police radio scanner in a car, writing notes"
+  },
+  {
+   "scene": "g37",
+   "text": "Die Täter wissen dadurch immer, was die Polizei plant.",
+   "img": "img/G37.jpg",
+   "prompt": "A gunman in a bus listening to a small radio, smirking"
+  },
+  {
+   "scene": "g38",
+   "text": "An einer Raststätte wird Marion Löblich auf der Toilette von der Polizei festgenommen.",
+   "img": "img/G38.jpg",
+   "prompt": "A highway rest stop in 1980s Germany at night, police officers hurrying toward the restroom building"
+  },
+  {
+   "scene": "g39",
+   "text": "Die Geiselnehmer drehen durch. Sie verlangen ihre Freilassung.",
+   "img": "img/G39.jpg",
+   "prompt": "A furious gunman shouting inside a bus, passengers ducking, chaos"
+  },
+  {
+   "scene": "g40",
+   "text": "Degowski hält einem Jungen die Waffe an den Kopf. Emanuele de Giorgi. Fünfzehn Jahre alt.",
+   "img": "img/G40.jpg",
+   "prompt": "A frightened 15-year-old Italian boy in a bus seat, a shadowy gunman beside him, the weapon not shown pointing, tense",
+   "say": "Degowski hält einem Jungen die Waffe an den Kopf. Emanuele de Giorgi. Fünfzehn Jahre alt."
+  },
+  {
+   "scene": "g41",
+   "text": "Er versucht noch, seine kleine Schwester zu schützen.",
+   "img": "img/G41.jpg",
+   "prompt": "A teenage boy shielding his little sister with his arm in a bus seat, fear in his eyes"
+  },
+  {
+   "scene": "g42",
+   "text": "Dann fällt ein Schuss.",
+   "img": "img/G42.jpg",
+   "prompt": "A bus window at night with a sudden bright flash reflected in the glass, no gore"
+  },
+  {
+   "scene": "g43",
+   "text": "Emanuele stirbt. Vor laufenden Kameras wird die Freundin der Täter wieder freigelassen.",
+   "img": "img/G43.jpg",
+   "prompt": "Police officers releasing a young woman who walks back toward a bus, cameras flashing, grim mood"
+  },
+  {
+   "scene": "g44",
+   "text": "Die Hilfe für Emanuele kommt zu spät. Um den Bus herum herrscht Chaos.",
+   "img": "img/G44.jpg",
+   "prompt": "An ambulance stuck behind a crowd of onlookers and cars at night, blue light flashing"
+  },
+  {
+   "scene": "g45",
+   "text": "Der Bus fährt weiter. Über die Grenze in die Niederlande.",
+   "img": "img/G45.jpg",
+   "prompt": "A city bus driving on a dark motorway toward a border sign without text, 1988"
+  },
+  {
+   "scene": "g46",
+   "text": "Die niederländische Polizei bietet ein neues Fluchtauto an. Die Täter lassen fast alle Busgeiseln frei.",
+   "img": "img/G46.jpg",
+   "prompt": "Dutch police officers bringing a car to a bus parked on a motorway, passengers stepping out"
+  },
+  {
+   "scene": "g47",
+   "text": "Am nächsten Tag lassen die Täter den Bus zurück. Zwei Geiseln nehmen sie mit: die Bankangestellte und Silke Bischoff.",
+   "img": "img/G47.jpg",
+   "prompt": "Two young women being led toward a car by a gunman on a parking lot, morning light"
+  },
+  {
+   "scene": "g48",
+   "text": "Silke Bischoff ist achtzehn Jahre alt. Sie war nur auf dem Heimweg.",
+   "img": "img/G48.jpg",
+   "prompt": "An 18-year-old German woman with short blond hair sitting frightened in the back seat of a car",
+   "say": "Silke Bischoff ist achtzehn Jahre alt. Sie war nur auf dem Heimweg."
+  },
+  {
+   "scene": "g49",
+   "text": "Und dann kommt der Moment, der Deutschland erschüttert.",
+   "img": "img/G49.jpg",
+   "prompt": "A busy 1980s pedestrian zone in Cologne, crowds gathering around a car"
+  },
+  {
+   "scene": "g50",
+   "text": "Köln, Fußgängerzone. Mitten am Tag.",
+   "img": "img/G50.jpg",
+   "prompt": "A crowded Cologne shopping street in 1988, the cathedral spires in the background, a car surrounded by people"
+  },
+  {
+   "scene": "g51",
+   "text": "Das Fluchtauto hält. Und hunderte Schaulustige umringen es.",
+   "img": "img/G51.jpg",
+   "prompt": "Hundreds of curious onlookers pressing around a white car in a pedestrian zone"
+  },
+  {
+   "scene": "g52",
+   "text": "Reporter beugen sich ins Auto. Fotografen machen Bilder durch die Scheiben.",
+   "img": "img/G52.jpg",
+   "prompt": "Photographers pressing cameras against the windows of a car, flashes, chaos"
+  },
+  {
+   "scene": "g53",
+   "text": "Ein Bild geht um die Welt: Rösner hält Silke Bischoff die Pistole an den Hals.",
+   "img": "img/G53.jpg",
+   "prompt": "A gunman in the back seat holding a pistol close to a young woman's neck, seen through a car window, photojournalism style, no blood"
+  },
+  {
+   "scene": "g54",
+   "text": "Reporter fragen Silke Bischoff, wie es ihr geht. Während eine Waffe auf sie gerichtet ist.",
+   "img": "img/G54.jpg",
+   "prompt": "Close-up of a frightened young woman's eyes in a car, a microphone at the edge of the frame"
+  },
+  {
+   "scene": "g55",
+   "text": "Rösner spricht in die Kameras, als wäre er ein Star.",
+   "img": "img/G55.jpg",
+   "prompt": "A gunman in sunglasses talking into a TV camera from a car window, crowd behind"
+  },
+  {
+   "scene": "g56",
+   "text": "Ein Journalist steigt sogar ins Auto. Er will den Tätern den Weg aus der Stadt zeigen.",
+   "img": "img/G56.jpg",
+   "prompt": "A man in a 1980s jacket climbing into the passenger seat of a car while a crowd watches"
+  },
+  {
+   "scene": "g57",
+   "text": "Er sitzt neben bewaffneten Verbrechern. Und nennt es später: Recherche.",
+   "img": "img/G57.jpg",
+   "prompt": "A journalist sitting in the front seat of a car next to an armed man, nervous smile"
+  },
+  {
+   "scene": "g58",
+   "text": "Die Polizei ist da. Aber sie ist nicht in der Nähe.",
+   "img": "img/G58.jpg",
+   "prompt": "Police officers watching from a distance behind a corner, frustrated"
+  },
+  {
+   "scene": "g59",
+   "text": "Auf der Autobahn bei Bad Honnef greift die Polizei endlich zu. Ein Spezialkommando rammt den Wagen.",
+   "img": "img/G59.jpg",
+   "prompt": "A police car ramming a white sedan on a motorway, broken glass flying, dramatic action"
+  },
+  {
+   "scene": "g60",
+   "text": "Schüsse fallen.",
+   "img": "img/G60.jpg",
+   "prompt": "Smoke and flashes around a crashed car on a motorway, silhouettes of armed officers"
+  },
+  {
+   "scene": "g61",
+   "text": "Silke Bischoff wird von einer Kugel aus Rösners Waffe getroffen. Sie stirbt.",
+   "img": "img/G61.jpg",
+   "prompt": "An ambulance with blue lights on a motorway at dusk, paramedics running, no victim shown"
+  },
+  {
+   "scene": "g62",
+   "text": "Die Täter werden festgenommen. Nach vierundfünfzig Stunden ist es vorbei.",
+   "img": "img/G62.jpg",
+   "prompt": "Two handcuffed men being led away by police officers on a motorway, 1988"
+  },
+  {
+   "scene": "g63",
+   "text": "Drei Menschen sind tot. Auch ein Polizist kam bei einem Unfall während der Verfolgung ums Leben.",
+   "img": "img/G63.jpg",
+   "prompt": "A police cap on the wet road beside a crashed police car, rain, sorrowful mood"
+  },
+  {
+   "scene": "g64",
+   "text": "Und das ganze Land fragt sich: Wie konnte das passieren?",
+   "img": "img/G64.jpg",
+   "prompt": "A crowd of Germans reading newspapers at a kiosk, shocked faces, 1988"
+  },
+  {
+   "scene": "g65",
+   "text": "Warum hat die Polizei so lange gezögert?",
+   "img": "img/G65.jpg",
+   "prompt": "Police officials at a press conference behind a table with microphones, uncomfortable"
+  },
+  {
+   "scene": "g66",
+   "text": "Warum durften Reporter mit bewaffneten Geiselnehmern sprechen, ja sogar mit ihnen fahren?",
+   "img": "img/G66.jpg",
+   "prompt": "A TV journalist holding a microphone looking into the camera, ethically troubling atmosphere"
+  },
+  {
+   "scene": "g67",
+   "text": "Der Fall wird zu einem Wendepunkt für die deutsche Presse.",
+   "img": "img/G67.jpg",
+   "prompt": "A newspaper editorial office in the 1980s, editors arguing around a desk with front pages"
+  },
+  {
+   "scene": "g68",
+   "text": "Der Deutsche Presserat beschließt: Keine Interviews mit Geiselnehmern während einer Tat.",
+   "img": "img/G68.jpg",
+   "prompt": "A serious meeting of men and women in suits at a long table, documents, 1988"
+  },
+  {
+   "scene": "g69",
+   "text": "Bis heute lernen Journalisten an diesem Fall, was sie nicht tun dürfen.",
+   "img": "img/G69.jpg",
+   "prompt": "Journalism students in a lecture hall watching old footage on a screen"
+  },
+  {
+   "scene": "g70",
+   "text": "Rösner und Degowski werden zu lebenslanger Haft verurteilt. Marion Löblich zu neun Jahren.",
+   "img": "img/G70.jpg",
+   "prompt": "A German courtroom in 1991, two defendants sitting behind glass, judges in robes"
+  },
+  {
+   "scene": "g71",
+   "text": "Degowski wird 2018 entlassen, nach fast dreißig Jahren. Unter neuem Namen.",
+   "img": "img/G71.jpg",
+   "prompt": "A heavy prison door with a small window opening onto daylight, cold corridor",
+   "say": "Degowski wird zweitausendachtzehn entlassen, nach fast dreißig Jahren. Unter neuem Namen."
+  },
+  {
+   "scene": "g72",
+   "text": "Rösner bleibt noch länger hinter Gittern.",
+   "img": "img/G72.jpg",
+   "prompt": "An empty prison cell with a narrow window, a beam of light on the floor"
+  },
+  {
+   "scene": "g73",
+   "text": "Ein Untersuchungsausschuss stellt fest: Die Polizei hat schwere Fehler gemacht.",
+   "img": "img/G73.jpg",
+   "prompt": "A parliamentary committee hearing in a 1980s German state parliament, officials testifying"
+  },
+  {
+   "scene": "g74",
+   "text": "Doch kein einziger Beamter muss sich vor Gericht verantworten.",
+   "img": "img/G74.jpg",
+   "prompt": "A police chief leaving a building past reporters, avoiding their questions"
+  },
+  {
+   "scene": "g75",
+   "text": "Erst dreißig Jahre später entschuldigt sich das Land Nordrhein-Westfalen bei den Familien.",
+   "img": "img/G75.jpg",
+   "prompt": "An official placing a wreath at a memorial plaque in Gladbeck, 2018, solemn"
+  },
+  {
+   "scene": "g76",
+   "text": "Emanuele de Giorgi und Silke Bischoff wurden nur fünfzehn und achtzehn Jahre alt.",
+   "img": "img/G76.jpg",
+   "prompt": "Two framed photos of a teenage boy and a young woman with candles and flowers at a memorial"
+  },
+  {
+   "scene": "g77",
+   "text": "Ihre Familien sagen bis heute: Die Medien haben ihre Kinder benutzt.",
+   "img": "img/G77.jpg",
+   "prompt": "An older woman looking at a photo album at a kitchen table, quiet grief"
+  },
+  {
+   "scene": "g78",
+   "text": "Und jetzt frage ich dich: Wer trägt die größere Schuld – die Polizei, die zögerte, oder die Presse, die mitfuhr? Schreib es in die Kommentare.",
+   "img": "img/G78.jpg",
+   "prompt": "Split composition: police officers on one side, a crowd of reporters on the other, a car in the middle, dramatic"
+  },
+  {
+   "scene": "g79",
+   "text": "Und folge Schattenchronik für mehr wahre Geschichten.",
+   "img": "img/G79.jpg",
+   "prompt": "An empty motorway at night with blue police lights fading in the distance, final shot"
+  }
+ ]
+}

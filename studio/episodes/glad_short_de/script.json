@@ -1,0 +1,99 @@
+{
+ "id": "glad_short_de",
+ "lang": "de",
+ "style": "reel",
+ "shots": true,
+ "pad_default": 0.3,
+ "ambient_gain": 0.0,
+ "lines": [
+  {
+   "scene": "s01",
+   "text": "Ein Geiselnehmer gibt Interviews. Mit der Pistole am Hals einer jungen Frau.",
+   "img": "img/S01.jpg",
+   "prompt": "A crowd of 1980s press photographers surrounding a car, a man inside holding a gun near a young woman, flashbulbs",
+   "move": "right",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s02",
+   "text": "Deutschland, August 1988. Zwei Bankräuber nehmen Geiseln.",
+   "img": "img/S02.jpg",
+   "prompt": "Two masked men with guns inside a small 1980s bank, frightened employees",
+   "move": "up",
+   "say": "Deutschland, August neunzehnhundertachtundachtzig. Zwei Bankräuber nehmen Geiseln."
+  },
+  {
+   "scene": "s03",
+   "text": "Und die Reporter? Die rufen sie an. Und senden die Interviews live im Radio.",
+   "img": "img/S03.jpg",
+   "prompt": "A gunman holding a telephone inside a bank, grinning, an old radio broadcasting",
+   "move": "in"
+  },
+  {
+   "scene": "s04",
+   "text": "Sie kapern einen Bus. Über dreißig Geiseln.",
+   "img": "img/S04.jpg",
+   "prompt": "A gunman standing inside a crowded city bus at night, passengers terrified",
+   "move": "left",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s05",
+   "text": "Um den Bus herum: ein Meer aus Kameras.",
+   "img": "img/S05.jpg",
+   "prompt": "Dozens of 1980s journalists with cameras crowding around a bus at night, flashes",
+   "move": "out"
+  },
+  {
+   "scene": "s06",
+   "text": "Ein fünfzehnjähriger Junge versucht, seine kleine Schwester zu schützen.",
+   "img": "img/S06.jpg",
+   "prompt": "A teenage boy shielding his little sister with his arm in a bus seat, fear in his eyes",
+   "move": "in"
+  },
+  {
+   "scene": "s07",
+   "text": "Dann fällt ein Schuss.",
+   "img": "img/S07.jpg",
+   "prompt": "A bus window at night with a sudden bright flash reflected in the glass, no gore",
+   "move": "right",
+   "sfx": "sting"
+  },
+  {
+   "scene": "s08",
+   "text": "Doch die Jagd geht weiter. In der Kölner Fußgängerzone umringen hunderte Menschen das Fluchtauto.",
+   "img": "img/S08.jpg",
+   "prompt": "Hundreds of onlookers pressing around a white car in a 1988 Cologne pedestrian zone, cathedral spires behind",
+   "move": "up"
+  },
+  {
+   "scene": "s09",
+   "text": "Ein Journalist steigt sogar zu den Tätern ins Auto.",
+   "img": "img/S09.jpg",
+   "prompt": "A man in a 1980s jacket climbing into a car next to an armed man while a crowd watches",
+   "move": "in"
+  },
+  {
+   "scene": "s10",
+   "text": "Die Polizei schaut zu. Stunde um Stunde.",
+   "img": "img/S10.jpg",
+   "prompt": "Police officers watching helplessly from behind a corner",
+   "move": "left"
+  },
+  {
+   "scene": "s11",
+   "text": "Am Ende sind drei Menschen tot.",
+   "img": "img/S11.jpg",
+   "prompt": "Candles and flowers at a memorial on a wet street, two framed photos, night",
+   "move": "out",
+   "sfx": "heart"
+  },
+  {
+   "scene": "s12",
+   "text": "Wer trägt die Schuld? Die ganze Geschichte jetzt auf dem Kanal. Folge Schattenchronik.",
+   "img": "img/S12.jpg",
+   "prompt": "An empty motorway at night with blue police lights fading in the distance",
+   "move": "in"
+  }
+ ]
+}

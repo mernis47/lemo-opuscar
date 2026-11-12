@@ -50,3 +50,9 @@ Jedes lange Video endet mit einer Zuschauerfrage + „Folge Schattenchronik“. 
 ## Auswertung (jeden Sonntag)
 - Aufrufe, Likes, Kommentare, Wiedergabedauer pro Video.
 - Wenn ein Video nach 7 Tagen deutlich unter dem Kanal-Durchschnitt liegt: Hook (erste 3 Sek.) stärker, Titel/Kapak provokanter, Themenrichtung wechseln (mehr Mystery vs. True Crime).
+
+## Status (laufend aktualisieren)
+- 12.11. 15:00 – Hinterkaifeck (hint_de + hint_short_de) – geplant in Metricool
+- 13.11. 05:00 – Dyatlov-Pass (dyat_de + dyat_short_de) – in Produktion (tools/run_episode.sh), Upload danach
+- 13.11. 15:00 – Gladbecker Geiseldrama (glad_de + glad_short_de) – in Warteschlange nach Dyatlov
+- Nächste Themen für die Nachtschicht: Wilhelm Gustloff, Kaspar Hauser (→ 14.11.)
