@@ -51,6 +51,12 @@ Jedes lange Video endet mit einer Zuschauerfrage + „Folge Schattenchronik“. 
 - Aufrufe, Likes, Kommentare, Wiedergabedauer pro Video.
 - Wenn ein Video nach 7 Tagen deutlich unter dem Kanal-Durchschnitt liegt: Hook (erste 3 Sek.) stärker, Titel/Kapak provokanter, Themenrichtung wechseln (mehr Mystery vs. True Crime).
 
+## Zuschauerfrage (Erkenntnis 12.11.: beim Bachmeier-Video kam auf die Schlussfrage sofort ein Kommentar)
+- Jedes Video bekommt eine klare Streitfrage mit zwei Seiten (z. B. "Heldin oder Mörderin?", "Polizei oder Presse?").
+- Die Frage kommt dreimal: kurz im ersten Drittel ("Behalte diese Frage im Kopf: …"), am Ende gesprochen, und als erster Kommentar (Metricool firstCommentText) – dort mit zwei Antwort-Optionen.
+- Themen mit moralischem Dilemma oder offener Täterfrage bevorzugen (Selbstjustiz, Schuldfrage, ungelöste Fälle mit Verdächtigen).
+- Titel dürfen die Frage andeuten ("Hättest du es auch getan?").
+
 ## Status (laufend aktualisieren)
 - 12.11. 15:00 – Hinterkaifeck (hint_de + hint_short_de) – geplant in Metricool
 - 13.11. 05:00 – Dyatlov-Pass (dyat_de + dyat_short_de) – in Produktion (tools/run_episode.sh), Upload danach
