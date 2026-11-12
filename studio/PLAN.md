@@ -4,7 +4,7 @@
 - JEDEN TAG 2 lange Videos + 2 Shorts (Wunsch des Kanalbesitzers).
 - Produktion startet täglich 00:43 Berlin.
 - Upload: Video 1 um 05:00, Video 2 um 15:00 Berlin (Peak laut Metricool 16–17 Uhr, Di–Do am stärksten); Shorts je 3 Std. später. So testen wir beide Zeiten jeden Tag.
-- Bild-Sparmodus: ca. 1 Bild pro 2 Zeilen (≈55 Bilder/Video).
+- Bilder: mindestens ein eigenes Bild pro Zeile, Bilder wechseln ständig (Wunsch des Kanalbesitzers). Quellen: Gemini (falls verbunden) → Canva → ab 5.12. Artlist.
 - Fertige Videos (lang + Short) immer auch in den Chat schicken.
 
 ## Themen (Reihenfolge, anpassbar nach Zahlen)
