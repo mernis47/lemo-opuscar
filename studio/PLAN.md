@@ -51,6 +51,7 @@ Jedes lange Video endet mit einer Zuschauerfrage + „Folge Schattenchronik“. 
 ## Auswertung (jeden Sonntag)
 - Aufrufe, Likes, Kommentare, Wiedergabedauer pro Video.
 - Wenn ein Video nach 7 Tagen deutlich unter dem Kanal-Durchschnitt liegt: Hook (erste 3 Sek.) stärker, Titel/Kapak provokanter, Themenrichtung wechseln (mehr Mystery vs. True Crime).
+- Erkenntnis 13.11.: Mary Celeste ("Das Geisterschiff: Wo sind die 10 Menschen?") = 32 Aufrufe, andere 3–9. Titel IMMER als Rätsel/Neugier-Lücke: konkrete Zahl + offene Frage + mysteriöses Objekt/Ort. Kapak: ein klares Motiv + kurze Frage. Mehr ungelöste Rätsel/kuriose Mysterien.
 
 ## Paranormal (Wunsch des Kanalbesitzers: regelmäßig einbauen – mindestens jedes zweite Tag eines der beiden Videos)
 Streitfrage hier immer: "Echt oder Betrug?" / "Übernatürlich oder erklärbar?"
