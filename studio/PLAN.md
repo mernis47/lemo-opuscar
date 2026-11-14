@@ -107,6 +107,11 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 - Look (Nutzer 14.11.: nicht alles schwarz machen, Atmosphäre soll aus der Szene kommen): Farben bleiben, nur leichtes Kino-Grading + Vignette, Nebel/Mondlicht/Laternen-/Feuerlicht in den Szenen, leiser tiefer Drone unter der Stimme (--grade none / --nodrone zum Abschalten). Keine kindlichen Elemente (Herzen, Noten, „HAHA“) in dunklen Themen.
 - Metricool 14.11.: Rosenheim (+Short, 14.11. 15:00), Mary Toft Short (14.11. 19:00), Nachricht-Short (15.11. 05:00) als Entwurf geparkt (draft) – nicht veröffentlichen, später durch Animation ersetzen.
 
+## NUR SHORTS (Entscheidung Nutzer 14.11. abends)
+- Keine langen Videos mehr bis die Artlist-Kredite kommen (Erneuerung 05.12.2026). Dann lange Videos im Stil „runde weiße Köpfe“ mit Artlist-Bildern.
+- Bis dahin: täglich 5 eigenständige animierte Shorts (09/12/15/19/22 Uhr Berlin), direkt veröffentlichen. Ziel: Abonnenten.
+- Lange Animations-Videos Dyatlov und Emu bleiben als Entwurf in Metricool (nicht veröffentlichen).
+
 ## Status Animation (laufend)
 - 14.11.: Tanzwut lang (17:00) + Short (16:35) animiert veröffentlicht ✅ · Enfield-Poltergeist-Short (22:20) ✅
 - Nutzer 14.11.: „bu şekilde devam et, direkt at“ → fertige Videos direkt veröffentlichen. Farben NICHT abdunkeln (--grade none).
