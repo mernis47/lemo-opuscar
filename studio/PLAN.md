@@ -94,6 +94,15 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 - Themen mit moralischem Dilemma oder offener Täterfrage bevorzugen (Selbstjustiz, Schuldfrage, ungelöste Fälle mit Verdächtigen).
 - Titel dürfen die Frage andeuten ("Hättest du es auch getan?").
 
+## Neustart Animation (Entscheidung 14.11.)
+- Nutzer: alte Videos (KI-Bilder, wenig Bewegung) gefallen nicht → werden auf YouTube privat gestellt (macht der Nutzer in YouTube Studio).
+- Ab jetzt ALLES als 2D-Animation: runde weiße Köpfe, Punkt-Augen, echte Bewegung pro Satz (laufen, rennen, Effekte, Big-Text, Zähler, Stempel, Karten).
+  Werkzeug: tools/anim/lib.js (Figuren/Hintergründe/Overlays), episodes/<ep>/scenes.js (S[zeile]=(t,d)=>…), node tools/anim_render.js <ep> [--portrait] [--stills] [--nocap --at <t>].
+- Stimme energischer: SPEED=1.08 GUIDANCE=3.0 python3 tools/omni_voice.py <ep>; danach tools/build_audio.py <ep>.
+- Pro Tag: 1 neues Thema (lang + Short) · 1 Remake eines alten Themas (lang) · bis zu 3 eigenständige Shorts (09/12/19 Uhr).
+- Remake-Liste (Reihenfolge): Djatlow ✅ (15.11. 05:00) · Emu-Krieg (15.11. 15:00, ersetzt alte Version) · Mary Celeste · Rosenheim · Rattenkönig · Bachmeier · Hinterkaifeck · Woolpit · Gladiatoren · Gacy · Frost · Nachricht um 3:07 · Mary Toft (Short) · Tanzplage 1518.
+- Metricool 14.11.: Rosenheim (+Short, 14.11. 15:00), Mary Toft Short (14.11. 19:00), Nachricht-Short (15.11. 05:00) als Entwurf geparkt (draft) – nicht veröffentlichen, später durch Animation ersetzen.
+
 ## Status (laufend aktualisieren)
 - 12.11. 15:00 – Hinterkaifeck (hint_de + hint_short_de) – geplant in Metricool
 - 13.11. 05:00 – Dyatlov-Pass (dyat_de + dyat_short_de) – geplant in Metricool
