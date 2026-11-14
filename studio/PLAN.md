@@ -112,6 +112,10 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 - Bis dahin: täglich 5 eigenständige animierte Shorts (09/12/15/19/22 Uhr Berlin), direkt veröffentlichen. Ziel: Abonnenten.
 - Lange Animations-Videos Dyatlov und Emu bleiben als Entwurf in Metricool (nicht veröffentlichen).
 
+## Short-Themen (Twist-Ende, gesammelt 15.11.)
+Elisa Lam · Somerton Man (Tamam Shud) · Robert the Doll · Bell Witch · The Watcher · Dorothy Eady · Frédéric Bourdin (Chamäleon) · Mary Reeser · Tarrare · Ötzi (Pfeilspitze) · Hessdalen-Lichter · Bodom-See 1960 · Hinterkaifeck-Spuren (als Short)
+Erledigt: Yamaguchi ✅ (15.11. 00:20) · Enfield ✅ · Tanzwut ✅ · Karansebes · Sylbaris · Acoustic Kitty · Emu (15.11.)
+
 ## Status Animation (laufend)
 - 14.11.: Tanzwut lang (17:00) + Short (16:35) animiert veröffentlicht ✅ · Enfield-Poltergeist-Short (22:20) ✅
 - Nutzer 14.11.: „bu şekilde devam et, direkt at“ → fertige Videos direkt veröffentlichen. Farben NICHT abdunkeln (--grade none).
