@@ -104,8 +104,13 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 - ABO-ERKENNTNIS 14.11. (28 Tage, +5 Abos): je +1 von Tanzwut, „Er lebte über ihren Köpfen“ (Short), Djatlow, Todespfleger – alles dunkel/ungelöst/True Crime. Kurioses bringt Aufrufe, aber keine Abos.
   → Themen ab jetzt ~70 % dunkel (ungelöste Rätsel, True Crime, Paranormal), ~30 % Kurios. Eigenständige Shorts im Stil „Er lebte über ihren Köpfen“: gruselig, wahr, Neugier im ersten Satz.
   → Die 4 Abo-Videos erst privat stellen, wenn ihre Animations-Version online ist.
-- Look: Horror-Grading (entsättigt, kalt, Vignette, Licht-Flackern) + leiser tiefer Drone unter der Stimme = Standard im Renderer (--grade none / --nodrone zum Abschalten). Keine kindlichen Elemente (Herzen, Noten, „HAHA“) in dunklen Themen.
+- Look (Nutzer 14.11.: nicht alles schwarz machen, Atmosphäre soll aus der Szene kommen): Farben bleiben, nur leichtes Kino-Grading + Vignette, Nebel/Mondlicht/Laternen-/Feuerlicht in den Szenen, leiser tiefer Drone unter der Stimme (--grade none / --nodrone zum Abschalten). Keine kindlichen Elemente (Herzen, Noten, „HAHA“) in dunklen Themen.
 - Metricool 14.11.: Rosenheim (+Short, 14.11. 15:00), Mary Toft Short (14.11. 19:00), Nachricht-Short (15.11. 05:00) als Entwurf geparkt (draft) – nicht veröffentlichen, später durch Animation ersetzen.
+
+## Status Animation (laufend)
+- 14.11.: Tanzwut lang (17:00) + Short (16:35) animiert veröffentlicht ✅ · Enfield-Poltergeist-Short (22:20) ✅
+- Nutzer 14.11.: „bu şekilde devam et, direkt at“ → fertige Videos direkt veröffentlichen. Farben NICHT abdunkeln (--grade none).
+- In Arbeit: Dyatlov + Karansebes/Sylbaris/Kitty mit --grade none neu → Entwürfe in Metricool ersetzen; Emu (lang+Short) Stimme + Render.
 
 ## Status (laufend aktualisieren)
 - 12.11. 15:00 – Hinterkaifeck (hint_de + hint_short_de) – geplant in Metricool
