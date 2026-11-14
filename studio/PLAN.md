@@ -100,7 +100,11 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
   Werkzeug: tools/anim/lib.js (Figuren/Hintergründe/Overlays), episodes/<ep>/scenes.js (S[zeile]=(t,d)=>…), node tools/anim_render.js <ep> [--portrait] [--stills] [--nocap --at <t>].
 - Stimme energischer: SPEED=1.08 GUIDANCE=3.0 python3 tools/omni_voice.py <ep>; danach tools/build_audio.py <ep>.
 - Pro Tag: 1 neues Thema (lang + Short) · 1 Remake eines alten Themas (lang) · bis zu 3 eigenständige Shorts (09/12/19 Uhr).
-- Remake-Liste (Reihenfolge): Djatlow ✅ (15.11. 05:00) · Emu-Krieg (15.11. 15:00, ersetzt alte Version) · Mary Celeste · Rosenheim · Rattenkönig · Bachmeier · Hinterkaifeck · Woolpit · Gladiatoren · Gacy · Frost · Nachricht um 3:07 · Mary Toft (Short) · Tanzplage 1518.
+- Remake-Liste (Reihenfolge, nach Abo-Daten 14.11.): Djatlow ✅ (15.11. 05:00) · Emu-Krieg (15.11. 15:00) · Tanzplage 1518 (Tanzwut) · Högel (Todespfleger) · „Er lebte über ihren Köpfen“ (Short) · Mary Celeste · Rosenheim · Hinterkaifeck · Rattenkönig · Bachmeier · Gacy · Woolpit · Gladiatoren · Frost · Nachricht um 3:07 · Mary Toft (Short).
+- ABO-ERKENNTNIS 14.11. (28 Tage, +5 Abos): je +1 von Tanzwut, „Er lebte über ihren Köpfen“ (Short), Djatlow, Todespfleger – alles dunkel/ungelöst/True Crime. Kurioses bringt Aufrufe, aber keine Abos.
+  → Themen ab jetzt ~70 % dunkel (ungelöste Rätsel, True Crime, Paranormal), ~30 % Kurios. Eigenständige Shorts im Stil „Er lebte über ihren Köpfen“: gruselig, wahr, Neugier im ersten Satz.
+  → Die 4 Abo-Videos erst privat stellen, wenn ihre Animations-Version online ist.
+- Look: Horror-Grading (entsättigt, kalt, Vignette, Licht-Flackern) + leiser tiefer Drone unter der Stimme = Standard im Renderer (--grade none / --nodrone zum Abschalten). Keine kindlichen Elemente (Herzen, Noten, „HAHA“) in dunklen Themen.
 - Metricool 14.11.: Rosenheim (+Short, 14.11. 15:00), Mary Toft Short (14.11. 19:00), Nachricht-Short (15.11. 05:00) als Entwurf geparkt (draft) – nicht veröffentlichen, später durch Animation ersetzen.
 
 ## Status (laufend aktualisieren)
