@@ -112,6 +112,9 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 - Bis dahin: täglich 5 eigenständige animierte Shorts (09/12/15/19/22 Uhr Berlin), direkt veröffentlichen. Ziel: Abonnenten.
 - Lange Animations-Videos Dyatlov und Emu bleiben als Entwurf in Metricool (nicht veröffentlichen).
 
+## ERKENNTNIS 15.11. (Nutzer): Am meisten Aufmerksamkeit bekommen unbekannte, kuriose WAHRE Geschichten/Fakten aus der Geschichte („das wusste ich nicht“) – heute kennt die kaum jemand, sie wirken seltsam. → Shorts-Mix jetzt: ~60 % kuriose/unglaubliche wahre Geschichte mit Twist-Ende, ~40 % Paranormal/ungelöste Rätsel/True Crime.
+Weitere Themen (kurios, Twist): Londoner Bierflut 1814 · Schweinekrieg 1859 · Kometenpillen 1910 · Leichensynode (Papst Formosus 897) · 24 Kaninchen Australien · Kobra-Effekt · Melasseflut Boston 1919 · New Englands Dunkler Tag 1780 · Tunguska 1908 · Karl VI., der „Glaskönig“.
+
 ## Short-Themen (Twist-Ende, gesammelt 15.11.)
 Elisa Lam · Somerton Man (Tamam Shud) · Robert the Doll · Bell Witch · The Watcher · Dorothy Eady · Frédéric Bourdin (Chamäleon) · Mary Reeser · Tarrare · Ötzi (Pfeilspitze) · Hessdalen-Lichter · Bodom-See 1960 · Hinterkaifeck-Spuren (als Short)
 Erledigt: Yamaguchi ✅ (15.11. 00:20) · Enfield ✅ · Tanzwut ✅ · Karansebes · Sylbaris · Acoustic Kitty · Emu (15.11.)
