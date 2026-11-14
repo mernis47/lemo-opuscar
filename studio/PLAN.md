@@ -115,6 +115,12 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 ## ERKENNTNIS 15.11. (Nutzer): Am meisten Aufmerksamkeit bekommen unbekannte, kuriose WAHRE Geschichten/Fakten aus der Geschichte („das wusste ich nicht“) – heute kennt die kaum jemand, sie wirken seltsam. → Shorts-Mix jetzt: ~60 % kuriose/unglaubliche wahre Geschichte mit Twist-Ende, ~40 % Paranormal/ungelöste Rätsel/True Crime.
 Weitere Themen (kurios, Twist): Londoner Bierflut 1814 · Schweinekrieg 1859 · Kometenpillen 1910 · Leichensynode (Papst Formosus 897) · 24 Kaninchen Australien · Kobra-Effekt · Melasseflut Boston 1919 · New Englands Dunkler Tag 1780 · Tunguska 1908 · Karl VI., der „Glaskönig“.
 
+## SERIE „30 Nächte, 50.000 €“ (Nutzer-Idee 15.11.: Horror-Job mit Riesengehalt + Regeln → viele Kommentare)
+- Fiktive Du-Geschichte, jede Folge endet mit Cliffhanger + „Teil X kommt bald. Folge Schattenchronik“. Beschreibung: „Fiktive Geschichte“.
+- Teil 1 ✅ 15.11. 00:55: leeres Berghotel, 3 Regeln (nie 3. Stock · Telefon um 3 Uhr nicht abnehmen · Klopfen + Name: schweigen). Nacht 4 Telefon, Nacht 9 Licht im 3. Stock, Nacht 12 Klopfen mit Stimme des Hausmeisters → SMS vom Hausmeister: „Ich bin seit gestern in der Stadt. Wer klopft da?“
+- Teil 2 (nächster Tag, 19:00 oder 22:00): Tür bleibt zu; am Morgen Fußspuren im Staub vor der Tür, die zum 3. Stock führen; neue Regel taucht auf dem Zettel auf (Regel 4, andere Handschrift). Cliffhanger.
+- Danach täglich eine Folge, bis Nacht 30 (Finale mit Twist). Weitere Job-Serien möglich (z. B. Leuchtturmwärter, Nachtschicht im Wachsfigurenkabinett).
+
 ## Short-Themen (Twist-Ende, gesammelt 15.11.)
 Elisa Lam · Somerton Man (Tamam Shud) · Robert the Doll · Bell Witch · The Watcher · Dorothy Eady · Frédéric Bourdin (Chamäleon) · Mary Reeser · Tarrare · Ötzi (Pfeilspitze) · Hessdalen-Lichter · Bodom-See 1960 · Hinterkaifeck-Spuren (als Short)
 Erledigt: Yamaguchi ✅ (15.11. 00:20) · Enfield ✅ · Tanzwut ✅ · Karansebes · Sylbaris · Acoustic Kitty · Emu (15.11.)
