@@ -89,7 +89,7 @@ Format: Thema – Hook · Twist/Pointe. ✅ = produziert. Unsichere Details im S
 77. Das „Gift“ im Radio: Krieg der Welten (1938) – Panik wegen eines Hörspiels · (die Panik war kleiner als behauptet).
 78. Karl VI., der Glaskönig – hielt sich für zerbrechlich · ließ Eisenstangen in seine Kleidung nähen.
 79. Der Zar, der Bärte besteuerte (Peter der Große) – Bartsteuer · mit Quittungs-Medaille.
-80. Die Fensterscheiben-Steuer? Fenstersteuer in England – Menschen mauerten Fenster zu · daher „Tageslicht-Raub“.
+80. Die Fenstersteuer in England – Menschen mauerten Fenster zu · daher „Tageslicht-Raub“.
 81. Das Gesetz gegen Hosen für Frauen in Paris – galt bis 2013.
 82. Caligulas Pferd Incitatus – sollte Konsul werden (Legende).
 83. Die Pinkelsteuer (Kaiser Vespasian) – „Geld stinkt nicht“ · Urin war wertvoll für Gerber.
