@@ -123,7 +123,7 @@ Weitere Themen (kurios, Twist): Londoner Bierflut 1814 · Schweinekrieg 1859 · 
 
 ## Short-Themen (Twist-Ende, gesammelt 15.11.)
 Elisa Lam · Somerton Man (Tamam Shud) · Robert the Doll · Bell Witch · The Watcher · Dorothy Eady · Frédéric Bourdin (Chamäleon) · Mary Reeser · Tarrare · Ötzi (Pfeilspitze) · Hessdalen-Lichter · Bodom-See 1960 · Hinterkaifeck-Spuren (als Short)
-Erledigt: Yamaguchi ✅ (15.11. 00:20) · Enfield ✅ · Tanzwut ✅ · Karansebes · Sylbaris · Acoustic Kitty · Emu (15.11.)
+Erledigt: 16.11.: Kometenpillen/Mark Twain 09 · Bierflut 12 · Dorothy Eady 15 · Leichensynode 19 · Robert the Doll 22 ✅ · Serie Teil 2 ✅ (15.11. 22:00) · Yamaguchi ✅ (15.11. 00:20) · Enfield ✅ · Tanzwut ✅ · Karansebes · Sylbaris · Acoustic Kitty · Emu (15.11.)
 
 ## Status Animation (laufend)
 - 14.11.: Tanzwut lang (17:00) + Short (16:35) animiert veröffentlicht ✅ · Enfield-Poltergeist-Short (22:20) ✅
