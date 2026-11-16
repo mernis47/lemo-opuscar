@@ -109,6 +109,8 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 
 ## SPÄTER (Nutzer 15.11.): Shorts zu langen Videos zusammenschneiden – aber schöner und mit Aktion (keine stehenden Bilder). Jetzt NICHT, erst Abonnenten sammeln.
 
+## UPLOAD MANUELL (16.11.): Metricool-Kontolimit erreicht (Kitty 15.11. 19:00 + Onoda 22:00 → ERROR). Nutzer lädt selbst hoch („bana ver ben atacağım“). Ich liefere täglich Videos + YUKLEME_<TAG>KASIM.txt in output/_manuell/ per SendUserFile. 16.11.-Posts in Metricool auf Entwurf gesetzt.
+
 ## NUR SHORTS (Entscheidung Nutzer 14.11. abends)
 - Keine langen Videos mehr bis die Artlist-Kredite kommen (Erneuerung 05.12.2026). Dann lange Videos im Stil „runde weiße Köpfe“ mit Artlist-Bildern.
 - Bis dahin: täglich 5 eigenständige animierte Shorts (09/12/15/19/22 Uhr Berlin), direkt veröffentlichen. Ziel: Abonnenten.
