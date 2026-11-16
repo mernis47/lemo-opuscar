@@ -109,6 +109,8 @@ K12. Projekt "Acoustic Kitty" – die CIA baut eine Spionage-Katze
 
 ## SPÄTER (Nutzer 15.11.): Shorts zu langen Videos zusammenschneiden – aber schöner und mit Aktion (keine stehenden Bilder). Jetzt NICHT, erst Abonnenten sammeln.
 
+## KOMÖDIE-REGEL (Nutzer 16.11.): bei Comedy-Shorts KEIN Horror-Sting am Anfang (sfx aus script.json entfernen), kein Drone (--nodrone), fröhliche Farben. Untertitel Shorts bei 63 % Höhe (YouTube-UI verdeckt unten).
+
 ## UPLOAD MANUELL (16.11.): Metricool-Kontolimit erreicht (Kitty 15.11. 19:00 + Onoda 22:00 → ERROR). Nutzer lädt selbst hoch („bana ver ben atacağım“). Ich liefere täglich Videos + YUKLEME_<TAG>KASIM.txt in output/_manuell/ per SendUserFile. 16.11.-Posts in Metricool auf Entwurf gesetzt.
 
 ## NUR SHORTS (Entscheidung Nutzer 14.11. abends)
